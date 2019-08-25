@@ -1,5 +1,4 @@
-#EXTM3U  url-tvg="http://www.teleguide.info/download/new3/jtv.zip" cache=1000 deinterlace=1 audio-track=ru m3uautoload=1#EXTINF:0, Discovery Science HD#EXTINF:0,BTV#EXTINF:10,https://vk.com/free_iptv_ru
-#EXTVLCOPT:network-caching=1000
+#EXTM3U
 http://free-iptv.ru/iptv/error/logo_pl.png
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
 http://185.93.3.83:5010/play/a00b
