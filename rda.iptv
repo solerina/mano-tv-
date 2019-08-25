@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
-http://185.93.3.83:5010/play/a00b
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
 http://ruip.tv/2214/video.m3u8?token=u06qiW
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
 https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
@@ -175,7 +173,7 @@ http://31.148.6.4:8020/19_ch
 http://46.32.68.167/s/live/816/86.169.51.136/1/0.m3u8
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw1500000/variant.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,#EXTVLCOPT:network-c6aching=1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
 rtmp://89.107.113.89:1935/live/ktv3
