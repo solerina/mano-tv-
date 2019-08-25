@@ -1,5 +1,4 @@
 #EXTM3U
-http://free-iptv.ru/iptv/error/logo_pl.png
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
 http://185.93.3.83:5010/play/a00b
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
