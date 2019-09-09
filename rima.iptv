@@ -5,3 +5,11 @@ http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 http://88.119.220.2/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
 #EXTINF: -1, „TV Premium“
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF: -1, LNK
+https://185.176.117.242/live/eds/LNK/HLS_encr/index.m3u8
+#EXTINF: -1, Kidzone
+https://185.176.117.242/live/eds/Kidzone/HLS_encr/index.m3u8
+#EXTINF: -1 ViasatHistoryHD
+https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+#EXTINF: -1, „Viasat Explorer HD“
+https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
