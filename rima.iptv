@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF: -1, Epinė drama
+http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF: -1, Kidzone
+http://88.119.220.2/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+#EXTINF: -1, „TV Premium“
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
