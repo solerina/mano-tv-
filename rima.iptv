@@ -37,3 +37,13 @@ http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/278.m3u8
  http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1846
  #EXTINF: -1, TV1 
  http://213.234.9.46:7088/udp/239.1.10.32:1234
+ #EXTINF: -1, ETV 2
+ http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/1052/index.m3u8
+ #EXTINF: -1 , Kanala 
+ http://85.112.114.11:8086/udp/233.170.170.79:58631
+ #EXTINF: -1, „Kanal 11
+ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+ #EXTINF: -1, ETV 2
+ http://85.143.202.116/hls/viva.m3u8
+ #EXTINF: -1, E
+ http://188.35.9.11:21151/udp/188k
