@@ -27,3 +27,13 @@ http://188.35.9.10:2021
 https://hls.goodgame.ru/hls/169041.m3u8
 #EXTINF: -1, VIPz
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/278.m3u8
+ #EXTINF: -1, LTV7
+ http://hls.goodgame.ru/hls/130048.m3u8
+ #EXTINF: -1, „Info TV“
+ http://hls.goodgame.ru/hls/5346.m3u8
+ #EXTINF: -1, LIUKS!
+ http://hls.goodgame.ru/hls/12949.m3u8
+ #EXTINF: -1, LNK
+ http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1846
+ #EXTINF: -1, TV1 
+ http://213.234.9.46:7088/udp/239.1.10.32:1234
