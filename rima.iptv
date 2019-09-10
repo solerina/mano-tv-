@@ -17,3 +17,13 @@ https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 http://188.35.9.10:2022
 #EXTINF: -1, остросюжетное HD
 http://188.35.9.8:2015
+#EXTINF: -1, VIP Megahit HD
+http://188.35.9.10:2016
+#EXTINF: -1, VIP premjera 
+http://188.35.9.10:2013
+#EXTINF: -1, Шокирующее HD
+http://188.35.9.10:2021
+#EXTINF: -1, nėraa
+https://hls.goodgame.ru/hls/169041.m3u8
+#EXTINF: -1, VIPz
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/278.m3u8
