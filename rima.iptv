@@ -13,3 +13,7 @@ https://185.176.117.242/live/eds/Kidzone/HLS_encr/index.m3u8
 https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF: -1, „Viasat Explorer HD“
 https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF: -1, МУЖСКОЕ КИНО HD
+http://188.35.9.10:2022
+#EXTINF: -1, остросюжетное HD
+http://188.35.9.8:2015
