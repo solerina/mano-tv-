@@ -95,8 +95,6 @@ http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
 http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 #EXTINF: -1, „Kanāls 
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF: -1, LN
-http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8?version=2
 #EXTINF: -1, „Kanāls 
 http://tvport.it-tele.net:8000/3634cf69c57f97791f1b50ed2f79c9d2
 #EXTINF: -1, LV
