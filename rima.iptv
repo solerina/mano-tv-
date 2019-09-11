@@ -102,8 +102,6 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF: -1, „Kanal
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 #EXTINF: -1, TV1
-http://51.15.190.120:38099/duckhd/live.m3u8
-#EXTINF: -1, TV1
 http://v3.myowntv.org/content/35026/index.m3u8?seg-vkcom/iptv4.ts
 #EXTINF: -1, TV1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
