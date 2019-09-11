@@ -103,7 +103,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 #EXTINF: -1, TV1
 http://v3.myowntv.org/content/35026/index.m3u8?seg-vkcom/iptv4.ts
-#EXTINF: -1, TV1
+#EXTINF: -1,RASSIA 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF: -1, JK 
 http://tvport.it-tele.net:8000/ee50d00ab4eed80a5a841fb589e69a5a
@@ -111,33 +111,37 @@ http://tvport.it-tele.net:8000/ee50d00ab4eed80a5a841fb589e69a5a
 https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565199976/1e35f601a1ecd232861199731ef58c2d/playlist.m3u8
 #EXTINF: -1, JK
 http://dmitry-tv.ru/his/CH_TNTMUSICHD.m3u8
-#EXTINF: -1, JK | 2
+#EXTINF: -1, TVPLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
-#EXTINF: -1, JK
+#EXTINF: -1, TV6
 http://88.216.8.122:8080/tv6/index.m3u8
-#EXTINF: -1, JK
+#EXTINF: -1, TV3
 http://88.216.8.122:8080/tv3/index.m3u8
-#EXTINF: -1, JK
+#EXTINF: -1, LNK
 http://88.216.8.122:8080/lnk/index.m3u8
-#EXTINF: -1, JK 
+#EXTINF: -1,LRT KULTURA
 http://88.216.8.122:8080/lrt_kultura/index.m3u8
-#EXTINF: -1, JK 
+#EXTINF: -1,LRT TV
 http://88.216.8.122:8080/lrt_televizija/index.m3u8
-#EXTINF: -1, JK 
+#EXTINF: -1,KIDZONE
 http://88.216.8.122:8080/kidzone/index.m3u8
-#EXTINF: -1, JK
+#EXTINF: -1, INIT
 http://88.216.8.122:8080/init_tv/index.m3u8
-#EXTINF: -1, JK 
+#EXTINF: -1, INFO TV
 http://88.216.8.122:8080/info_tv/index.m3u8
-#EXTINF: -1, JK
+#EXTINF: -1,BTV
 http://88.216.8.122:8080/btv/index.m3u8
 #EXTINF: -1, JK 
 http://88.216.8.122:8080/balticum_auksinis/index.m3u8
-#EXTINF: -1, JK 
+#EXTINF: -1,BALTICUM LT
 http://88.216.8.122:8080/balticum/index.m3u8
-#EXTINF: -1, JK |
+#EXTINF: -1, TV3HD LT
 http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
-#EXTINF: -1, LTV7
+#EXTINF: -1, TV1000PREMIUM HD
 http://194.204.46.137/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF: -1, LTV1
+#EXTINF: -1,epic drama
 http://194.204.46.137/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF: -1, smailic.tvhd
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF: -1,sonny tv hd
+http://109.171.12.27:81/udp/239.54.7.128:1224
