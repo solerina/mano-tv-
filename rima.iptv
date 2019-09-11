@@ -46,22 +46,40 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF: -1, ETV 2
 http://85.143.202.116/hls/viva.m3u8
 #EXTINF: -1, E
-http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/131/index.m3u8
-#EXTINF: -1
-http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/132/index.m3u8
-#EXTINF: -1,
-http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/145/index.m3u8
-#EXTINF: -1
-http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/509/index.m3u8
-#EXTINF: -1, „
-http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/912/index.m3u8
-#EXTINF: -1, „Info
-http://b80e31b0.kazmazpaz.org/iptv/3XZ376R3C9MC6X/224/index.m3u8
-#EXTINF: -1, „In
-http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/125/index.m3u8
-#EXTINF: -1, TV6
-http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/148/index.m3u8
-#EXTINF: -1, TV
-http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/516/index.m3u8
-#EXTINF: -1, TV1 htt
-http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/164/index.m3u8
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1880
+#EXTINF: -1, EE
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2142
+#EXTINF: -1, EE
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2127
+#EXTINF: -1, Kanal
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2310
+#EXTINF: -1, ETV
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1870
+#EXTINF: -1, EE
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/110
+#EXTINF: -1, Kanala 1
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1439
+#EXTINF: -1, ET
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2062
+#EXTINF: -1, Kanala 12 [
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2186
+#EXTINF: -1, „Kanal
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/102
+#EXTINF: -1, EE
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/194
+#EXTINF: -1, ETV
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1136
+#EXTINF: -1, „Kanal 11
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2131
+#EXTINF: -1, „Kanal
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1966
+#EXTINF: -1, EE
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1992
+#EXTINF: -1, ETV 2
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2002
+#EXTINF: -1, „Kan
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2123
+#EXTINF: -1, ETV 2
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/141
+#EXTINF: -1, „K
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2323
