@@ -135,3 +135,29 @@ http://www.sansat.net:25461/jean1/jean1/22506
 http://www.sansat.net:25461/jean1/jean1/22509
 #EXTINF: -CTC HD
 http://151.80.59.206/TV/FLASH-TV/n/mac/747.m3u8
+#EXTINF:-1 zvezda hd
+http://livezvezda.cdnvideo.ru/zv/zvezda2.sdp/playlist.m3u8
+#EXTINF:-RUSIAN EXSTREM HD
+http://78.111.93.102:53022/udp/233.166.172.156:1234
+#EXTINF:KINO TV HD
+http://5.59.200.247:81/udp/239.72.6.119:1234
+#EXTINF:ROSTOV PAPA
+http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rostovpapa
+#EXTINF:-BRADZE TV CLASSIC
+http://82.193.152.182:81/udp/239.195.240.149:1234
+#EXTINF:-BRDGE TV DELIUX
+http://5.59.200.247:81/udp/239.72.4.95:1234
+#EXTINF:-music eu
+http://188.35.9.11:21031/udp/043m
+#EXTINF:-TNT 4
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-RASSIA BELARUS
+http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8?version=2
+#EXTINF:belarus 1
+http://178.124.183.13/hls/M52YG9EVYD/bw5000000/playlist.m3u8?version=2
+#EXTINF:-belarus 2
+http://178.124.183.13/hls/GCKYZGGFEJ/bw5000000/playlist.m3u8?version=2
+#EXTINF:belarus 3
+http://178.124.183.13/hls/TSNEW37RPC/bw5000000/playlist.m3u8?version=2
+#EXTINF:-izi ru
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
