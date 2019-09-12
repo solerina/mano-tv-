@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF: -1, Epinė drama
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF: -1, „TV Premium“
+#EXTINF: -1, „TV Premium HD
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF: -1, МУЖСКОЕ КИНО HD
 http://188.35.9.10:2022
@@ -13,60 +13,18 @@ http://188.35.9.10:2016
 http://188.35.9.10:2013
 #EXTINF: -1, Шокирующее HD
 http://188.35.9.10:2021
-#EXTINF: -1, nėraa
+#EXTINF: -1, vidio salon hd
 https://hls.goodgame.ru/hls/169041.m3u8
-#EXTINF: -1, VIPz
-http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/278.m3u8
-#EXTINF: -1,yu
+#EXTINF: -1,STR TV HD
 http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF: -1, „In
+#EXTINF: -1, ACUDIO TV
 http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF: -1, L
+#EXTINF: -1,ACUDJO 2
 http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF: -1 , Kana
+#EXTINF: -1 ,TV3HD RU
 http://85.112.114.11:8086/udp/233.170.170.79:58631
-#EXTINF: -1, „Kanal 11
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF: -1, ETV 2
 http://85.143.202.116/hls/viva.m3u8
-#EXTINF: -1, E
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1880
-#EXTINF: -1, EE
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2142
-#EXTINF: -1, EE
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2127
-#EXTINF: -1, Kanal
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2310
-#EXTINF: -1, ETV
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1870
-#EXTINF: -1, EE
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/110
-#EXTINF: -1, Kanala 1
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1439
-#EXTINF: -1, ET
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2062
-#EXTINF: -1, Kanala 12 [
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2186
-#EXTINF: -1, „Kanal
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/102
-#EXTINF: -1, EE
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/194
-#EXTINF: -1, ETV
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1136
-#EXTINF: -1, „Kanal 11
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2131
-#EXTINF: -1, „Kanal
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1966
-#EXTINF: -1, EE
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1992
-#EXTINF: -1, ETV 2
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2002
-#EXTINF: -1, „Kan
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2123
-#EXTINF: -1, ETV 2
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/141
-#EXTINF: -1, „K
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2323
 #EXTINF: -1, LV
 http://151.80.59.206/TV/FLASH-TV/n/mac/747.m3u8
 #EXTINF: -1, L
@@ -77,7 +35,7 @@ http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
 #EXTINF: -1, LV S
 http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
-#EXTINF: -1, „Kanāls 
+#EXTINF: -1, „MIR TV 
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
 #EXTINF: -1, „Kanāls 
 http://tvport.it-tele.net:8000/3634cf69c57f97791f1b50ed2f79c9d2
@@ -87,20 +45,16 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 #EXTINF: -1, TV1
 http://v3.myowntv.org/content/35026/index.m3u8?seg-vkcom/iptv4.ts
-#EXTINF: -1,RASSIA 1
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF: -1, JK 
 http://tvport.it-tele.net:8000/ee50d00ab4eed80a5a841fb589e69a5a
 #EXTINF: -1, JK 
 https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565199976/1e35f601a1ecd232861199731ef58c2d/playlist.m3u8
-#EXTINF: -1, JK
+#EXTINF: -1, TNT MUSIC HD
 http://dmitry-tv.ru/his/CH_TNTMUSICHD.m3u8
 #EXTINF: -1, TVPLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
 #EXTINF: -1, TV6
 http://88.216.8.122:8080/tv6/index.m3u8
-#EXTINF: -1, TV3
-http://88.216.8.122:8080/tv3/index.m3u8
 #EXTINF: -1, LNK
 http://88.216.8.122:8080/lnk/index.m3u8
 #EXTINF: -1,LRT KULTURA
@@ -115,7 +69,7 @@ http://88.216.8.122:8080/init_tv/index.m3u8
 http://88.216.8.122:8080/info_tv/index.m3u8
 #EXTINF: -1,BTV
 http://88.216.8.122:8080/btv/index.m3u8
-#EXTINF: -1, JK 
+#EXTINF: -1,BALTICUM AUKSINIS
 http://88.216.8.122:8080/balticum_auksinis/index.m3u8
 #EXTINF: -1,BALTICUM LT
 http://88.216.8.122:8080/balticum/index.m3u8
@@ -149,15 +103,5 @@ http://82.193.152.182:81/udp/239.195.240.149:1234
 http://5.59.200.247:81/udp/239.72.4.95:1234
 #EXTINF:-music eu
 http://188.35.9.11:21031/udp/043m
-#EXTINF:-TNT 4
-http://85.112.114.11:8086/udp/233.170.170.130:58631
-#EXTINF:-RASSIA BELARUS
-http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8?version=2
-#EXTINF:belarus 1
-http://178.124.183.13/hls/M52YG9EVYD/bw5000000/playlist.m3u8?version=2
-#EXTINF:-belarus 2
-http://178.124.183.13/hls/GCKYZGGFEJ/bw5000000/playlist.m3u8?version=2
-#EXTINF:belarus 3
-http://178.124.183.13/hls/TSNEW37RPC/bw5000000/playlist.m3u8?version=2
 #EXTINF:-izi ru
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
