@@ -7,10 +7,6 @@ http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 http://188.35.9.10:2022
 #EXTINF:-1,остросюжетное HD
 http://188.35.9.8:2015
-#EXTINF:-1,VIP Megahit HD
-http://188.35.9.10:2016
-#EXTINF:-1,VIP premjera 
-http://188.35.9.10:2013
 #EXTINF:-1,Шокирующее HD
 http://188.35.9.10:2021
 #EXTINF:-1,VIDI SALONAS HD
@@ -57,14 +53,6 @@ http://88.216.8.122:8080/tvplay_sports/index.m3u8
 http://88.216.8.122:8080/tv6/index.m3u8
 #EXTINF:-1,LNK
 http://88.216.8.122:8080/lnk/index.m3u8
-#EXTINF:-1,LRT KULTURA
-http://88.216.8.122:8080/lrt_kultura/index.m3u8
-#EXTINF:-1,LRT TV
-http://88.216.8.122:8080/lrt_televizija/index.m3u8
-#EXTINF:-1,KIDZONE
-http://88.216.8.122:8080/kidzone/index.m3u8
-#EXTINF:-1,INIT
-http://88.216.8.122:8080/init_tv/index.m3u8
 #EXTINF:-1,INFO TV
 http://88.216.8.122:8080/info_tv/index.m3u8
 #EXTINF:-1,BTV
@@ -87,8 +75,6 @@ http://www.sansat.net:25461/jean1/jean1/22504
 http://www.sansat.net:25461/jean1/jean1/22506
 #EXTINF:-1sky acion
 http://www.sansat.net:25461/jean1/jean1/22509
-#EXTINF:-1,CTC HD
-http://151.80.59.206/TV/FLASH-TV/n/mac/747.m3u8
 #EXTINF:-1 zvezda hd
 http://livezvezda.cdnvideo.ru/zv/zvezda2.sdp/playlist.m3u8
 #EXTINF:-1,RUSIAN EXSTREM HD
