@@ -19,29 +19,29 @@ http://hls.goodgame.ru/hls/12949.m3u8
 http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,VIVA RUSSIA HD
 http://85.143.202.116/hls/viva.m3u8
-#EXTINF:-1,N1
+#EXTINF:-1,CTS
 http://151.80.59.206/TV/FLASH-TV/n/mac/747.m3u8
-#EXTINF:-1,N2
+#EXTINF:-1,NOVARASIIA
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1,N3
+#EXTINF:-1,PLANETA HD
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-#EXTINF:-1,N4
+#EXTINF:-1,EDA HD
 http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
-#EXTINF:-1,N5
+#EXTINF:-1,ORT HD
 http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
-#EXTINF:-1,N6
+#EXTINF:-1,KRIM1 HD
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1,N7
+#EXTINF:-1,NST HD
 http://tvport.it-tele.net:8000/3634cf69c57f97791f1b50ed2f79c9d2
-#EXTINF:-1,N8
+#EXTINF:-1,RADIO SANSON HD
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1,N9
+#EXTINF:-1,RUTV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-#EXTINF:-1,N10
+#EXTINF:-1,FILMS HD
 http://v3.myowntv.org/content/35026/index.m3u8?seg-vkcom/iptv4.ts
-#EXTINF:-1,N11
+#EXTINF:-1,perec
 http://tvport.it-tele.net:8000/ee50d00ab4eed80a5a841fb589e69a5a
-#EXTINF:-1,N12
+#EXTINF:-1,2×2 HD
 https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565199976/1e35f601a1ecd232861199731ef58c2d/playlist.m3u8
 #EXTINF:-1,TNT MUSIC HD
 http://dmitry-tv.ru/his/CH_TNTMUSICHD.m3u8
