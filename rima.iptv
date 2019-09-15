@@ -37,8 +37,6 @@ http://tvport.it-tele.net:8000/3634cf69c57f97791f1b50ed2f79c9d2
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1,RUTV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-#EXTINF:-1,FILMS HD
-http://v3.myowntv.org/content/35026/index.m3u8?seg-vkcom/iptv4.ts
 #EXTINF:-1,perec
 http://tvport.it-tele.net:8000/ee50d00ab4eed80a5a841fb589e69a5a
 #EXTINF:-1,2×2 HD
@@ -71,20 +69,14 @@ http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 http://livezvezda.cdnvideo.ru/zv/zvezda2.sdp/playlist.m3u8
 #EXTINF:-1,RUSIAN EXSTREM HD
 http://78.111.93.102:53022/udp/233.166.172.156:1234
-#EXTINF:-1,KIHOTV HD
-http://5.59.200.247:81/udp/239.72.6.119:1234
 #EXTINF:-1,ROSTOV PAPA
 http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rostovpapa
 #EXTINF:-1,BRADZE TV CLASSIC
 http://82.193.152.182:81/udp/239.195.240.149:1234
-#EXTINF:-1,BRDGE TV DELIUX
-http://5.59.200.247:81/udp/239.72.4.95:1234
 #EXTINF:-1,tgfm
 http://radijas.tgfm.lt:8000
 #EXTINF:-1,Kidzone
 http://185.176.117.242/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
-#EXTINF:-1ViasatHistoryHD
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF:-1,МУЖСКОЕ КИНО HD
 http://188.35.9.10:2022
 #EXTINF:-1,VIP Megahit HD
