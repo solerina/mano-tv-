@@ -31,8 +31,6 @@ http://hls.goodgame.ru/hls/12949.m3u8
 http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,VIVA RUSSIA HD
 http://85.143.202.116/hls/viva.m3u8
-#EXTINF:-1,CTS
-http://151.80.59.206/TV/FLASH-TV/n/mac/747.m3u8
 #EXTINF:-1,NOVARASIIA
 http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1,PLANETA HD
@@ -82,17 +80,11 @@ http://livezvezda.cdnvideo.ru/zv/zvezda2.sdp/playlist.m3u8
 #EXTINF:-1,RUSIAN EXSTREM HD
 http://78.111.93.102:53022/udp/233.166.172.156:1234
 #EXTINF:-1,ROSTOV PAPA
-http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rostovpapa
-#EXTINF:-1,BRADZE TV CLASSIC
-http://82.193.152.182:81/udp/239.195.240.149:1234
+http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rostovpap
 #EXTINF:-1,tgfm
 http://radijas.tgfm.lt:8000
 #EXTINF:-1,Kidzone
 http://185.176.117.242/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
 #EXTINF:-1,МУЖСКОЕ КИНО HD
 http://188.35.9.10:2022
-#EXTINF:-1,VIP Megahit HD
-http://188.35.9.8:2016
-#EXTINF:-1,VIPpremjera HD
-http://188.35.9.8:2013
 
