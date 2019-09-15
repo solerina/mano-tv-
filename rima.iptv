@@ -81,4 +81,16 @@ http://82.193.152.182:81/udp/239.195.240.149:1234
 http://5.59.200.247:81/udp/239.72.4.95:1234
 #EXTINF:-1,Backus TV HD
 http://hls.goodgame.ru/hls/109081.m3u8
+#EXTINF:-1,COOLfahrenheit 93 - (1)
+http://radijas.tgfm.lt:8000
+#EXTINF: -1, Kidzone
+http://185.176.117.242/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+#EXTINF: -1 ViasatHistoryHD
+https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+#EXTINF: -1, МУЖСКОЕ КИНО HD
+http://188.35.9.10:2022
+#EXTINF: -1, VIP Megahit HD
+http://188.35.9.8:2016
+#EXTINF: -1, VIP premjera HD
+http://188.35.9.8:2013
 
