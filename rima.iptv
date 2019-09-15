@@ -9,14 +9,6 @@ http://50.7.144.75:8081/muztv/index.m3u8?wmsAuthSign=6bcc2dd5e4d77ce287b8c215623
 http://50.7.144.75:8081/kinopokaz/index.m3u8?wmsAuthSign=0a74f3a10ab4f8b7cb854eb936b813cc-1568573431-75i37i742i78
 #EXTINF:-1,str tv 
 https://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1, info tv hd
-https://zagent878.h-cdn.com/cmd/get_links_info?customer=lnk_lt&zone=gen&ver=1.152.481&url=https%3A%2F%2Flnk.lt%2Fvideo%2Finfo-tv-hd-kanalas-internetu%2F73472
-#EXTINF:-1, lrt tv hd lt
-https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/media-u06cpcvpt_b1500000_90435_tkdG9rZW5oYXNoPXd2NUx5eDNXWTBZWFQ2VlBmN2s4SXRsUFc2QzBGdUhSNlNSY3l3LVJHWVZ6Sld6LVBOM3c1T2MyNVV0WUZoNDhNUk5kbEUtWldZdldYdDE3RWl1eVN3PT0mdG9rZW5lbmR0aW1lPTE1Njg1NTgwOTk=.ts
-#EXTINF:-1lrt hd 2 
-https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/media-un8s73b24_b1500000_1801_tkdG9rZW5oYXNoPWJpTFE1Tno5eFZXOGxKLWkxQy1HZ3I1WTZhV1dVQjdqY2dKWXg1QjdsUGlrY2ZGajg5ZkozQXZiVnlDd1lhYVBySnZreWZGSUhtZ09BaTFVOUw1THFRPT0mdG9rZW5lbmR0aW1lPTE1Njg1NTY1OTU=.ts
-#EXTINF:-1 lrytas tv
-https://ssb-live.lrytas.lt/live/smil:lrytas.smil/media-ur6ikm82h_b1500000_305_tkdG9rZW5oYXNoPV9faHlmYkFyQmZGZzN5NHppM3FKM2hKX25xZnFZSjczOFVDRVNPSHhsXzlQcjJzMXJNUW9YUDk4cjZBcHJUdEJScEZfRkhuZUY1bFpQZnBfck4xWFRnPT0mdG9rZW5lbmR0aW1lPTE1Njg2NDIyODA=.ts
 #EXTINF:-1,EPIC DRAMA
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:0,index.m3u8?wmsAuthSign=552b6ae67d80a799cb9b951fce4444e3-1568567669-75i37i742i78
