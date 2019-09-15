@@ -79,3 +79,6 @@ http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/chunklist.m3u8?hls_p
 http://82.193.152.182:81/udp/239.195.240.149:1234
 #EXTINF:-1,BRDGE TV DELIUX
 http://5.59.200.247:81/udp/239.72.4.95:1234
+#EXTINF:-1,Backus TV HD
+http://hls.goodgame.ru/hls/109081.m3u8
+
