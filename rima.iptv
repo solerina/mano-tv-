@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,EPIC DRAMA
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:0,index.m3u8?wmsAuthSign=552b6ae67d80a799cb9b951fce4444e3-1568567669-75i37i742i78
+http://50.7.144.75:8081/strachnoe/index.m3u8?wmsAuthSign=552b6ae67d80a799cb9b951fce4444e3-1568567669-75i37i742i78
 #EXTINF:-1,TV Premium HD
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1,МУЖСКОЕ КИНО HD
