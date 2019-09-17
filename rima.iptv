@@ -1,5 +1,27 @@
 #EXTM3U
-#EXTINF:-1,lom.
+#EXTINF:-1 PUKAS HD LT
+https://livestream-f.akamaihd.net/i/2915893_1896665_88a1bffa_1@100516/index_2320_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1568771077~acl=%2fi%2f2915893_1896665_88a1bffa_1%40100516%2f*~data=hdntl~hmac=687ed82a2e54217ffa1466969e3682a43a7104ab4fb48dae85f0ed9a6e9a87bc
+#EXTINF:-LRT HD LT
+https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist_b1500000_tkdG9rZW5oYXNoPUtiSVhrc0k3Y05HR1pVdGNUei02UjdOTG5DSDlpVnFjenhJTjM1azBKNVJkSmI4cTNqVkUzSVlpdUR3SGRXTkRWNHJWdk84X1JsZXI0b2xaSFRPYmJ3PT0mdG9rZW5lbmR0aW1lPTE1Njg2ODU2ODc=.m3u8
+#EXTINF:-LRT KULTURA HD
+https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/chunklist_b1500000_tkdG9rZW5oYXNoPXBSWERGV25rY2hmWkNJTllZb3FjMzFhdndQNmNrUmlSYWVlc1k2Wl9NX0lVY3ZwOHVKbXd6LUV0NFJva3VmRXVlTWQ3VG1qcmlLYmpOdVByaV9rTDJnPT0mdG9rZW5lbmR0aW1lPTE1Njg2ODUyNzA=.m3u8
+#EXTINF:- LRT WORLD 
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-VIP PREMIAJA 
+http://50.7.127.60:8081/1000megahit/index.m3u8?wmsAuthSign=a67f83feceeeb9d0f54424848d4fa1bd-1568703193-75i37i742i78
+#EXTINF:-VIP KOMEDI
+http://50.7.127.60:8081/1000comedy/index.m3u8?wmsAuthSign=1047112a3bd9a167dfc2a5fedce062bd-1568703288-75i37i742i78
+#EXTINF:-VIP MEGAHIT
+http://50.7.127.60:8081/1000premium/index.m3u8?wmsAuthSign=05230f1efa95dbc3d33b1e7aa0aefc82-1568703362-75i37i742i78
+#EXTINF:-KINOHIT
+http://50.7.127.60:8081/kinoxit/index.m3u8?wmsAuthSign=d6ee4dc4fc849a7aca24ebd860422b74-1568703448-75i37i742i78
+#EXTINF:-KINOPREMIA
+http://50.7.120.165:8081/kinopremera/index.m3u8?wmsAuthSign=66ca787e297132cc0a82c22bf6dacc9a-1568703525-75i37i742i78
+#EXTINF:-KIMIX
+http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=719e0b66e75ef30690a13f1f965d95b6-1568703568-75i37i742i78
+#EXTINF:-RUTV HD
+https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+#EXTINF:-1, KILO TV
 http://50.7.144.75:8081/kinoxit/index.m3u8?wmsAuthSign=d16563711c30bc7441e86c5e7ccd029b-1568573088-75i37i742i78
 #EXTINF:-1, kino tv
 http://50.7.144.75:8081/tv_kino/index.m3u8?wmsAuthSign=fa96031a9fd14ed3b655760e3e6bc509-1568573154-75i37i742i78
