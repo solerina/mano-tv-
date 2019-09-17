@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTINF:-1 PUKAS HD LT
 https://livestream-f.akamaihd.net/i/2915893_1896665_88a1bffa_1@100516/index_2320_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1568771077~acl=%2fi%2f2915893_1896665_88a1bffa_1%40100516%2f*~data=hdntl~hmac=687ed82a2e54217ffa1466969e3682a43a7104ab4fb48dae85f0ed9a6e9a87bc
-#EXTINF:-LRT HD LT
-https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist_b1500000_tkdG9rZW5oYXNoPUtiSVhrc0k3Y05HR1pVdGNUei02UjdOTG5DSDlpVnFjenhJTjM1azBKNVJkSmI4cTNqVkUzSVlpdUR3SGRXTkRWNHJWdk84X1JsZXI0b2xaSFRPYmJ3PT0mdG9rZW5lbmR0aW1lPTE1Njg2ODU2ODc=.m3u8
-#EXTINF:-LRT KULTURA HD
-https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/chunklist_b1500000_tkdG9rZW5oYXNoPXBSWERGV25rY2hmWkNJTllZb3FjMzFhdndQNmNrUmlSYWVlc1k2Wl9NX0lVY3ZwOHVKbXd6LUV0NFJva3VmRXVlTWQ3VG1qcmlLYmpOdVByaV9rTDJnPT0mdG9rZW5lbmR0aW1lPTE1Njg2ODUyNzA=.m3u8
+jdOTG5DSDlpVnFjenhJTjM1azBKNVJkSmI4cTNqVkUzSVlpdUR3SGRXTkRWNHJWdk84X1JsZXI0b2xaSFRPYmJ3PT0mdG9rZW5lbmR0aW1lPTE1Njg2ODU2ODc=.m3u8
 #EXTINF:- LRT WORLD 
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-VIP PREMIAJA 
