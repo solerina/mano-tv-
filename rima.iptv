@@ -13,34 +13,6 @@ http://50.7.136.50:8081/1000comedy/index.m3u8?wmsAuthSign=35ffe942814d4fce903e78
 http://50.7.136.50:8081/1000megahit/index.m3u8?wmsAuthSign=bcea17e16f7322982d14a6a86a984cd7-1568812154-75i37i742i78
 #EXTINF:-1,MTV Russia“ žiūrėti 
 http://50.7.136.50:8081/mtv_rys/index.m3u8?wmsAuthSign=6d6abfe36e1b76408b73a0c40e28aa7b-1568812284-75i37i742i78
-#EXTINF:-1,Телеканал Киносерия
-http://50.7.180.53:8081/kinoseriya/index.m3u8?wmsAuthSign=1568812415S4cb4ce7f58e4de0d803c554567fa0648S75h37h742h78
-#EXTINF:-1,Телеканал НТВ Хит
-http://50.7.180.53:8081/ntv_xit/index.m3u8?wmsAuthSign=1568812587Sff0b3cbff4b13fd3108ef9ff924c74e8S75h37h742h78
-#EXTINF:-1,Телеканал КИНО ТВ
-http://198.16.64.45:8081/kino_tv/index.m3u8?wmsAuthSign=1568812635Se3afffe98c871feaf7b656e9a58ff9d7S75h37h742h78
-#EXTINF:-1,Телеканал Bridge TV
-http://198.16.64.45:8081/bridge-tv/index.m3u8?wmsAuthSign=1568812684Sad80adbe2915af53253a3610e55f3a1aS75h37h742h78
-#EXTINF:-1,Телеканал Киносвидание
-http://198.16.64.45:8081/kinosvidanie/index.m3u8?wmsAuthSign=1568812773Sfb0f84cdbe7dd8a46b81848b0d4433e2S75h37h742h78
-#EXTINF:-1,Телеканал Киносемья
-http://198.16.64.45:8081/kinosemja/index.m3u8?wmsAuthSign=1568812825Seb88c58107ac6f9958bf3051add9b3a5S75h37h742h78
-#EXTINF:-1,Телеканал Киномикс
-http://198.16.64.45:8081/kinoplus/index.m3u8?wmsAuthSign=1568812884Sa9454da8a214a62c8f8c6be9a3fe48a4S75h37h742h78
-#EXTINF:-1,Телеканал Paramount Channel
-http://50.7.180.53:8081/s4g_param_chanel/index.m3u8?wmsAuthSign=1568812934Sdd40f703ea8e88c2ac0d627765c51760S75h37h742h78
-#EXTINF:-1,Телеканал Мужское кино
-http://50.7.180.53:8081/s4g_myz_kino/index.m3u8?wmsAuthSign=1568813001Sfff6cf5d6dad99267841d99788002a06S75h37h742h78
-#EXTINF:-1,Телеканал 24 Техно
-http://198.16.64.45:8081/24techno/index.m3u8?wmsAuthSign=1568813051S6b123b2689cbd120fcefa9c643ffc017S75h37h742h78
-#EXTINF:-1,Телеканал Че ТВ
-http://198.16.64.45:8081/che/index.m3u8?wmsAuthSign=1568813164S6b11c1517e3259f7b899f4a66705abe4S75h37h742h78
-#EXTINF:-1,Телеканал AMC
-http://50.7.180.53:8081/amc/tracks-1,2/index.m3u8?wmsAuthSign=1568813216Sdfdf921b6931bbac65e8f2e8c9789ae5S75h37h742h78
-#EXTINF:-1,Телеканал Оружие
-http://198.16.64.45:8081/oruzhie/index.m3u8?wmsAuthSign=1568813322S5a11cbeb7cfdb0713152b40c2b5510f3S75h37h742h78
-#EXTINF:-1,Телеканал Viasat Explorer
-http://198.16.64.45:8081/vi_explorer/index.m3u8?wmsAuthSign=1568813390S5b67635545ed156b9ef09e83d8015457S75h37h742h78
 #EXTINF:-1,LRT WORLD 
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1,VIP PREMIAJA 
@@ -57,20 +29,12 @@ http://50.7.120.165:8081/kinopremera/index.m3u8?wmsAuthSign=66ca787e297132cc0a82
 http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=719e0b66e75ef30690a13f1f965d95b6-1568703568-75i37i742i78
 #EXTINF:-1,RUTV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-#EXTINF:-1,KILO TV
-http://50.7.144.75:8081/kinoxit/index.m3u8?wmsAuthSign=d16563711c30bc7441e86c5e7ccd029b-1568573088-75i37i742i78
-#EXTINF:-1,kino tv
-http://50.7.144.75:8081/tv_kino/index.m3u8?wmsAuthSign=fa96031a9fd14ed3b655760e3e6bc509-1568573154-75i37i742i78
-#EXTINF:-1,muz tv
-http://50.7.144.75:8081/muztv/index.m3u8?wmsAuthSign=6bcc2dd5e4d77ce287b8c21562335b1e-1568573341-75i37i742i78
 #EXTINF:-1,kino pokaz
 http://50.7.144.75:8081/kinopokaz/index.m3u8?wmsAuthSign=0a74f3a10ab4f8b7cb854eb936b813cc-1568573431-75i37i742i78
 #EXTINF:-1,str tv 
 https://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,EPIC DRAMA
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1,jop
-http://50.7.144.75:8081/strachnoe/index.m3u8?wmsAuthSign=552b6ae67d80a799cb9b951fce4444e3-1568567669-75i37i742i78
 #EXTINF:-1,TV Premium HD
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1,МУЖСКОЕ КИНО HD
