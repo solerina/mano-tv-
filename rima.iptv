@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 PUKAS HD #EXTINF:-1,planeta rtr 
+#EXTINF:-1,planeta rtr 
 http://50.7.136.50:8081/rtr/index.m3u8?wmsAuthSign=8503dc53fb445eb5793efc7570ec7123-1568811782-75i37i742i78
 #EXTINF:-1,tv1000
 http://50.7.136.50:8081/tv1000/index.m3u8?wmsAuthSign=8508446c9f35bd5a6a0b11d4bafafc4c-1568811887-75i37i742i78
@@ -41,28 +41,28 @@ http://50.7.180.53:8081/amc/tracks-1,2/index.m3u8?wmsAuthSign=1568813216Sdfdf921
 http://198.16.64.45:8081/oruzhie/index.m3u8?wmsAuthSign=1568813322S5a11cbeb7cfdb0713152b40c2b5510f3S75h37h742h78
 #EXTINF:-1,Телеканал Viasat Explorer
 http://198.16.64.45:8081/vi_explorer/index.m3u8?wmsAuthSign=1568813390S5b67635545ed156b9ef09e83d8015457S75h37h742h78
-#EXTINF:-1,9fm
+#EXTINF:-1,PUKAS HD
 https://livestream-f.akamaihd.net/i/2915893_1896665_88a1bffa_1@100516/index_2320_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1568771077~acl=%2fi%2f2915893_1896665_88a1bffa_1%40100516%2f*~data=hdntl~hmac=687ed82a2e54217ffa1466969e3682a43a7104ab4fb48dae85f0ed9a6e9a87bc
 jdOTG5DSDlpVnFjenhJTjM1azBKNVJkSmI4cTNqVkUzSVlpdUR3SGRXTkRWNHJWdk84X1JsZXI0b2xaSFRPYmJ3PT0mdG9rZW5lbmR0aW1lPTE1Njg2ODU2ODc=.m3u8
-#EXTINF:- LRT WORLD 
+#EXTINF:-1,LRT WORLD 
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
-#EXTINF:-VIP PREMIAJA 
+#EXTINF:-1,VIP PREMIAJA 
 http://50.7.127.60:8081/1000megahit/index.m3u8?wmsAuthSign=a67f83feceeeb9d0f54424848d4fa1bd-1568703193-75i37i742i78
-#EXTINF:-VIP KOMEDI
+#EXTINF:-1,VIP KOMEDI
 http://50.7.127.60:8081/1000comedy/index.m3u8?wmsAuthSign=1047112a3bd9a167dfc2a5fedce062bd-1568703288-75i37i742i78
-#EXTINF:-VIP MEGAHIT
+#EXTINF:-1,VIP MEGAHIT
 http://50.7.127.60:8081/1000premium/index.m3u8?wmsAuthSign=05230f1efa95dbc3d33b1e7aa0aefc82-1568703362-75i37i742i78
-#EXTINF:-KINOHIT
+#EXTINF:-1,KINOHIT
 http://50.7.127.60:8081/kinoxit/index.m3u8?wmsAuthSign=d6ee4dc4fc849a7aca24ebd860422b74-1568703448-75i37i742i78
-#EXTINF:-KINOPREMIA
+#EXTINF:-1,KINOPREMIA
 http://50.7.120.165:8081/kinopremera/index.m3u8?wmsAuthSign=66ca787e297132cc0a82c22bf6dacc9a-1568703525-75i37i742i78
-#EXTINF:-KIMIX
+#EXTINF:-1,KIMIX
 http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=719e0b66e75ef30690a13f1f965d95b6-1568703568-75i37i742i78
-#EXTINF:-RUTV HD
+#EXTINF:-1,RUTV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-#EXTINF:-1, KILO TV
+#EXTINF:-1,KILO TV
 http://50.7.144.75:8081/kinoxit/index.m3u8?wmsAuthSign=d16563711c30bc7441e86c5e7ccd029b-1568573088-75i37i742i78
-#EXTINF:-1, kino tv
+#EXTINF:-1,kino tv
 http://50.7.144.75:8081/tv_kino/index.m3u8?wmsAuthSign=fa96031a9fd14ed3b655760e3e6bc509-1568573154-75i37i742i78
 #EXTINF:-1,muz tv
 http://50.7.144.75:8081/muztv/index.m3u8?wmsAuthSign=6bcc2dd5e4d77ce287b8c21562335b1e-1568573341-75i37i742i78
@@ -72,7 +72,7 @@ http://50.7.144.75:8081/kinopokaz/index.m3u8?wmsAuthSign=0a74f3a10ab4f8b7cb854eb
 https://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,EPIC DRAMA
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:0,index.m3u8?wmsAuthSign=552b6ae67d80a799cb9b951fce4444e3-1568567669-75i37i742i78
+#EXTINF:-1,jop
 http://50.7.144.75:8081/strachnoe/index.m3u8?wmsAuthSign=552b6ae67d80a799cb9b951fce4444e3-1568567669-75i37i742i78
 #EXTINF:-1,TV Premium HD
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
