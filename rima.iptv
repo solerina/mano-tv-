@@ -1,5 +1,47 @@
 #EXTM3U
-#EXTINF:-1 PUKAS HD LT
+#EXTINF:-1 PUKAS HD #EXTINF:-1,planeta rtr 
+http://50.7.136.50:8081/rtr/index.m3u8?wmsAuthSign=8503dc53fb445eb5793efc7570ec7123-1568811782-75i37i742i78
+#EXTINF:-1,tv1000
+http://50.7.136.50:8081/tv1000/index.m3u8?wmsAuthSign=8508446c9f35bd5a6a0b11d4bafafc4c-1568811887-75i37i742i78
+#EXTINF:-1,tv1000 acion 
+http://50.7.136.50:8081/tv1000action/index.m3u8?wmsAuthSign=9ee1d883084f6b5226b28f14c5051f06-1568811949-75i37i742i78
+#EXTINF:-1,VIP Premium HD
+http://50.7.136.50:8081/1000premium/index.m3u8?wmsAuthSign=6957940d416cc76a87764dd5408aa1b6-1568812040-75i37i742i78
+#EXTINF:-1,VIP Comedy HD“ 
+http://50.7.136.50:8081/1000comedy/index.m3u8?wmsAuthSign=35ffe942814d4fce903e782c59e52aef-1568812097-75i37i742i78
+#EXTINF:-1,Žiūrėkite „TV1000 Megahit HD
+http://50.7.136.50:8081/1000megahit/index.m3u8?wmsAuthSign=bcea17e16f7322982d14a6a86a984cd7-1568812154-75i37i742i78
+#EXTINF:-1,MTV Russia“ žiūrėti 
+http://50.7.136.50:8081/mtv_rys/index.m3u8?wmsAuthSign=6d6abfe36e1b76408b73a0c40e28aa7b-1568812284-75i37i742i78
+#EXTINF:-1,Телеканал Киносерия
+http://50.7.180.53:8081/kinoseriya/index.m3u8?wmsAuthSign=1568812415S4cb4ce7f58e4de0d803c554567fa0648S75h37h742h78
+#EXTINF:-1,Телеканал НТВ Хит
+http://50.7.180.53:8081/ntv_xit/index.m3u8?wmsAuthSign=1568812587Sff0b3cbff4b13fd3108ef9ff924c74e8S75h37h742h78
+#EXTINF:-1,Телеканал КИНО ТВ
+http://198.16.64.45:8081/kino_tv/index.m3u8?wmsAuthSign=1568812635Se3afffe98c871feaf7b656e9a58ff9d7S75h37h742h78
+#EXTINF:-1,Телеканал Bridge TV
+http://198.16.64.45:8081/bridge-tv/index.m3u8?wmsAuthSign=1568812684Sad80adbe2915af53253a3610e55f3a1aS75h37h742h78
+#EXTINF:-1,Телеканал Киносвидание
+http://198.16.64.45:8081/kinosvidanie/index.m3u8?wmsAuthSign=1568812773Sfb0f84cdbe7dd8a46b81848b0d4433e2S75h37h742h78
+#EXTINF:-1,Телеканал Киносемья
+http://198.16.64.45:8081/kinosemja/index.m3u8?wmsAuthSign=1568812825Seb88c58107ac6f9958bf3051add9b3a5S75h37h742h78
+#EXTINF:-1,Телеканал Киномикс
+http://198.16.64.45:8081/kinoplus/index.m3u8?wmsAuthSign=1568812884Sa9454da8a214a62c8f8c6be9a3fe48a4S75h37h742h78
+#EXTINF:-1,Телеканал Paramount Channel
+http://50.7.180.53:8081/s4g_param_chanel/index.m3u8?wmsAuthSign=1568812934Sdd40f703ea8e88c2ac0d627765c51760S75h37h742h78
+#EXTINF:-1,Телеканал Мужское кино
+http://50.7.180.53:8081/s4g_myz_kino/index.m3u8?wmsAuthSign=1568813001Sfff6cf5d6dad99267841d99788002a06S75h37h742h78
+#EXTINF:-1,Телеканал 24 Техно
+http://198.16.64.45:8081/24techno/index.m3u8?wmsAuthSign=1568813051S6b123b2689cbd120fcefa9c643ffc017S75h37h742h78
+#EXTINF:-1,Телеканал Че ТВ
+http://198.16.64.45:8081/che/index.m3u8?wmsAuthSign=1568813164S6b11c1517e3259f7b899f4a66705abe4S75h37h742h78
+#EXTINF:-1,Телеканал AMC
+http://50.7.180.53:8081/amc/tracks-1,2/index.m3u8?wmsAuthSign=1568813216Sdfdf921b6931bbac65e8f2e8c9789ae5S75h37h742h78
+#EXTINF:-1,Телеканал Оружие
+http://198.16.64.45:8081/oruzhie/index.m3u8?wmsAuthSign=1568813322S5a11cbeb7cfdb0713152b40c2b5510f3S75h37h742h78
+#EXTINF:-1,Телеканал Viasat Explorer
+http://198.16.64.45:8081/vi_explorer/index.m3u8?wmsAuthSign=1568813390S5b67635545ed156b9ef09e83d8015457S75h37h742h78
+#EXTINF:-1,9fm
 https://livestream-f.akamaihd.net/i/2915893_1896665_88a1bffa_1@100516/index_2320_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1568771077~acl=%2fi%2f2915893_1896665_88a1bffa_1%40100516%2f*~data=hdntl~hmac=687ed82a2e54217ffa1466969e3682a43a7104ab4fb48dae85f0ed9a6e9a87bc
 jdOTG5DSDlpVnFjenhJTjM1azBKNVJkSmI4cTNqVkUzSVlpdUR3SGRXTkRWNHJWdk84X1JsZXI0b2xaSFRPYmJ3PT0mdG9rZW5lbmR0aW1lPTE1Njg2ODU2ODc=.m3u8
 #EXTINF:- LRT WORLD 
