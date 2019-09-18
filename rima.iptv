@@ -41,9 +41,6 @@ http://50.7.180.53:8081/amc/tracks-1,2/index.m3u8?wmsAuthSign=1568813216Sdfdf921
 http://198.16.64.45:8081/oruzhie/index.m3u8?wmsAuthSign=1568813322S5a11cbeb7cfdb0713152b40c2b5510f3S75h37h742h78
 #EXTINF:-1,Телеканал Viasat Explorer
 http://198.16.64.45:8081/vi_explorer/index.m3u8?wmsAuthSign=1568813390S5b67635545ed156b9ef09e83d8015457S75h37h742h78
-#EXTINF:-1,PUKAS HD
-https://livestream-f.akamaihd.net/i/2915893_1896665_88a1bffa_1@100516/index_2320_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1568771077~acl=%2fi%2f2915893_1896665_88a1bffa_1%40100516%2f*~data=hdntl~hmac=687ed82a2e54217ffa1466969e3682a43a7104ab4fb48dae85f0ed9a6e9a87bc
-jdOTG5DSDlpVnFjenhJTjM1azBKNVJkSmI4cTNqVkUzSVlpdUR3SGRXTkRWNHJWdk84X1JsZXI0b2xaSFRPYmJ3PT0mdG9rZW5lbmR0aW1lPTE1Njg2ODU2ODc=.m3u8
 #EXTINF:-1,LRT WORLD 
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1,VIP PREMIAJA 
