@@ -29,8 +29,6 @@ http://50.7.120.165:8081/kinopremera/index.m3u8?wmsAuthSign=66ca787e297132cc0a82
 http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=719e0b66e75ef30690a13f1f965d95b6-1568703568-75i37i742i78
 #EXTINF:-1,RUTV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-#EXTINF:-1,kino pokaz
-http://50.7.144.75:8081/kinopokaz/index.m3u8?wmsAuthSign=0a74f3a10ab4f8b7cb854eb936b813cc-1568573431-75i37i742i78
 #EXTINF:-1,str tv 
 https://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,EPIC DRAMA
@@ -99,8 +97,6 @@ http://194.204.46.137/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 zvezda hd
 http://livezvezda.cdnvideo.ru/zv/zvezda2.sdp/playlist.m3u8
-#EXTINF:-1,RUSIAN EXSTREM HD
-http://78.111.93.102:53022/udp/233.166.172.156:1234
 #EXTINF:-1,ROSTOV PAPA
 http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rostovpap
 #EXTINF:-1,tgfm
