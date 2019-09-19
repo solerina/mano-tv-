@@ -104,6 +104,7 @@ http://radijas.tgfm.lt:8000
 #EXTINF:-1,Kidzone
 http://185.176.117.242/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
 #EXTINF:-1,МУЖСКОЕ КИНО HD
+http://188.35.9.10:2022
 #EXTINF:-1,kinopokaz
 http://50.7.127.59:8081/kinopokaz/index.m3u8?wmsAuthSign=5f45bea8fdb556eb4ac8cedc1471b1c3-1568930450-75i37i742i78
 #EXTINF:-1,LTV1
@@ -120,6 +121,11 @@ http://88.119.220.2/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
 http://88.119.220.2/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
 #EXTINF:-1,LNK
 http://88.119.220.2/live/eds/LNK/HLS_encr/LNK.m3u8
-#EXTM3U #EXTINF:-1,Кинозал_1 http://v3.catcast.me/contentv2/35026/index.m3u8 #EXTINF:-1,Кинозал_3 http://v3.catcast.me/contentv2/35448/index.m3u8 #EXTINF:-1,Кинозал_4 http://v3.catcast.me/contentv2/35525/index.m3u8
-http://188.35.9.10:2022
+#EXTINF:-1,Кинозал_1
+http://v3.catcast.me/contentv2/35026/index.m3u8 
+#EXTINF:-1,Кинозал_3
+http://v3.catcast.me/contentv2/35448/index.m3u8 
+#EXTINF:-1,Кинозал_4 
+http://v3.catcast.me/contentv2/35525/index.m3u8
+
 
