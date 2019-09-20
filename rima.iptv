@@ -123,7 +123,5 @@ http://88.119.220.2/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
 http://88.119.220.2/live/eds/LNK/HLS_encr/LNK.m3u8
 #EXTINF:-1,Кинозал_1
 http://v3.catcast.me/contentv2/35026/index.m3u8
-#EXTINF:-1,europa olius
-https://ad-hls-europaplus.cdnvideo.ru/europaplus//tracks-v1a1/mono.m3u8
 #EXTINF:-1,1hd
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
