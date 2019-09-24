@@ -125,4 +125,7 @@ http://88.119.220.2/live/eds/LNK/HLS_encr/LNK.m3u8
 http://v3.catcast.me/contentv2/35026/index.m3u8
 #EXTINF:-1,1hd
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,H2
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/1052/index.m3u
+
 
