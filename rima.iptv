@@ -125,3 +125,7 @@ http://88.119.220.2/live/eds/LNK/HLS_encr/LNK.m3u8
 http://v3.catcast.me/contentv2/35026/index.m3u8
 #EXTINF:-1,1hd
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1rassia 1hd
+https://livehlsvgtrk2.cdnvideo.ru/hls/russia_hd/playlist_3.m3u8?md5=O7ajrsP39_x9z8_r8X0jZw&e=1569290580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 LRT HD LT
+https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist_b1500000_tkdG9rZW5oYXNoPVB2MEgyakdTeGNvTTdyb2pPOXdkc0RXRThRUkprTWNlM2VyM2JyTUZrRmJkUkJ2VVpsUFlyLWFaTWlZanJnalNoUTJLMzNvM1BVcHRTa0pDTTJlTXVRPT0mdG9rZW5lbmR0aW1lPTE1NjkyODcxMDA=.m3u8
