@@ -145,4 +145,15 @@ http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
 http://109.171.127.54:81/udp/239.54.7.181:1234
 #EXTINF:-1,TV3BELARUS
 http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
-
+#EXTINF:-1,petnica hd
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1,mir hd
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,rassia hd
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,TNT HD
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:-1,TV3HDRU
+https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
+#EXTINF:-1,kino tv hd
+http://5.9.84.209:8081/torrenttv/channel/%D0%9A%D0%B8%D0%BD%D0%BE%D0%A2%D0%92%20HD.ts
