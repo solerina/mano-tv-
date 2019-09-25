@@ -161,3 +161,5 @@ http://5.9.84.209:8081/torrenttv/channel/%D0%9A%D0%B8%D0%BD%D0%BE%D0%A2%D0%92%20
 http://mhd.limehd.tv/p/43yWVMt8UB5cOkxfLpUM4g,1569504935/streaming/kinosezon/324/1/index.m3u8
 #EXTINF:-1,Tv7
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1,kid zone HD LT
+http://185.78.112.18/KIDZONE_PLUS_HD/tracks-v1a3/mono.m3u8
