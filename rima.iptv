@@ -147,8 +147,6 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
 #EXTINF:-1,TV3HDRU
 https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
-#EXTINF:-1,kino tv hd
-http://5.9.84.209:8081/torrenttv/channel/%D0%9A%D0%B8%D0%BD%D0%BE%D0%A2%D0%92%20HD.ts
 #EXTINF:-1,kino seson
 http://mhd.limehd.tv/p/43yWVMt8UB5cOkxfLpUM4g,1569504935/streaming/kinosezon/324/1/index.m3u8
 #EXTINF:-1,Tv7
@@ -161,3 +159,12 @@ http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
 https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
 #EXTINF:-1,bridge tv classic
 http://dmitry-tv.ru/his/CH_BRIDGETV_CLASSIC.m3u8
+#EXTINF:-1,kinotvhd
+http://tv.pbx.kiev.ua/tv1/4.80
+#EXTINF:-1,kinomixHd
+http://115.127.86.3:9981/stream/channelid/564062313
+#EXTINF:-1,HCT HD
+http://ott-cdn.ucom.am/s87/04.m3u8
+#EXTINF:-1,STRASNOE HD
+http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/278
+#EXTINF:-1,
