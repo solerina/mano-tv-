@@ -163,3 +163,9 @@ http://mhd.limehd.tv/p/43yWVMt8UB5cOkxfLpUM4g,1569504935/streaming/kinosezon/324
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1,kid zone HD LT
 http://185.78.112.18/KIDZONE_PLUS_HD/tracks-v1a3/mono.m3u8
+#EXTINF:-1,rusian exstrym uhd
+http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
+#EXTINF:-1,tv3hd ru
+https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
+#EXTINF:-1,bridge tv classic
+http://dmitry-tv.ru/his/CH_BRIDGETV_CLASSIC.m3u8
