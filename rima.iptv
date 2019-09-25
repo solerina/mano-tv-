@@ -47,8 +47,6 @@ http://hls.goodgame.ru/hls/130048.m3u8
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,ACUDJO 2
 http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1,TV3HD RU
-http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,VIVA RUSSIA HD
 http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-1,NOVARASIIA
@@ -61,8 +59,6 @@ http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
 http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 #EXTINF:-1,KRIM1 HD
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1,NST HD
-http://tvport.it-tele.net:8000/3634cf69c57f97791f1b50ed2f79c9d2
 #EXTINF:-1,RADIO SANSON HD
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1,RUTV HD
