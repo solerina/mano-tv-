@@ -127,6 +127,22 @@ http://v3.catcast.me/contentv2/35026/index.m3u8
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,H2
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/1052/index.m3u
-
-
+#EXTINF:-1,texno24
+http://ott-cdn.ucom.am/s68/03.m3u8
+#EXTINF:-1,prikliucenia
+http://ott-cdn.ucom.am/s99/01.m3u8
+#EXTINF:-1,mult
+http://ott-cdn.ucom.am/s58/01.m3u8
+#EXTINF:-1,astrazanhd
+http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,izitvru hd
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,ahotnik i ribalov
+http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:-1,ukraina112
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1,tlum hd
+http://109.171.127.54:81/udp/239.54.7.181:1234
+#EXTINF:-1,TV3BELARUS
+http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
 
