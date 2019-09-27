@@ -43,8 +43,6 @@ http://188.35.9.8:2015
 http://188.35.9.10:2021
 #EXTINF:-1,STR TV HD
 http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,ACUDIO TV
-http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,ACUDJO 2
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,VIVA RUSSIA HD
@@ -143,8 +141,6 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
 #EXTINF:-1,TV3HDRU
 https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
-#EXTINF:-1,kino seson
-http://mhd.limehd.tv/p/43yWVMt8UB5cOkxfLpUM4g,1569504935/streaming/kinosezon/324/1/index.m3u8
 #EXTINF:-1,Tv7
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1,kid zone HD LT
