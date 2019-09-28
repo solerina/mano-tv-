@@ -185,5 +185,4 @@ http://50.7.127.59:8081/sts_/index.m3u8?wmsAuthSign=462a49f22761ae63ed5468441b95
 https://livestream-f.akamaihd.net/i/2915893_1896665_ae8ede44_1@100516/index_2320_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1569677605~acl=%2fi%2f2915893_1896665_ae8ede44_1%40100516%2f*~data=hdntl~hmac=d138fd14e8d518e3f55276e3a0f82cadfd7533180099aff67bebd014ad0836b9
 #EXTINF:-1,AKUDJI TV
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,BACUSTV
-https://vk.cc/7Kmn2S
+
