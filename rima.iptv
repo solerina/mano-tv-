@@ -227,126 +227,126 @@ http://78.gcdn.co/streams/877_13/1080n/index.m3u8
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 #EXTINF:-1,8 
 http://moscow-commpass.cdnvideo.ru:80/8_kanal/hls-00/mono.m3u8
-#EXTINF:0,A1
+#EXTINF:-1,A1
 http://moscow-commpass.cdnvideo.ru:80/amedia1/hls-00/mono.m3u8
 #EXTINF:0,A1
 http://ott-cdn.ucom.am/s45/index.m3u8
-#EXTINF:0,A2
+#EXTINF:-1,A2
 http://ott-cdn.ucom.am/s33/index.m3u8
-#EXTINF:0,ACB TV
+#EXTINF:-1,ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:0,AD Sports 1 HD
+#EXTINF:-1,AD Sports 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:0,AD Sports 2 HD
+#EXTINF:-1,AD Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:0,Agro TV Moldova
+#EXTINF:-1,Agro TV Moldova
 http://web.sats.gstv.tech/cpl11/540d63d5-8910-4a20-ac15-a7bfcca9dbd3/agrotvweb.m3u8
-#EXTINF:0,Akudji
+#EXTINF:-1,Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:0,Akudji
+#EXTINF:-1,Akudji
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8
-#EXTINF:0,Al Jazeera Arabic
+#EXTINF:-1,Al Jazeera Arabic
 http://ott-cdn.ucom.am/s69/index.m3u8
-#EXTINF:0,Al Jazeera English
+#EXTINF:-1,Al Jazeera English
 http://ott-cdn.ucom.am/s23/index.m3u8
-#EXTINF:0,AMC
+#EXTINF:-1,AMC
 http://moscow-commpass.cdnvideo.ru/amc/hls-00/mono.m3u8
-#EXTINF:0,Amedia Premium
+#EXTINF:-1,Amedia Premium
 http://moscow-commpass.cdnvideo.ru:80/amediapremium/hls-00/mono.m3u8
-#EXTINF:0,Amedia Premium
+#EXTINF:-1,Amedia Premium
 http://ott-cdn.ucom.am/s64/index.m3u8
-#EXTINF:0,Ani
+#EXTINF:-1,Ani
 http://moscow-commpass.cdnvideo.ru:80/ani/hls-00/mono.m3u8
-#EXTINF:0,Arirang
+#EXTINF:-1,Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0,Armenia
+#EXTINF:-1,Armenia
 http://moscow-commpass.cdnvideo.ru:80/armenia/hls-00/mono.m3u8
-#EXTINF:0,Armenia 1 TV
+#EXTINF:-+,Armenia 1 TV
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
-#EXTINF:0,Armenia Comedy
+#EXTINF:-1,Armenia Comedy
 http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:0,Bambarbia TV HD
+#EXTINF:-1,Bambarbia TV HD
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:0,Bazmoc
+#EXTINF:-1,Bazmoc
 http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:0,BBC
+#EXTINF:-1,BBC
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
-#EXTINF:0,BBC
+#EXTINF:-1,BBC
 http://moscow-commpass.cdnvideo.ru:80/bbc/hls-00/mono.m3u8
-#EXTINF:0,BBC
+#EXTINF:-1,BBC
 http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
-#EXTINF:0,BBC
+#EXTINF:-1,BBC
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:0,BCHD
+#EXTINF:-1,BCHD
 https://v3.catcast.me/content/36511/index.m3u8
-#EXTINF:0,BeBlack Africa
+#EXTINF:-1,BeBlack Africa
 http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:0,BeBlack Caribbean
+#EXTINF:-1,BeBlack Caribbean
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:0,BeBlack Classik
+#EXTINF:-1,BeBlack Classik
 http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:0,Bloomberg
+#EXTINF:-1,Bloomberg
 http://moscow-commpass.cdnvideo.ru:80/bloomberg/hls-00/mono.m3u8
-#EXTINF:0,Boutique TV
+#EXTINF:-1,Boutique TV
 http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
-#EXTINF:0,Breaks 24 FM HD Trance
+#EXTINF:-1,Breaks 24 FM HD Trance
 #EXTVLCOPT:http-user-agent=smartlabs
 http://hls.goodgame.ru/hls/147367.m3u8
-#EXTINF:0,BRIDGE TV
+#EXTINF:-1,BRIDGE TV
 http://plmgr-bridgemedia.cdnvideo.ru/bridge_tv/playlist.m3u8
-#EXTINF:0,Bridge TV
+#EXTINF:-1,Bridge TV
 http://ott-cdn.ucom.am/s34/index.m3u8
-#EXTINF:0,BRIDGE TV Classic
+#EXTINF:-1,BRIDGE TV Classic
 http://plmgr-bridgemedia.cdnvideo.ru/bridge_classic/playlist.m3u8
-#EXTINF:0,BRIDGE TV HD
+#EXTINF:-+,BRIDGE TV HD
 http://moscow-commpass.cdnvideo.ru:80/bridge_hd/hls-00/mono.m3u8
-#EXTINF:0,BRIDGE TV HD
+#EXTINF:-1,BRIDGE TV HD
 http://plmgr-bridgemedia.cdnvideo.ru/bridge_hd/playlist.m3u8
-#EXTINF:0,BRIDGE TV HITS
+#EXTINF:-1,BRIDGE TV HITS
 http://plmgr-bridgemedia.cdnvideo.ru/bridge_dance/playlist.m3u8
-#EXTINF:0,BRIDGE TV 
+#EXTINF:-1,BRIDGE TV 
 http://plmgr-bridgemedia.cdnvideo.ru/bridge_rus_hit/playlist.m3u8
-#EXTINF:0,BRIDGE TV 
+#EXTINF:-1,BRIDGE TV 
 http://moscow-commpass.cdnvideo.ru:80/rusong/hls-00/mono.m3u8
-#EXTINF:0,Bridge TV 
+#EXTINF:-1,Bridge TV 
 http://ott-cdn.ucom.am/s78/index.m3u8
-#EXTINF:0,Brodilo.TV
+#EXTINF:-1,Brodilo.TV
 http://brodilo.tv/channel.php
-#EXTINF:0,BTV
+#EXTINF:-1,BTV
 http://77.89.199.174:8000/play/1024/index.m3u8
-#EXTINF:0,Buy Home TV
+#EXTINF:-1,Buy Home TV
 http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
-#EXTINF:0,Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://moscow-commpass.cdnvideo.ru:80/cartoon/hls-00/mono.m3u8
-#EXTINF:0,CCCP
+#EXTINF:-1,CCCP
 https://v3.catcast.me/contentv2/36506/index.m3u8
-#EXTINF:0,CCTV 4
+#EXTINF:-1,CCTV 4
 http://moscow-commpass.cdnvideo.ru:80/cctv4/hls-00/mono.m3u8
-#EXTINF:0,CGTN 
+#EXTINF:-1,CGTN 
 http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:0,Cinema
+#EXTINF:-1,Cinema
 http://95.188.107.89:6767/hls1/channel/bvbc.m3u8
-#EXTINF:0,Cineman
+#EXTINF:-1,Cineman
 http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:0,CNN
+#EXTINF:-1,CNN
 http://185.176.117.243/live/eds/CNN/HLS_encr/CNN.m3u8
-#EXTINF:0,CNN
+#EXTINF:-1,CNN
 http://moscow-commpass.cdnvideo.ru:80/cnn/hls-00/mono.m3u8
-#EXTINF:0,CNN
+#EXTINF:-1,CNN
 http://88.119.220.2/live/eds/CNN/HLS_encr/CNN.m3u8
-#EXTINF:0,CNN .
+#EXTINF:-1,CNN .
 http://ott-cdn.ucom.am/s27/index.m3u8
-#EXTINF:0,Da Vinci Kids
+#EXTINF:-1,Da Vinci Kids
 http://213.174.8.7:11111/index.m3u8
-#EXTINF:0,Da Vinci Learning
+#EXTINF:-1,Da Vinci Learning
 http://213.174.8.7:8000/play/21/index.m3u8
-#EXTINF:0,Deejay TV
+#EXTINF:-1,Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:0,Deluxe Music HD
+#EXTINF:-1,Deluxe Music HD
 http://188.35.9.5:10007/stolen/200b/parasite.install
-#EXTINF:0,Deluxe Music TV
+#EXTINF:-1,Deluxe Music TV
 http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
-#EXTINF:0,Deutsche Welle
+#EXTINF:-1,Deutsche Welle
 http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:0,Deutsche Welle
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
