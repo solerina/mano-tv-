@@ -690,7 +690,7 @@ http://ott-cdn.ucom.am/s96/index.m3u8
 http://ott-cdn.ucom.am/s93/index.m3u8
 #EXTINF:0,Russia Today Doc
 http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:0,Russian Extreme Ultra (Zabava)
+#EXTINF:0,Russian Extreme Ultra
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 #EXTINF:0,Russian MusicBox
@@ -906,10 +906,14 @@ http://live-wif.cdnvideo.ru/hls/573b349878c5685204e107ff.m3u8
 http://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v3a1/index.m3u8
 #EXTINF:0,ZETA
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
-#EXTINF:0,Zhttp://tv.om.ua:8090/test.flv
-#EXTINF:0,http://109.68.40.67/life/magnolia_2/index.m3u8
-#EXTINF:0,http://176.114.16.54:80/aist/index.m3u8
-#EXTINF:0,http://moscow-commpass.cdnvideo.ru:80/avto_plus/hls-00/mono.m3u8
+#EXTINF:0,Z
+http://tv.om.ua:8090/test.flv
+#EXTINF:0,ui
+http://109.68.40.67/life/magnolia_2/index.m3u8
+#EXTINF:0,y
+http://176.114.16.54:80/aist/index.m3u8
+#EXTINF:0,op
+http://moscow-commpass.cdnvideo.ru:80/avto_plus/hls-00/mono.m3u8
 #EXTINF:0,ju
 #EXTVLCOPT:http-user-agent=smartlabs
 http://hls.goodgame.ru/hls/6147.m3u8
