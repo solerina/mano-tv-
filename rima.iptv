@@ -87,7 +87,7 @@ http://194.204.46.137/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 http://194.204.46.137/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:-1,smailic.tvhd
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1zvezdahd
+#EXTINF:-1,zvezdahd
 http://livezvezda.cdnvideo.ru/zv/zvezda2.sdp/playlist.m3u8
 #EXTINF:-1,ROSTOV PAPA
 http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rostovpap
@@ -185,29 +185,29 @@ http://50.7.127.59:8081/sts_/index.m3u8?wmsAuthSign=462a49f22761ae63ed5468441b95
 https://livestream-f.akamaihd.net/i/2915893_1896665_ae8ede44_1@100516/index_2320_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1569677605~acl=%2fi%2f2915893_1896665_ae8ede44_1%40100516%2f*~data=hdntl~hmac=d138fd14e8d518e3f55276e3a0f82cadfd7533180099aff67bebd014ad0836b9
 #EXTINF:-1,AKUDJI TV
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:0,112 
+#EXTINF:-1,112 
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:0,1HD
+#EXTINF:-1,1HD
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
-#EXTINF:0,2+2
+#EXTINF:-1,2+2
 http://moscow-commpass.cdnvideo.ru:80/22/hls-00/mono.m3u8
-#EXTINF:0,21 
+#EXTINF:-1,21 
 http://213.174.8.7:8000/play/1/index.m3u8
-#EXTINF:0,24 
+#EXTINF:-1,24 
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
-#EXTINF:0,1 Music Channel
+#EXTINF:-1,1 Music Channel
 http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:0,1 
+#EXTINF:-1,1 
 https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
-#EXTINF:0,1+1
+#EXTINF:-1,1+1
 http://moscow-commpass.cdnvideo.ru:80/11/hls-00/mono.m3u8
-#EXTINF:0,100 automoto.TV
+#EXTINF:-1,100 automoto.TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:0,100% News
+#EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:0,2x2
+#EXTINF:-1,2x2
 http://moscow-commpass.cdnvideo.ru:80/2x2/hls-00/mono.m3u8
-#EXTINF:0,2
+#EXTINF:-1,2
 http://176.114.16.54:80/2x2/index.m3u8
 #EXTINF:0,312 
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
@@ -917,27 +917,45 @@ http://moscow-commpass.cdnvideo.ru:80/avto_plus/hls-00/mono.m3u8
 #EXTINF:0,ju
 #EXTVLCOPT:http-user-agent=smartlabs
 http://hls.goodgame.ru/hls/6147.m3u8
-#EXTINF:0,http://streaming.astrakhan.ru/astrakhan24/tracks-v5a1/index.m3u8
-#EXTINF:0,http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
-#EXTINF:0,http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v5a1/index.m3u8
-#EXTINF:0,https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
-#EXTINF:0,http://streams.tv.mts.by/belmustv/1/index.m3u8
-#EXTINF:0,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:0,http://moscow-commpass.cdnvideo.ru:80/belarus24/hls-00/mono.m3u8
-#EXTINF:0,https://nimble01edge01.hoster.by/belarus24hd/livehd/chunks.m3u8
-#EXTINF:0,http://95.46.208.8:26258/belarus4
-#EXTINF:0,http://86.57.225.238:8090
-#EXTINF:0,http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
-#EXTINF:0,http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
-#EXTINF:0,http://moscow-commpass.cdnvideo.ru:80/big_asia/hls-00/mono.m3u8
-#EXTINF:0,http://live.planeta-online.tv:1935/public/smil:channel_134.smil/chunklist_b2628000.m3u8
+#EXTINF:0,hty
+http://streaming.astrakhan.ru/astrakhan24/tracks-v5a1/index.m3u8
+#EXTINF:0,ušį
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
+#EXTINF:0,u
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v5a1/index.m3u8
+#EXTINF:0,ž
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
+#EXTINF:0,ty
+http://streams.tv.mts.by/belmustv/1/index.m3u8
+#EXTINF:0,gtr
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:0,įš
+http://moscow-commpass.cdnvideo.ru:80/belarus24/hls-00/mono.m3u8
+#EXTINF:0,
+https://nimble01edge01.hoster.by/belarus24hd/livehd/chunks.m3u8
+#EXTINF:0,reė
+http://95.46.208.8:26258/belarus4
+#EXTINF:0,iop
+http://86.57.225.238:8090
+#EXTINF:0,šė
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
+#EXTINF:0,megar
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
+#EXTINF:0,c
+http://moscow-commpass.cdnvideo.ru:80/big_asia/hls-00/mono.m3u8
+#EXTINF:0,f
+http://live.planeta-online.tv:1935/public/smil:channel_134.smil/chunklist_b2628000.m3u8
 #EXTINF:0,iš
 #EXTVLCOPT:http-user-agent=smartlabs
 https://hls.goodgame.ru/hls/151157.m3u8
-#EXTINF:0,https://s2.catcast.me/hls/vhstv.m3u8
-#EXTINF:0,http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
-#EXTINF:0,http://live.planeta-online.tv:1935/public/smil:channel_133.smil/chunklist_b2628000.m3u8
-#EXTINF:0,https://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
+#EXTINF:0,x
+https://s2.catcast.me/hls/vhstv.m3u8
+#EXTINF:0,nh
+http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
+#EXTINF:0,ki
+http://live.planeta-online.tv:1935/public/smil:channel_133.smil/chunklist_b2628000.m3u8
+#EXTINF:0,jo
+https://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
 #EXTINF:0,tvu
 #EXTVLCOPT:http-user-agent=smartlabs
 http://hls.goodgame.ru/hls/152506.m3u8
@@ -1014,8 +1032,7 @@ http://cdn-01.bonus-tv.ru:8080/zvezda/tracks-v3a1/index.m3u8
 #EXTINF:0,http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:0,http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
 #EXTINF:0,http://188.35.9.5:10007/stolen/162z/parasite.install
-#EXTINF:0,meda
-https://cdn-01.bonus-tv.ru/konnyimir/tracks-v3a1/playlist.m3u8
+#EXTINF:0,https://cdn-01.bonus-tv.ru/konnyimir/tracks-v3a1/playlist.m3u8
 #EXTINF:0,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 #EXTINF:0,http://moscow-commpass.cdnvideo.ru:80/crimea24/hls-00/mono.m3u8
 #EXTINF:0,http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
@@ -1130,7 +1147,7 @@ https://cdn-01.bonus-tv.ru/konnyimir/tracks-v3a1/playlist.m3u8
 #EXTINF:0,http://moscow-commpass.cdnvideo.ru:80/pobeda/hls-00/mono.m3u8
 #EXTINF:0,http://ott-cdn.ucom.am/s47/index.m3u8
 #EXTINF:0,http://live.planeta-online.tv:1935/public/smil:channel_5.smil/chunklist_b858000.m3u8
-#EXTINF:0,tį
+#EXTINF:0,i
 #EXTVLCOPT:http-user-agent=smartlabs
 http://cdn-10.bonus-tv.ru/prodvizhenie/index.m3u8
 #EXTINF:0,http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
