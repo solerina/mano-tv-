@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,planeta rtr 
+#EXTINF:-1,planeta tv RTR
 http://50.7.136.50:8081/rtr/index.m3u8?wmsAuthSign=8503dc53fb445eb5793efc7570ec7123-1568811782-75i37i742i78
 #EXTINF:-1,tv1000
 http://50.7.136.50:8081/tv1000/index.m3u8?wmsAuthSign=8508446c9f35bd5a6a0b11d4bafafc4c-1568811887-75i37i742i78
