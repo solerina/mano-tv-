@@ -209,23 +209,23 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 http://moscow-commpass.cdnvideo.ru:80/2x2/hls-00/mono.m3u8
 #EXTINF:-1,2
 http://176.114.16.54:80/2x2/index.m3u8
-#EXTINF:0,312 
+#EXTINF:-1,312 
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:0,312 
+#EXTINF:-1,312 
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:0,4 
+#EXTINF:-1,4 
 http://cdn.vsnw.net:8081/interradio/720i.m3u8
-#EXTINF:0,43 HD
+#EXTINF:-1,43 HD
 http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-#EXTINF:0,47 
+#EXTINF:-1,47 
 http://gorod.tv/s/live/23/178.141.19.226/1561206607632/0.m3u8
-#EXTINF:0,78
+#EXTINF:-1,78
 http://gorod.tv/s/live/22/178.141.19.226/1561206607632/0.m3u8
-#EXTINF:0,78
+#EXTINF:-1,78
 http://78.gcdn.co/streams/877_13/1080n/index.m3u8
-#EXTINF:0,8 
+#EXTINF:-1,8 
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
-#EXTINF:0,8 
+#EXTINF:-1,8 
 http://moscow-commpass.cdnvideo.ru:80/8_kanal/hls-00/mono.m3u8
 #EXTINF:0,A1
 http://moscow-commpass.cdnvideo.ru:80/amedia1/hls-00/mono.m3u8
@@ -485,14 +485,14 @@ http://hitmusic.hu/hitmusic.m3u8
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:0,ID Fashion HD
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
-#EXTINF:0,INSIGHT UHD (Zabava)
+#EXTINF:-1,INSIGHT UHD (Zabava)
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_INSIGHTUHD_HLS/bw6000000/variant.m3u8
-#EXTINF:0,I
+#EXTINF:-1,£¥
 http://moscow-commpass.cdnvideo.ru:80/inter/hls-00/mono.m3u8
-#EXTINF:0,Jan TV
+#EXTINF:-1,9
 http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:0,K-1
+#EXTINF:-1,8,K-1
 https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
 #EXTINF:0,Kabbalah TV 
 https://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/chunklist_w570851971.m3u8
