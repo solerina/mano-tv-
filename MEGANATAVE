@@ -49,3 +49,5 @@ http://hls.goodgame.ru/hls/12949.m3u8
 http://88.216.8.122:8080/init_tv/index.m3u8
 #EXTINF:-1,BALTICM
 http://88.216.8.122:8080/balticum/index.m3u8
+#EXTINF:-1,DOSENT TW
+https://hls.goodgame.ru/hls/64556.m3u8
