@@ -53,3 +53,5 @@ http://88.216.8.122:8080/balticum/index.m3u8
 https://hls.goodgame.ru/hls/64556.m3u8
 #EXTINF:-1,VINTAZ
 http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,LNK
+http://88.216.8.122:8080/lnk/index.m3u8
