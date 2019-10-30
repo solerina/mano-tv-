@@ -59,4 +59,5 @@ http://88.216.8.122:8080/tv3/index.m3u8
 http://88.216.8.122:8080/btv/index.m3u8
 #EXTINF:-1,TV6
 http://88.216.8.122:8080/tv6/index.m3u8
-
+#EXTINF:-1,H2
+http://f32e1ec7.ulkakak.pw/iptv/WESVTQAXDA7Q8N/1052/index.m3u8
