@@ -73,3 +73,13 @@ https://autopilot.catcast.me/content/34763/index.m3u8
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:-1,EPIC DRAMA HD
 http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,EUROPA+
+http://213.234.9.46:7088/udp/239.1.10.32:1234
+#EXTINF:-1,TV100HD
+http://server1.life-tv.eu/ch0108/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,TV1000 ACION HD
+http://server1.life-tv.eu/ch0107/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,TV1000 RUSKOE KINO HD
+http://server1.life-tv.eu/ch0110/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,ILIZION HD
+http://server1.life-tv.eu/ch0306/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
