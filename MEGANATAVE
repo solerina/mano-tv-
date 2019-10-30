@@ -29,10 +29,6 @@ http://185.78.112.18/KIDZONE_PLUS_HD/tracks-v1a3/mono.m3u8
 http://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:-1,tv1000 premium
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-1,sport1
-https://213.252.252.17/live/eds/Sport1/HLS_encr/index.m3u8
-#EXTINF:-1,pzn tv
-http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF: -1, televizoriusPLAY
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
 #EXTINF:-1,str tvhd
