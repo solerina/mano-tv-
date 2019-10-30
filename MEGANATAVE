@@ -83,3 +83,26 @@ http://server1.life-tv.eu/ch0107/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 http://server1.life-tv.eu/ch0110/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:-1,ILIZION HD
 http://server1.life-tv.eu/ch0306/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,KINO TVHD
+http://server1.life-tv.eu/ch0175/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,KINOMIX HD
+http://server1.life-tv.eu/ch0178/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,KINOSEMJE HD
+http://server1.life-tv.eu/ch0181/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,muzkoje kino hd
+http://188.35.9.14:2022
+#EXTINF:-1,OSTROSIUZETNA
+http://server1.life-tv.eu/ch0497/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,SOKIROJESCIA
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1,TV21HD
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8
+#EXTINF:-1,VIVA HD
+http://85.143.202.116/hls/viva.m3u8?version=2
+#EXTINF:-1,RASIA RTR HD
+http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8?version=2
+#EXTINF:-1,DISCOVERY 
+http://server1.life-tv.eu/ch0034/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,H2HD
+http://server1.life-tv.eu/ch0057/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+
