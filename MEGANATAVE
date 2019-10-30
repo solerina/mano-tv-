@@ -61,3 +61,15 @@ http://88.216.8.122:8080/btv/index.m3u8
 http://88.216.8.122:8080/tv6/index.m3u8
 #EXTINF:-1,H2
 http://f32e1ec7.ulkakak.pw/iptv/WESVTQAXDA7Q8N/1052/index.m3u8
+#EXTINF:-1,1HD MUSIC
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV1000 PREMIUM
+http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
+#EXTINF:-1,tv1000 premium hd
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,Texno mix
+https://autopilot.catcast.me/content/34763/index.m3u8
+#EXTINF:-1,EPIC DRAMA
+http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,EPIC DRAMA HD
+http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
