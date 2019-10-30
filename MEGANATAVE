@@ -13,10 +13,6 @@ https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 http://hls.goodgame.ru/hls/165462.m3u8
 #EXTINF:-1,akudji tv
 https://stream1.cybergame.tv/live/akudjio.m3u8
-#EXTINF:-1,strtv hd
-https://s.catcast.me/hls/str-tv.m3u8
-#EXTINF:0,STR TV
-http://s.myowntv.org/hls/str-tv.m3u8
 #EXTINF:0,STR
 http://what.strah.video/hls/what.m3u8
 #EXTINF:0,viva
