@@ -1,4 +1,4 @@
-#EXTM3U $BorpasFileFormat="1"
+#EXTM3U
 #EXTINF:-1,i
 http://50.7.127.59:8081/strachnoe/index.m3u8?wmsAuthSign=4e1afe5bf9a01090d70b94f0d481a62b-1572353313-75i37i742i78
 #EXTINF:-1,kk
