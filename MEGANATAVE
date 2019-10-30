@@ -105,4 +105,11 @@ http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8?version=2
 http://server1.life-tv.eu/ch0034/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:-1,H2HD
 http://server1.life-tv.eu/ch0057/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-
+#EXTINF:-1,ID HD
+http://server1.life-tv.eu/ch0060/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,HISTORY HD
+http://server1.life-tv.eu/ch0118/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,EXPLOR HD
+http://server1.life-tv.eu/ch0116/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,PLANETA
+http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
