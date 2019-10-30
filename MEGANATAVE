@@ -15,8 +15,6 @@ http://hls.goodgame.ru/hls/165462.m3u8
 https://stream1.cybergame.tv/live/akudjio.m3u8
 #EXTINF:-1,STR
 http://what.strah.video/hls/what.m3u8
-#EXTINF:-1,viva hd
-http://server1.life-tv.eu/ch0409/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:-1,ytrt
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1,tv3 hd lt
