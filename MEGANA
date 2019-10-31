@@ -9,8 +9,6 @@ http://50.7.127.59:8081/tv_kino/index.m3u8?wmsAuthSign=48ac74550fc07823c799b4e30
 http://radijas.tgfm.lt:8000
 #EXTINF:-1, RUTV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-#EXTINF:-1,FILMS 
-http://hls.goodgame.ru/hls/165462.m3u8
 #EXTINF:-1,akudji tv
 https://stream1.cybergame.tv/live/akudjio.m3u8
 #EXTINF:-1,STR
@@ -99,7 +97,5 @@ http://ott-stream.sevstar.net/2037/video.m3u8?token=8330162968
 http://185.175.92.10:8080/vip_premiere/mono.m3u8
 #EXTINF:-1,TV3 BELARUS
 http://dmitry-tv.ru/his/itv_blrus/CH_TV3_BLRUS.m3u8
-#EXTINF:-1,FILMSn
-rtmp://95.158.55.78/live/film
-#EXTINF:-1,FILMSnn
+#EXTINF:-1,FILMS TV
 http://filmstv.zapto.org:8080
