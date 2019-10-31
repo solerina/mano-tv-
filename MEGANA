@@ -99,3 +99,7 @@ http://ott-stream.sevstar.net/2037/video.m3u8?token=8330162968
 http://185.175.92.10:8080/vip_premiere/mono.m3u8
 #EXTINF:-1,TV3 BELARUS
 http://dmitry-tv.ru/his/itv_blrus/CH_TV3_BLRUS.m3u8
+#EXTINF:-1,FILMSn
+rtmp://95.158.55.78/live/film
+#EXTINF:-1,FILMSnn
+http://filmstv.zapto.org:8080
