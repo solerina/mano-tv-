@@ -121,3 +121,5 @@ http://89.223.6.7/muzhskoe-kino_hd/mono.m3u8?token=yugtelset
 http://ott-stream.sevstar.net/2037/video.m3u8?token=8330162968
 #EXTINF:-1,KINOPREMIAJ
 http://185.175.92.10:8080/vip_premiere/mono.m3u8
+#EXTINF:-1,TV3 BELARUS
+http://dmitry-tv.ru/his/itv_blrus/CH_TV3_BLRUS.m3u8
