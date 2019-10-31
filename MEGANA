@@ -75,20 +75,6 @@ http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:-1,EUROPA+
 http://213.234.9.46:7088/udp/239.1.10.32:1234
-#EXTINF:-1,TV100HD
-http://server1.life-tv.eu/ch0108/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,TV1000 ACION HD
-http://server1.life-tv.eu/ch0107/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,TV1000 RUSKOE KINO HD
-http://server1.life-tv.eu/ch0110/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,ILIZION HD
-http://server1.life-tv.eu/ch0306/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,KINO TVHD
-http://server1.life-tv.eu/ch0175/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,KINOMIX HD
-http://server1.life-tv.eu/ch0178/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,KINOSEMJE HD
-http://server1.life-tv.eu/ch0181/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:-1,muzkoje kino hd
 http://188.35.9.14:2022
 #EXTINF:-1,OSTROSIUZETNA
@@ -101,16 +87,6 @@ http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8
 http://85.143.202.116/hls/viva.m3u8?version=2
 #EXTINF:-1,RASIA RTR HD
 http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8?version=2
-#EXTINF:-1,DISCOVERY 
-http://server1.life-tv.eu/ch0034/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,H2HD
-http://server1.life-tv.eu/ch0057/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,ID HD
-http://server1.life-tv.eu/ch0060/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,HISTORY HD
-http://server1.life-tv.eu/ch0118/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,EXPLOR HD
-http://server1.life-tv.eu/ch0116/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:-1,PLANETA
 http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,REN TV HD
