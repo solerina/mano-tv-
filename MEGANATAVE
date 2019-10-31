@@ -113,3 +113,11 @@ http://server1.life-tv.eu/ch0118/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 http://server1.life-tv.eu/ch0116/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:-1,PLANETA
 http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1,REN TV HD
+http://91.90.255.43:8080/rentv/mpegts?token=
+#EXTINF:-1,muzkoe kino hd
+http://89.223.6.7/muzhskoe-kino_hd/mono.m3u8?token=yugtelset
+#EXTINF:-1,KINO TV HD
+http://ott-stream.sevstar.net/2037/video.m3u8?token=8330162968
+#EXTINF:-1,KINOPREMIAJ
+http://185.175.92.10:8080/vip_premiere/mono.m3u8
