@@ -110,3 +110,20 @@ http://88.216.8.122:8080/tvplay_sports/index.m3u8
 $ExtFilter=diskovery show
 #EXTINF:-1,DISKOVER
 http://server1.life-tv.eu/ch0346/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=diskovery id
+#EXTINF:-1,DISKOVER id
+http://server1.life-tv.eu/ch0061/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=diskovery r
+#EXTINF:-1,DISKOVER r
+http://server1.life-tv.eu/ch0034/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=nature hd
+#EXTINF:-1,nature hd
+http://server1.life-tv.eu/ch0120/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=hd2
+#EXTINF:-1,h2
+http://server1.life-tv.eu/ch0057/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=history hd
+#EXTINF:-1,history hd
+http://server1.life-tv.eu/ch0118/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=history hd
+#EXTINF:-1,history hd
