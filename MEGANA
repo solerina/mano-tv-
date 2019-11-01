@@ -1,99 +1,145 @@
 #EXTM3U
-#EXTINF:-1,i
+$ExtFilter=strašnoe hd
+#EXTINF:-1,strašnoe hd
 http://50.7.127.59:8081/strachnoe/index.m3u8?wmsAuthSign=4e1afe5bf9a01090d70b94f0d481a62b-1572353313-75i37i742i78
-#EXTINF:-1,kk
+$ExtFilter=TV1000
+#EXTINF:-1,TV1000
 http://50.7.127.59:8081/tv1000/index.m3u8?wmsAuthSign=c3378070941a89f1620ceb587ddeb317-1572353522-75i37i742i78
-#EXTINF:-1,o
+$ExtFilter=KINO TV
+#EXTINF:-1,KINO TV
 http://50.7.127.59:8081/tv_kino/index.m3u8?wmsAuthSign=48ac74550fc07823c799b4e30bda388b-1572353577-75i37i742i78
-#EXTINF:-1,mixclub radio
+#EXTINF:-1,CLUB FM RADIO
 http://radijas.tgfm.lt:8000
-#EXTINF:-1, RUTV HD
+$ExtFilter=RUTV HD
+#EXTINF:-1,RUTV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 $ExtFilter=akudji tv
 #EXTINF:-1,akudji tv
 http://hls.goodgame.ru:80/hls/5346.m3u8
-#EXTINF:-1,STR
+$ExtFilter=STR TV
+#EXTINF:-1,STR TV
 http://what.strah.video/hls/what.m3u8
-#EXTINF:-1,ytrt
+$ExtFilter=MEGA
+#EXTINF:-1,MEGA
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,tv3 hd lt
+$ExtFilter=TV3 HD LT
+#EXTINF:-1,TV3 HD LT
 http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
-#EXTINF:-1,kidzone
+$ExtFilter=KIDZONE 
+#EXTINF:-1,KIDZONE
 http://185.78.112.18:80/VIASAT_KIDZONE_TV/mono.m3u8
-#EXTINF:-1,kidzone+
+$ExtFilter=KIDZONE+
+#EXTINF:-1,KIDZONE+
 http://185.78.112.18/KIDZONE_PLUS_HD/tracks-v1a3/mono.m3u8
-#EXTINF:-1,epic drama
+$ExtFilter=EPIC DRAMA HD
+#EXTINF:-1,EPIC DRAMA HD
 http://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1,tv1000 premium
+$ExtFilter=TV1000 PREMIUM HD
+#EXTINF:-1,TV1000 PREMIUM HD
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF: -1, televizoriusPLAY
+$ExtFilter=TVPLAY SPORTS
+#EXTINF:-1,TVPLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
-#EXTINF:-1,str tvhd
+$ExtFilter=STR HD
+#EXTINF:-1,STR HD
 http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,tv3 hd ru
+$ExtFilter=TV3HD RU
+#EXTINF:-1,TV3HD RU
 https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
-#EXTINF:-1,sakirujesci
+$ExtFilter=TRICOLOR
+#EXTINF:-1,TRICOLOR
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-1,tnt music hd
+$ExtFilter=TNT MUZIC HD
+#EXTINF:-1,TNT MUZIC HD
 http://dmitry-tv.ru/his/CH_TNTMUSICHD.m3u8
-#EXTINF:-1,LNK TV
+$ExtFilter=LNK
+#EXTINF:-1,LNK
 http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8
-#EXTINF:-1,PETNICA HD
+$ExtFilter=PETNITSA HD
+#EXTINF:-1,PETNITSA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1,PZN TV
+$ExtFilter=PZN
+#EXTINF:-1,PZN
 http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1,init tv
+$ExtFilter=INT TV LT
+#EXTINF:-1,INIT TV LT
 http://88.216.8.122:8080/init_tv/index.m3u8
-#EXTINF:-1,BALTICM
+$ExtFilter=BALTICUM
+#EXTINF:-1,BALTICUM
 http://88.216.8.122:8080/balticum/index.m3u8
-#EXTINF:-1,DOSENT TW
+$ExtFilter=DOSENT TV
+#EXTINF:-1,DOSENT TV
 https://hls.goodgame.ru/hls/64556.m3u8
-#EXTINF:-1,VINTAZ
+$ExtFilter=PNZ HD
+#EXTINF:-1,PZN HD
 http://hls.goodgame.ru/hls/12949.m3u8
+$ExtFilter=LNK 
 #EXTINF:-1,LNK
 http://88.216.8.122:8080/lnk/index.m3u8
+$ExtFilter=TV3
 #EXTINF:-1,TV3
 http://88.216.8.122:8080/tv3/index.m3u8
+$ExtFilter=BTV
 #EXTINF:-1,BTV
 http://88.216.8.122:8080/btv/index.m3u8
+$ExtFilter=TV6
 #EXTINF:-1,TV6
 http://88.216.8.122:8080/tv6/index.m3u8
-#EXTINF:-1,1HD MUSIC
+$ExtFilter=1HD MUZIC
+#EXTINF:-1,1HD MUZIC
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000 PREMIUM
+$ExtFilter=TV1000 PREMIUM HD
+#EXTINF:-1,TV1000 PREMIUM HD
 http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
-#EXTINF:-1,tv1000 premium hd
+$ExtFilter=PREMIUM HD
+#EXTINF:-1,PREMIUM HD
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-1,EPIC DRAMA
+$ExtFilter=DRAMA HD
+#EXTINF:-1,DRAMA HD
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1,EPIC DRAMA HD
+$ExtFilter=DRAMA SD
+#EXTINF:-1,DRAMA SD
 http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+$ExtFilter=EUROPA+
 #EXTINF:-1,EUROPA+
 http://213.234.9.46:7088/udp/239.1.10.32:1234
-#EXTINF:-1,muzkoje kino hd
+$ExtFilter=MUŽKOE HD
+#EXTINF:-1,MUŽKOE HD
 http://188.35.9.14:2022
-#EXTINF:-1,OSTROSIUZETNA
+$ExtFilter=OSTRASIUŽETNA
+#EXTINF:-1,OSTRASIUŽETNA
 http://server1.life-tv.eu/ch0497/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,SOKIROJESCIA
+$ExtFilter=TRCOLOR HD
+#EXTINF:-1,TRICOLOR HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+$ExtFilter=TV21HD
 #EXTINF:-1,TV21HD
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8
+$ExtFilter=VIVA HD
 #EXTINF:-1,VIVA HD
 http://85.143.202.116/hls/viva.m3u8?version=2
-#EXTINF:-1,RASIA RTR HD
+$ExtFilter=RASSIA HD
+#EXTINF:-1,RASSIA HD
 http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8?version=2
+$ExtFilter=PLANETA
 #EXTINF:-1,PLANETA
 http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
+$ExtFilter=REN TV HD
 #EXTINF:-1,REN TV HD
 http://91.90.255.43:8080/rentv/mpegts?token=
-#EXTINF:-1,muzkoe kino hd
+$ExtFilter=MUŽKOE HD
+#EXTINF:-1,MUŽKOE HD
 http://89.223.6.7/muzhskoe-kino_hd/mono.m3u8?token=yugtelset
+$ExtFilter=KINO TV HD
 #EXTINF:-1,KINO TV HD
 http://ott-stream.sevstar.net/2037/video.m3u8?token=8330162968
-#EXTINF:-1,KINOPREMIAJ
+$ExtFilter=VIP PREMIA
+#EXTINF:-1,VIP PREMIA
 http://185.175.92.10:8080/vip_premiere/mono.m3u8
+$ExtFilter=TV3 BELARUS
 #EXTINF:-1,TV3 BELARUS
 http://dmitry-tv.ru/his/itv_blrus/CH_TV3_BLRUS.m3u8
+$ExtFilter=FILMS TV
 #EXTINF:-1,FILMS TV
 http://filmstv.zapto.org:8080
 $ExtFilter=LNK TV      
