@@ -1,4 +1,10 @@
 #EXTM3U
+$ExtFilter=euro dance
+#EXTINF:-1,euro dance
+https://autopilot.catcast.me/content/36987/index.m3u8
+$ExtFilter=akudjo
+#EXTINF:-1,akudjo
+http://hls.goodgame.ru/hls/5346.m3u8
 $ExtFilter=str
 #EXTINF:-1,str
 http://hls.goodgame.ru/hls/130048.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
@@ -72,7 +78,7 @@ $ExtFilter=DOSENT TV
 https://hls.goodgame.ru/hls/64556.m3u8
 $ExtFilter=PNZ HD
 #EXTINF:-1,PZN HD
-http://hls.goodgame.ru/hls/12949.m3u8
+https://hls.goodgame.ru/hls/12949.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 $ExtFilter=LNK 
 #EXTINF:-1,LNK
 http://88.216.8.122:8080/lnk/index.m3u8
