@@ -63,8 +63,6 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
 #EXTINF:-1,tv1000 premium hd
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-1,Texno mix
-https://autopilot.catcast.me/content/34763/index.m3u8
 #EXTINF:-1,EPIC DRAMA
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:-1,EPIC DRAMA HD
@@ -97,9 +95,6 @@ http://185.175.92.10:8080/vip_premiere/mono.m3u8
 http://dmitry-tv.ru/his/itv_blrus/CH_TV3_BLRUS.m3u8
 #EXTINF:-1,FILMS TV
 http://filmstv.zapto.org:8080
-$ExtFilter=TAVO TV         
-#EXTINF:-1,TAVO TV
-http://185.26.135.161:8000/TAVOTV/tracks-v1a1/mono.m3u8?sess=Smo|fSz6qbgT7gZhiAWki2yyOtrqwkCqxKtEWhh54uSVR_DOZ|7cjZ)rPdwr9eLMY-iuSLau7AwWbHN69jIBRyWUh5V-5kSnYQg-gSAdz0v_zlYQDqSsO2ZTAw3GgzrU
 $ExtFilter=LNK TV      
 #EXTINF:-1,LNK TV
 http://88.216.8.122:8080/lnk/index.m3u8
@@ -112,5 +107,3 @@ http://88.216.8.122:8080/tv3/index.m3u8
 $ExtFilter=tvplay
 #EXTINF:-1,tvplay
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
-#EXTINF:-1, TAVO TV
-http://185.26.135.161:8000/TAVOTV/tracks-v1a1/mono.m3u8?sess=RYS6BC5QZLjZjjiuETGec-RCXNYn4K6rJP9h9j0a05UEy)c(MLdkrK_KY0yT3fiDHfRgMp|mJKP(k5NWibM-5qFjvG2mgBXXg5uG|qT(Yyz4Ez4Ks1-cvWKuScBct|E|
