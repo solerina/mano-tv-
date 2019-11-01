@@ -60,7 +60,7 @@ $ExtFilter=PETNITSA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 $ExtFilter=PZN
 #EXTINF:-1,PZN
-http://hls.goodgame.ru/hls/12949.m3u8
+http://goodgame.ru/channel/pzn/
 $ExtFilter=INT TV LT
 #EXTINF:-1,INIT TV LT
 http://88.216.8.122:8080/init_tv/index.m3u8
