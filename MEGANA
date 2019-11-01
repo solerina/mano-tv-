@@ -15,7 +15,7 @@ $ExtFilter=RUTV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 $ExtFilter=akudji tv
 #EXTINF:-1,akudji tv
-http://hls.goodgame.ru:80/hls/5346.m3u8
+https://stream1.cybergame.tv/live/akudjio.m3u8
 $ExtFilter=STR TV
 #EXTINF:-1,STR TV
 http://what.strah.video/hls/what.m3u8
