@@ -9,8 +9,9 @@ http://50.7.127.59:8081/tv_kino/index.m3u8?wmsAuthSign=48ac74550fc07823c799b4e30
 http://radijas.tgfm.lt:8000
 #EXTINF:-1, RUTV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+$ExtFilter=akudji tv
 #EXTINF:-1,akudji tv
-https://stream1.cybergame.tv/live/akudjio.m3u8
+http://hls.goodgame.ru:80/hls/5346.m3u8
 #EXTINF:-1,STR
 http://what.strah.video/hls/what.m3u8
 #EXTINF:-1,ytrt
@@ -125,5 +126,66 @@ http://server1.life-tv.eu/ch0057/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 $ExtFilter=history hd
 #EXTINF:-1,history hd
 http://server1.life-tv.eu/ch0118/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-$ExtFilter=history hd
-#EXTINF:-1,history hd
+$ExtFilter=tv1000 hd
+#EXTINF:-1,tv1000 hd
+http://server1.life-tv.eu/ch0108/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=tv1000 acion hd
+#EXTINF:-1,tv1000 acion hd
+http://server1.life-tv.eu/ch0107/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=kinohit hd
+#EXTINF:-1,kinohit hd
+http://server1.life-tv.eu/ch0182/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=LRTHD
+#EXTINF:-1,LRTHD
+http://server1.life-tv.eu/ch0379/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=sts kid hd
+#EXTINF:-1,cts kid hd
+http://server1.life-tv.eu/ch0243/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=zara hd
+#EXTINF:-1,zara hd
+http://server1.life-tv.eu/ch0151/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=epic drama hd
+#EXTINF:-1,epic drama hd
+http://server1.life-tv.eu/ch0349/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=kino tv hd
+#EXTINF:-1,kino tv hd
+http://server1.life-tv.eu/ch0176/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=paramaut hd
+#EXTINF:-1,paramaunt hd
+http://server1.life-tv.eu/ch0086/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=shakirajušcia
+#EXTINF:-1,shakirajušcia
+http://server1.life-tv.eu/ch0498/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=film
+#EXTINF:-1,film
+http://server1.life-tv.eu/ch0497/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=kinoserija hd
+#EXTINF:-1,kinoserija hd
+http://server1.life-tv.eu/ch0181/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=vip serial hd
+#EXTINF:-1,vip serial hd
+http://server1.life-tv.eu/ch0126/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=vip premia hd
+#EXTINF:-1,vip premia hd
+http://server1.life-tv.eu/ch0125/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=vip komedi hd
+#EXTINF:-1,vip komedi hd
+http://server1.life-tv.eu/ch0124/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=vip megahit hd
+#EXTINF:-1,vip megahit hd
+http://server1.life-tv.eu/ch0543/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=ruskoe kino hd
+#EXTINF:-1,ruskoje kino hd
+http://server1.life-tv.eu/ch0110/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=fod net
+#EXTINF:-1,fod net
+http://server1.life-tv.eu/ch0050/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=eda 
+#EXTINF:-1,eda
+http://server1.life-tv.eu/ch0150/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+
+
+
+
+
+
