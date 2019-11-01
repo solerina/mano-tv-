@@ -107,3 +107,6 @@ http://88.216.8.122:8080/tv3/index.m3u8
 $ExtFilter=tvplay
 #EXTINF:-1,tvplay
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
+$ExtFilter=diskovery show
+#EXTINF:-1,DISKOVER
+http://server1.life-tv.eu/ch0346/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
