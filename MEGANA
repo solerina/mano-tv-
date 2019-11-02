@@ -61,9 +61,6 @@ http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 $ExtFilter=TNT MUZIC HD
 #EXTINF:-1,TNT MUZIC HD
 http://dmitry-tv.ru/his/CH_TNTMUSICHD.m3u8
-$ExtFilter=LNK
-#EXTINF:-1,LNK
-http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8
 $ExtFilter=PETNITSA HD
 #EXTINF:-1,PETNITSA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
@@ -73,15 +70,9 @@ http://88.216.8.122:8080/init_tv/index.m3u8
 $ExtFilter=BALTICUM
 #EXTINF:-1,BALTICUM
 http://88.216.8.122:8080/balticum/index.m3u8
-$ExtFilter=DOSENT TV
-#EXTINF:-1,DOSENT TV
-https://hls.goodgame.ru/hls/64556.m3u8
 $ExtFilter=PNZ HD
 #EXTINF:-1,PZN HD
 https://hls.goodgame.ru/hls/12949.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-$ExtFilter=LNK 
-#EXTINF:-1,LNK
-http://88.216.8.122:8080/lnk/index.m3u8
 $ExtFilter=TV3
 #EXTINF:-1,TV3
 http://88.216.8.122:8080/tv3/index.m3u8
