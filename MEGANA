@@ -29,12 +29,10 @@ http://88.216.8.122:8080/balticum_auksinis/index.m3u8
 $ExtFilter=euro dance
 #EXTINF:-1,euro dance
 https://autopilot.catcast.me/content/36987/index.m3u8
-$ExtFilter=akudjo
-#EXTINF:-1,akudjo
-http://hls.goodgame.ru/hls/5346.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-$ExtFilter=str
+#EXTINF:-1,R
+http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,str
-http://hls.goodgame.ru/hls/130048.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+http://hls.goodgame.ru/hls/130048.m3u8
 $ExtFilter=strašnoe hd
 #EXTINF:-1,strašnoe hd
 http://50.7.127.59:8081/strachnoe/index.m3u8?wmsAuthSign=4e1afe5bf9a01090d70b94f0d481a62b-1572353313-75i37i742i78
