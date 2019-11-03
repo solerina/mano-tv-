@@ -251,7 +251,7 @@ $ExtFilter=fod net
 #EXTINF:-1,fod nett
 http://server1.life-tv.eu/ch0050/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 $ExtFilter=eda 
-#EXTINF:-1,eda
+#EXTINF:-1,edav
 http://server1.life-tv.eu/ch0150/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 
 
