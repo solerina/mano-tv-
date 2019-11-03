@@ -248,7 +248,7 @@ $ExtFilter=ruskoe kino hd
 #EXTINF:-1,ruskoje kino hd
 http://server1.life-tv.eu/ch0110/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 $ExtFilter=fod net
-#EXTINF:-1,fod net
+#EXTINF:-1,fod nett
 http://server1.life-tv.eu/ch0050/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 $ExtFilter=eda 
 #EXTINF:-1,eda
