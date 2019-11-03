@@ -114,7 +114,7 @@ $ExtFilter=1HD MUZIC
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 $ExtFilter=TV1000 PREMIUM HD
 #EXTINF:-1,TV1000 PREMIUM HD
-http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
+https://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=2200000.m3u8_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=2200000.m3u8
 $ExtFilter=PREMIUM HD
 #EXTINF:-1,PREMIUM HD
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8.m3u8
