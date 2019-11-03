@@ -48,7 +48,7 @@ $ExtFilter=MEGA
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 $ExtFilter=TV3 HD LT
 #EXTINF:-1,TV3 HD LT
-http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20003=96000-video=5000000.m3u8.m3u8
 $ExtFilter=KIDZONE 
 #EXTINF:-1,KIDZONE
 http://185.78.112.18:80/VIASAT_KIDZONE_TV/mono.m3u8
@@ -57,10 +57,10 @@ $ExtFilter=KIDZONE+
 http://185.78.112.18/KIDZONE_PLUS_HD/tracks-v1a3/mono.m3u8
 $ExtFilter=EPIC DRAMA HD
 #EXTINF:-1,EPIC DRAMA HD
-http://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+http://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20003=96000-video=5000000.m3u8.m3u8
 $ExtFilter=TV1000 PREMIUM HD
 #EXTINF:-1,TV1000 PREMIUM HD
-http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8.m3u8
 $ExtFilter=TVPLAY SPORTS
 #EXTINF:-1,TVPLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
@@ -105,13 +105,13 @@ $ExtFilter=TV1000 PREMIUM HD
 http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
 $ExtFilter=PREMIUM HD
 #EXTINF:-1,PREMIUM HD
-http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8.m3u8
 $ExtFilter=DRAMA HD
 #EXTINF:-1,DRAMA HD
-http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20003=96000-video=5000000.m3u8.m3u8
 $ExtFilter=DRAMA SD
 #EXTINF:-1,DRAMA SD
-http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20003=96000-video=5000000.m3u8.m3u8
 $ExtFilter=EUROPA+
 #EXTINF:-1,EUROPA+
 http://213.234.9.46:7088/udp/239.1.10.32:1234
