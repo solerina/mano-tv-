@@ -1,4 +1,10 @@
 #EXTM3U
+$ExtFilter=p
+#EXTINF:-1,p
+https://88.119.220.3/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20002=96000-video=2200000.m3u8
+$ExtFilter=pre
+#EXTINF:-1,pre
+https://88.119.220.3/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20001=96000-video=2200000.m3u8
 $ExtFilter=prem
 #EXTINF:-1,prem
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
