@@ -1,7 +1,9 @@
 #EXTM3U
+$ExtFilter=hi
+#EXTINF:-1,hi
 https://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20000=96000-video=5000000.m3u8
-$ExtFilter=history
-#EXTINF:-1,hisyory
+$ExtFilter=h
+#EXTINF:-1,h
 https://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20000=96000-video=5000000.m3u8
 $ExtFilter=history
 #EXTINF:-1,hisyory
