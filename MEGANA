@@ -1,5 +1,4 @@
 #EXTM3U
-https://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20001=96000-video=2200000.m3u8
 $ExtFilter=history
 #EXTINF:-1,history
 http://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20000=96000-video=5000000.m3u8
@@ -61,7 +60,7 @@ $ExtFilter=MEGA
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 $ExtFilter=TV3 HD LT
 #EXTINF:-1,TV3 HD LT
-https://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20000=96000-video=5000000.m3u8
+https://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=5000000.m3u8
 $ExtFilter=KIDZONE 
 #EXTINF:-1,KIDZONE
 http://185.78.112.18:80/VIASAT_KIDZONE_TV/mono.m3u8
