@@ -1,7 +1,12 @@
 #EXTM3U
+$ExtFilter=kino tv3
+#EXTINF:-1,kino tv3
+https://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=2200000.m3u8
+$ExtFilter=kino++
+#EXTINF:-1,kino++
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8-audio_20002=96000-video=2200000.m3u8
-$ExtFilter=kino
-#EXTINF:-1,kino 
+$ExtFilter=kino m
+#EXTINF:-1,kino m
 http://server1.life-tv.eu/ch0179/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 $ExtFilter=pervij ntb
 #EXTINF:-1,pervij ntb
@@ -74,9 +79,6 @@ http://what.strah.video/hls/what.m3u8
 $ExtFilter=MEGA
 #EXTINF:-1,MEGA
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-$ExtFilter=TV3 HD LT
-#EXTINF:-1,TV3 HD LT
-https://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20002=96000-video=2200000.m3u8
 $ExtFilter=KIDZONE 
 #EXTINF:-1,KIDZONE
 http://185.78.112.18:80/VIASAT_KIDZONE_TV/mono.m3u8
