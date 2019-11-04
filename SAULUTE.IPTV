@@ -10,7 +10,7 @@ https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,PZN TV
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,rtv1
-http:\\88.119.220.2\live\eds\EpicDramaHD\HLS_encr\EpicDramaHD-audio_20000=96000-video=5000000.m3u8
+http:\\213.252.252.17\live\eds\EpicDramaHD\HLS_encr\EpicDramaHD-audio_20000=96000-video=5000000.m3u8
 #EXTINF:-1,ftv
 http:\\185.78.112.23\europa-plus-tv\mono.m3u8
 #EXTINF:-1,tv+
@@ -36,4 +36,4 @@ http:\\91.223.105.236:8081\hlsx\472\472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,megaw
 https://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
 #EXTINF:-1,EPINE DRAMA
-https://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20000=96000-video=22000000.m3u8
+https://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20000=96000-video=5000000.m3u8
