@@ -9,30 +9,6 @@ http://hls.goodgame.ru/hls/130048.m3u8
 https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,PZN TV
 http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1,rtv1
-http:\\213.252.252.17\live\eds\EpicDramaHD\HLS_encr\EpicDramaHD-audio_20000=96000-video=5000000.m3u8
-#EXTINF:-1,ftv
-http:\\185.78.112.23\europa-plus-tv\mono.m3u8
-#EXTINF:-1,tv+
-http:\\89.251.64.134:9998\udp\239.254.3.38:1234
-#EXTINF:-1,music
-http:\\88.119.220.2\live\eds\TV1000PremiumHD\HLS_encr\TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
-#EXTINF:-1,m2
-http:\\185.176.117.243\live\eds\ViasatExploreHD\HLS_encr\index.m3u8
-#EXTINF:-1,rex
-http:\\rutv.gcdn.co\streams\1410_1272\720n\index.m3u8
-#EXTINF:-1,vil
-http:\\185.176.117.243\live\eds\ViasatHistoryHD\HLS_encr\ViasatHistoryHD-audio_20000=96000-video=5000000.m3u8
-#EXTINF:-1,ema
-http:\\188.35.9.5:10020\stolen\403x\hot.dll
-#EXTINF:-1,vilmax
-http:\\176.62.191.181:19000\dop20503\kinohd\index.m3u8
-#EXTINF:-1,mq
-http:\\176.62.191.181:19000\dop20505\kinomikshd\index.m3u8
-#EXTINF:-1,rtv
-http:\\95.47.243.147\rentvhd\index.m3u8
-#EXTINF:-1,mega
-http:\\91.223.105.236:8081\hlsx\472\472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,megaw
 https://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
 #EXTINF:-1,EPINE DRAMA
