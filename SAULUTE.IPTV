@@ -1,4 +1,5 @@
 #EXTM3U
+https://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=5500000.m3u8
 #EXTINF:-1,DOSENT TV
 https://hls.goodgame.ru/hls/64556_720.m3u8
 #EXTINF:-1,PZNTVHD
