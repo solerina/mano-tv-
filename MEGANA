@@ -1,10 +1,8 @@
 #EXTM3U
-$ExtFilter=kino tv3
-#EXTINF:-1,kino tv3
-https://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=2200000.m3u8
+http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 $ExtFilter=kino++
 #EXTINF:-1,kino++
-http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8-audio_20002=96000-video=2200000.m3u8
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8-audio_20000=96000-video=5000000.m3u8
 $ExtFilter=kino m
 #EXTINF:-1,kino m
 http://server1.life-tv.eu/ch0179/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
