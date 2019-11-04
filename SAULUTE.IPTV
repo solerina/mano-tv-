@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,DOSENT TV
+https://hls.goodgame.ru/hls/64556_720.m3u8
+#EXTINF:-1,PZNTVHD
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,STRTV HD
+http://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,akudjo tv ru
 https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,PZN TV
