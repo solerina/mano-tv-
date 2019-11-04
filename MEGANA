@@ -1,4 +1,5 @@
 #EXTM3U
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8-audio_20002=96000-video=2200000.m3u8
 $ExtFilter=kino
 #EXTINF:-1,kino 
 http://server1.life-tv.eu/ch0179/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
@@ -31,7 +32,7 @@ ExtFilter=prem
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
 $ExtFilter=pzn
 #EXTINF:-1,pzn
-https://hls.goodgame.ru/hls/12949.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+https://hls.goodgame.ru/hls/12949.m3u8
 $ExtFilter=play
 #EXTINF:-1,play
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
@@ -44,9 +45,11 @@ http://88.216.8.122:8080/balticum_auksinis/index.m3u8
 $ExtFilter=euro dance
 #EXTINF:-1,euro dance
 https://autopilot.catcast.me/content/36987/index.m3u8
-#EXTINF:-1,R
+$ExtFilter=euro dance
+#EXTINF:-1,euro dance
 http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,str
+$ExtFilter=euro dance
+#EXTINF:-1,euro dance
 http://hls.goodgame.ru/hls/130048.m3u8
 $ExtFilter=strašnoe hd
 #EXTINF:-1,strašnoe hd
@@ -73,7 +76,7 @@ $ExtFilter=MEGA
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 $ExtFilter=TV3 HD LT
 #EXTINF:-1,TV3 HD LT
-https://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=5000000.m3u8
+https://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20002=96000-video=2200000.m3u8
 $ExtFilter=KIDZONE 
 #EXTINF:-1,KIDZONE
 http://185.78.112.18:80/VIASAT_KIDZONE_TV/mono.m3u8
@@ -91,7 +94,7 @@ $ExtFilter=TVPLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
 $ExtFilter=STR HD
 #EXTINF:-1,STR HD
-http://hls.goodgame.ru/hls/130048.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+http://hls.goodgame.ru/hls/130048.m3u8
 $ExtFilter=TV3HD RU
 #EXTINF:-1,TV3HD RU
 https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
@@ -112,7 +115,7 @@ $ExtFilter=BALTICUM
 http://88.216.8.122:8080/balticum/index.m3u8
 $ExtFilter=PNZ HD
 #EXTINF:-1,PZN HD
-https://hls.goodgame.ru/hls/12949.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+https://hls.goodgame.ru/hls/12949.m3u8
 $ExtFilter=TV3
 #EXTINF:-1,TV3
 http://88.216.8.122:8080/tv3/index.m3u8
