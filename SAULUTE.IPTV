@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1,Viasat History HD
-https://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20000=96000-video=2200000.m3u8
+https://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1,Viasat Explorer HD
 https://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1,TV3HD LT
 https://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=5500000.m3u8
 #EXTINF:-1,DOSENT TV
 https://hls.goodgame.ru/hls/64556_720.m3u8
-#EXTINF:-1,PZNTVHD
+#EXTINF:-1,PZNTV HD
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,STRTV HD
 http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,akudjo tv ru
+#EXTINF:-1,akudjo TV
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,PZN TV
+#EXTINF:-1,PZN 
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,TV1000 PREMIUM HD LT
 https://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
-#EXTINF:-1,EPINE DRAMA
+#EXTINF:-1,EPIC DRAMA HD LT
 https://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20002=96000-video=2200000.m3u8
