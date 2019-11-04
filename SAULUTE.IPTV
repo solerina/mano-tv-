@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,akudjo tv ru
 https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,PZN TV
+http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,rtv1
 http:\\88.119.220.2\live\eds\EpicDramaHD\HLS_encr\EpicDramaHD-audio_20000=96000-video=5000000.m3u8
 #EXTINF:-1,ftv
