@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1,akudjo1
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8
-#EXTINF:-1,ntv
-http:\\46.32.68.167\s\live\918\86.169.51.136\0\0.m3u8
-#EXTINF:-1,rtv+
-http:\\89.223.6.7\topsong\mono.m3u8?token=t.me\iptv6
+https://stream1.cybergame.tv/live/akudjio.m3u8
 #EXTINF:-1,rtv1
-http:\\88.119.220.2\live\eds\EpicDramaHD\HLS_encr\EpicDramaHD.m3u8
+http:\\88.119.220.2\live\eds\EpicDramaHD\HLS_encr\EpicDramaHD-audio_20000=96000-video=5000000.m3u8
 #EXTINF:-1,ftv
 http:\\185.78.112.23\europa-plus-tv\mono.m3u8
 #EXTINF:-1,tv+
