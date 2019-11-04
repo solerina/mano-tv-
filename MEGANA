@@ -1,4 +1,19 @@
 #EXTM3U
+$ExtFilter=kino
+#EXTINF:-1,kino 
+http://server1.life-tv.eu/ch0179/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=pervij ntb
+#EXTINF:-1,pervij ntb
+http://server1.life-tv.eu/ch0209/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=pervij tny
+#EXTINF:-1,pervij tnt
+http://server1.life-tv.eu/ch0254/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=pervij rtr
+#EXTINF:-1,pervij rtr
+http://server1.life-tv.eu/ch0190/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter=pervij
+#EXTINF:-1,pervij
+http://server1.life-tv.eu/ch0001/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 $ExtFilter=history
 #EXTINF:-1,history
 http://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20000=96000-video=5000000.m3u8
