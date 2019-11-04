@@ -45,11 +45,11 @@ http://88.216.8.122:8080/balticum_auksinis/index.m3u8
 $ExtFilter=euro dance
 #EXTINF:-1,euro dance
 https://autopilot.catcast.me/content/36987/index.m3u8
-$ExtFilter=euro dance
-#EXTINF:-1,euro dance
+$ExtFilter=euro dan
+#EXTINF:-1,euro da
 http://hls.goodgame.ru/hls/5346.m3u8
-$ExtFilter=euro dance
-#EXTINF:-1,euro dance
+$ExtFilter=euro dan
+#EXTINF:-1,euro dan
 http://hls.goodgame.ru/hls/130048.m3u8
 $ExtFilter=strašnoe hd
 #EXTINF:-1,strašnoe hd
