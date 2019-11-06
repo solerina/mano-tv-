@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,ШОКИРУЮЩЕЕ HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1,EURODANCE
+https://autopilot.catcast.me/content/36987/index.m3u8
 #EXTINF:-1, TRICOLOR FM
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,MIR HD
