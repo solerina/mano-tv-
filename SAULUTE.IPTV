@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,TECNOMIX
+https://autopilot.catcast.me/content/34763/index.m3u8
+#EXTINF:-1,VHSTV
+http://51.254.59.155/hls/vhstv.m3u8
+#EXTINF:-1,RENHD
+http://95.47.243.147/rentvhd/index.m3u8
+#EXTINF:-1,kuchnia tv hd
+http://88.216.48.147/flussonic/Kuchnia_TV_HD/index.m3u8
 #EXTINF:-1,ШОКИРУЮЩЕЕ HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,EURODANCE
