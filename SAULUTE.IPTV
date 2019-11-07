@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,VHS2
+https://s.catcast.me/hls/vhstv.m3u8
+#EXTINF:-1,VHS1
+https://s2.catcast.me/hls/vhstv.m3u8
 #EXTINF:-1,FILMS TV
 http://filmstv.zapto.org:8080
 #EXTINF:-1,RTR HD
@@ -6,7 +10,7 @@ http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8
 #EXTINF:-1,TECNOMIX
 https://autopilot.catcast.me/content/34763/index.m3u8
 #EXTINF:-1,VHSTV
-http://51.254.59.155/hls/vhstv.m3u8
+http://213.252.252.17/hls/vhstv.m3u8
 #EXTINF:-1,RENHD
 http://95.47.243.147/rentvhd/index.m3u8
 #EXTINF:-1,kuchnia tv hd
