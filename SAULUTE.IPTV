@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,FILM1
+#EXTINF:-1,FILMs tv
 rtmp://filmstv.zapto.org/live/film
-#EXTINF:-1,FILM 2
+#EXTINF:-1,FILMs tv2
 http://filmstv.zapto.org:8080
 #EXTINF:-1,FILMS TV
 http://hls.goodgame.ru/hls/165462.m3u8
