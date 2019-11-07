@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,FILM1
+rtmp://filmstv.zapto.org/live/film
 #EXTINF:-1,FILM 2
 http://filmstv.zapto.org:8080
 #EXTINF:-1,FILMS TV
