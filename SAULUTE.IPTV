@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1,FILMS 1
-rtmp://filmstv.zapto.org/live/film
-#EXTINF:-1,FILMS 2
-http://filmstv.zapto.org:8080
 #EXTINF:-1,FILMS TV
-http://hls.goodgame.ru/hls/165462.m3u8
+http://filmstv.zapto.org:8080
 #EXTINF:-1,RTR HD
 http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8
 #EXTINF:-1,TECNOMIX
