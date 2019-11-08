@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U$ExtFilter="SPORT"
 #EXTINF:-1,VHS
 https://s.catcast.me/hls/vhstv.m3u8
 #EXTINF:-1,FILMS TV
