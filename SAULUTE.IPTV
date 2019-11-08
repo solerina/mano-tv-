@@ -5,8 +5,6 @@ https://s.catcast.me/hls/vhstv.m3u8
 http://filmstv.zapto.org:8080
 #EXTINF:-1,RTR HD
 http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8
-#EXTINF:-1,TECNOMIX
-https://autopilot.catcast.me/content/34763/index.m3u8
 #EXTINF:-1,REN HD
 http://95.47.243.147/rentvhd/index.m3u8
 #EXTINF:-1,kuchnia tv hd
