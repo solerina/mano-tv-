@@ -1,4 +1,5 @@
 #EXTM3U http://ott.lightiptv.me/epg.xml.gz/http://linux-sat.tv/epg/tvprogram_ua_ru.gz
+http://zaxmltv.flash.za.org/
 $ExtFilter="VHS"
 #EXTINF:-1,VHS
 https://s.catcast.me/hls/vhstv.m3u8
