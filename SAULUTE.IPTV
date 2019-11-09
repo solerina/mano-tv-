@@ -1,4 +1,9 @@
-#EXTM3U http://ott.lightiptv.me/epg.xml.gz/http://linux-sat.tv/epg/tvprogram_ua_ru.gz
+#EXTM3U 
+#EXTINF:-1,y
+http://ott.lightiptv.me/epg.xml.gz/
+#EXTINF:-1,v
+http://linux-sat.tv/epg/tvprogram_ua_ru.gz
+#EXTINF:-1,ty
 http://zaxmltv.flash.za.org/
 $ExtFilter="VHS"
 #EXTINF:-1,VHS
