@@ -2,41 +2,60 @@
 $ExtFilter="FILMS"
 #EXTINF:-1,VHS
 https://s.catcast.me/hls/vhstv.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,FILMS TV
 http://filmstv.zapto.org:8080
+$ExtFilter="FILMS"
 #EXTINF:-1,RTR HD
 http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,REN HD
 http://95.47.243.147/rentvhd/index.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,kuchnia tv hd
 http://88.216.48.147/flussonic/Kuchnia_TV_HD/index.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,ШОКИРУЮЩЕЕ HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+$ExtFilter="FILMS"
 #EXTINF:-1,EURODANCE
 https://autopilot.catcast.me/content/36987/index.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,ШОКИРУЮЩЕЕ HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+$ExtFilter="FILMS"
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,TV3(RU)
 http://85.112.114.11:8086/udp/233.170.170.79:58631
+$ExtFilter="FILMS"
 #EXTINF:-1,EUROPA plius tv
 http://213.234.9.46:7088/udp/239.1.10.32:1234
+$ExtFilter="FILMS"
 #EXTINF:-1,Viasat History HD
 https://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20000=96000-video=2200000.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,Viasat Explorer HD
 https://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20001=96000-video=2200000.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,TV3HD LT
 https://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=5500000.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,PZNTV HD
 http://hls.goodgame.ru/hls/12949.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,STRTV HD
 http://hls.goodgame.ru:80/hls/130048.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,akudjo TV
 http://hls.goodgame.ru/hls/5346.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,PZN tv
 http://hls.goodgame.ru/hls/12949.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,TV1000 PREMIUM HD LT
 https://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
+$ExtFilter="FILMS"
 #EXTINF:-1,EPIC DRAMA HD LT
 https://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20002=96000-video=2200000.m3u8
