@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U http://ott.lightiptv.me/epg.xml.gz
 $ExtFilter="VHS"
 #EXTINF:-1,VHS
 https://s.catcast.me/hls/vhstv.m3u8
