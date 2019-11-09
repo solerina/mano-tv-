@@ -6,6 +6,9 @@ https://s.catcast.me/hls/vhstv.m3u8
 $ExtFilter="FILMS TV"
 #EXTINF:-1,FILMS TV
 http://filmstv.zapto.org:8080
+$ExtFilter="VHS"
+#EXTINF:-1,VHS
+https://s2.catcast.me/hls/vhstv.m3u8
 $ExtFilter="RTR HD"
 #EXTINF:-1,RTR HD
 http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8
