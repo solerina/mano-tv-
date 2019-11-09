@@ -1,5 +1,7 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1,y
+http://www.zona-iptv.ru/2017/01/playlist-iptv-sportivnyh-kanalov.html
+#EXTINF:-1,yyuy
 http://ott.lightiptv.me/epg.xml.gz/
 #EXTINF:-1,v
 http://linux-sat.tv/epg/tvprogram_ua_ru.gz
