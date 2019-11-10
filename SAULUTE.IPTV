@@ -5,6 +5,30 @@ https://s.catcast.me/hls/vhstv.m3u8
 $ExtFilter="FILMS TV"
 #EXTINF:-1,FILMS TV
 http://filmstv.zapto.org:8080
+$ExtFilter="ostrp
+#EXTINF:-1,ostro
+http://server1.life-tv.eu/ch0497/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter="kinoseria
+#EXTINF:-1,kinoseria
+http://server1.life-tv.eu/ch0181/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter="kinomix
+#EXTINF:-1,kinomix
+http://server1.life-tv.eu/ch0178/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter="kinotv
+#EXTINF:-1,kinotv
+http://server1.life-tv.eu/ch0175/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter="tv1000 ruskoe iliuzion
+#EXTINF:-1,tv1000 ruskoe iliuzion
+http://server1.life-tv.eu/ch0306/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter="tv1000 ruskoe
+#EXTINF:-1,tv1000 ruskoe
+http://server1.life-tv.eu/ch0110/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter="tvacion 1000hd
+#EXTINF:-1,tvacion1000hd
+http://server1.life-tv.eu/ch0107/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+$ExtFilter="tv1000hd
+#EXTINF:-1,tv1000hd
+http://server1.life-tv.eu/ch0108/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 $ExtFilter="VHS"
 #EXTINF:-1,VHS
 https://s2.catcast.me/hls/vhstv.m3u8
@@ -19,13 +43,13 @@ $ExtFilter="KUCHNIA TV HD"
 http://88.216.48.147/flussonic/Kuchnia_TV_HD/index.m3u8
 $ExtFilter="ШОКИРУЮЩЕЕ HD"
 #EXTINF:-1,ШОКИРУЮЩЕЕ HD
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+http://server1.life-tv.eu/ch0498/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 $ExtFilter="EURODANCE"
 #EXTINF:-1,EURODANCE
 https://autopilot.catcast.me/content/36987/index.m3u8
 $ExtFilter="ШОКИРУЮЩЕЕ HD"
 #EXTINF:-1,ШОКИРУЮЩЕЕ HD
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&amp;p=87e0c783e9b31451
 $ExtFilter="MIR HD"
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
