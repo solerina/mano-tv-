@@ -47,9 +47,6 @@ http://server1.life-tv.eu/ch0498/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 $ExtFilter="EURODANCE"
 #EXTINF:-1,EURODANCE
 https://autopilot.catcast.me/content/36987/index.m3u8
-$ExtFilter="ШОКИРУЮЩЕЕ HD"
-#EXTINF:-1,ШОКИРУЮЩЕЕ HD
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&amp;p=87e0c783e9b31451
 $ExtFilter="MIR HD"
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -59,6 +56,12 @@ http://85.112.114.11:8086/udp/233.170.170.79:58631
 $ExtFilter="EUROPA PLIUS TV"
 #EXTINF:-1,EUROPA plius tv
 http://213.234.9.46:7088/udp/239.1.10.32:1234
+$ExtFilter="STRTV HD"
+#EXTINF:-1,STRTV HD
+http://hls.goodgame.ru/hls/130048.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+$ExtFilter="AKUDJI TV"
+#EXTINF:-1,akudji tv
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
 $ExtFilter="VIASAT HISTORY HD"
 #EXTINF:-1,Viasat History HD
 https://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20000=96000-video=2200000.m3u8
@@ -76,10 +79,13 @@ $ExtFilter="STRTV HD"
 http://hls.goodgame.ru:80/hls/130048.m3u8
 $ExtFilter="AKUDJI TV"
 #EXTINF:-1,akudjo TV
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+http://hls.goodgame.ru:80/hls/5346.m3u8
 $ExtFilter="PZN TV"
 #EXTINF:-1,PZN tv
 http://hls.goodgame.ru/hls/12949.m3u8
+$ExtFilter="Paramaunt
+#EXTINF:-1,Paramaunt
+http://server1.life-tv.eu/ch0085/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 $ExtFilter="TV1000 PREMIUM HD LT"
 #EXTINF:-1,TV1000 PREMIUM HD LT
 https://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20000=96000-video=5000000.m3u8
