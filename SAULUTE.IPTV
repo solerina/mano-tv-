@@ -1,4 +1,7 @@
 #EXTM3U
+$ExtFilter=strax
+#EXTINF:-1,strax
+http://s2.myowntv.org/hls/what.m3u8?login=beats
 $ExtFilter="VHS"
 #EXTINF:-1,VHS
 https://s.catcast.me/hls/vhstv.m3u8
@@ -58,7 +61,7 @@ $ExtFilter="EUROPA PLIUS TV"
 http://213.234.9.46:7088/udp/239.1.10.32:1234
 $ExtFilter="STRTV HD"
 #EXTINF:-1,STRTV HD
-http://hls.goodgame.ru/hls/130048.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+http://hls.goodgame.ru/hls/130048.m3u8
 $ExtFilter="AKUDJI TV"
 #EXTINF:-1,akudji tv
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
