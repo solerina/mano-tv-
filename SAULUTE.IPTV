@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,STRAH TV
 http://s2.myowntv.org/hls/what.m3u8?login=beats
-#EXTINF:-1,FILMS TV
-http://filmstv.zapto.org:8080
 #EXTINF:-1,Остросюжетное HD
 http://server1.life-tv.eu/ch0497/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:-1,kinoseria hd
@@ -19,8 +17,6 @@ http://server1.life-tv.eu/ch0110/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 http://server1.life-tv.eu/ch0107/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:-1,tv1000hd
 http://server1.life-tv.eu/ch0108/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,VHS
-https://s2.catcast.me/hls/vhstv.m3u8
 #EXTINF:-1,RTR HD
 http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8
 #EXTINF:-1,REN HD
