@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,1+1HD
+http://188.35.9.11:2029
+#EXTINF:-1,KINO POKAZ
+http://188.35.9.11:2021
 #EXTINF:-1,NRJAI HITS HD
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 #EXTINF:-1,OCTROCUZETNA HD
