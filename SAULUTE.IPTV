@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CTRASNOE HD
+http://134.249.101.234:6878/ace/getstream?url=http://pomoyka.win/trash/ttv-list/acelive/as_cid_68730a.acelive
 #EXTINF:-1,STRAH TV
 http://s2.myowntv.org/hls/what.m3u8?login=beats
 #EXTINF:-1,RTR HD
