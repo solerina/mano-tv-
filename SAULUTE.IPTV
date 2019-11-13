@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,KINOMIX HD
 http://88.216.48.147/flussonic/Kinomiks_HD/mono.m3u8
-#EXTINF:-1,HCT TB
-http://ott-cdn.ucom.am/s87/04.m3u8
 #EXTINF:-1,H2RU
 http://89.251.64.134:9998/udp/239.254.3.38:1234
 #EXTINF:-1,EUROPA PLIUS HD
