@@ -9,12 +9,8 @@ https://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20002=960
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1,32MUZIC HD
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1,DOSENT TV
-https://hls.goodgame.ru/hls/64556.m3u8
 #EXTINF:-1,1+1HD
 http://188.35.9.11:2029
-#EXTINF:-1,KINO POKAZ
-http://188.35.9.11:2021
 #EXTINF:-1,NRJAI HITS HD
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 #EXTINF:-1,OCTROCUZETNA HD
@@ -59,8 +55,6 @@ http://188.190.222.51/TLUM_HD/mpegts
 http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
 #EXTINF:-1,PETNICA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1,KINOMIX HD
-http://88.216.48.147/flussonic/Kinomiks_HD/mono.m3u8
 #EXTINF:-1,H2RU
 http://89.251.64.134:9998/udp/239.254.3.38:1234
 #EXTINF:-1,EUROPA PLIUS HD
