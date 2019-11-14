@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,SENTANTA SPORTS EURO HD
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,32MUZIC HD
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1,DOSENT TV
 https://hls.goodgame.ru/hls/64556.m3u8
 #EXTINF:-1,1+1HD
