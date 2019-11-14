@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,RUTV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1,LRT Sd
 https://194.204.46.137/live/eds/LRT/HLS_encr/LRT-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1,KINO POKAZ	
