@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,VIASAT EXPLOR
+https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 #EXTINF:-1,KINOXIT HD
 http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/516/index.m3u8
 #EXTINF:-1,KINOSAL
