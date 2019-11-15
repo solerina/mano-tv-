@@ -3,8 +3,6 @@
 https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1,KINOXIT HD
 http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/516/index.m3u8
-#EXTINF:-1,KINOSAL
-http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,KINO TV HD
 http://37.192.22.180:81/udp/239.1.17.13:1234
 #EXTINF:-1,MIR HD
@@ -13,8 +11,6 @@ http://dmitry-tv.ru/his/CH_MIRHD.m3u8
 http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-1,SONG TV RUSIA HD
 https://songtvru.ru/lhigh/playlist.m3u8
-#EXTINF:-1,RUTV
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1,LRT Sd
 https://194.204.46.137/live/eds/LRT/HLS_encr/LRT-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1,KINO POKAZ	
@@ -119,8 +115,6 @@ http://s2.myowntv.org/hls/what.m3u8?login=beats
 http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8
 #EXTINF:-1,REN HD
 http://95.47.243.147/rentvhd/index.m3u8
-#EXTINF:-1,KUCHNIA TV HD
-http://88.216.48.147/flussonic/Kuchnia_TV_HD/index.m3u8
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,TV3 HD
