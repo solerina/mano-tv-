@@ -107,8 +107,6 @@ http://188.35.9.11:2022
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FILMSTV
 http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-1,VHSTV HD
-http://51.254.59.155/hls/vhstv.m3u8
 #EXTINF:-1,RENTV HD
 http://95.47.243.147/rentvhd/index.m3u8
 #EXTINF:-1,TRICALOR TV
