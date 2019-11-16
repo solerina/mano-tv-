@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,ZARA TV
+http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/105/index.m3u8
 #EXTINF:-1,TV1000ACION 
 http://92.43.140.249/s91/04.m3u8
 #EXTINF:-1,HCT TV
