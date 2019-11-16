@@ -22,7 +22,7 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FF
 #EXTINF:-1,RENTB HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Frentvhd&login=taras777&key=uVGrxhs
 #EXTINF:-1,MUZKOE KINO HD
-http://193.111.2.200:8000/play/a032/index.m3u8
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoekinoHDTELEK&login=taras777&key=uVGrxhs
 #EXTINF:-1,KINO TV HD
 http://193.111.2.200:8000/play/a04z/index.m3u8
 #EXTINF:-1,KINOMIX HD
