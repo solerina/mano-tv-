@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1,TVPLAY SPORTS HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=taras777&key=uVGrxhs
-#EXTINF:-1,TRICOLOR 2
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOstrosuzetnoeHD&login=taras777&key=uVGrxhs
-#EXTINF:-1,TRICOLOR 
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokaz1HD&login=taras777&key=uVGrxhs
-#EXTINF:-1,KINOTV +
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinoHD&login=taras777&key=uVGrxhs
-#EXTINF:-1,KINOHIT HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinohitHD&login=taras777&key=uVGrxhs
-#EXTINF:-1,KINOSEMJA HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinosemyaHD&login=taras777&key=uVGrxhs
-#EXTINF:-1,KINOMIXHD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinomiksHD&login=taras777&key=uVGrxhs
-#EXTINF:-1,TV1000 ACION HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftv1000actionhd&login=taras777&key=uVGrxhs
-#EXTINF:-1,tv1000hd
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftv100hd&login=taras777&key=uVGrxhs
-#EXTINF:-1,FILMZONE HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFilmzoneplusHD&login=taras777&key=uVGrxhs
-#EXTINF:-1,RENTB HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Frentvhd&login=taras777&key=uVGrxhs
-#EXTINF:-1,MUZKOE KINO HD
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoekinoHDTELEK&login=taras777&key=uVGrxhs
 #EXTINF:-1,KINO TV HD
 http://193.111.2.200:8000/play/a04z/index.m3u8
 #EXTINF:-1,KINOMIX HD
