@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,NOVOJ KINO 
+http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/126/index.m3u8
+#EXTINF:-1,KINO SEMJA HD
+http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/125/index.m3u8
 #EXTINF:-1,KINO TV HD
 http://193.111.2.200:8000/play/a04z/index.m3u8
 #EXTINF:-1,KINOMIX HD
