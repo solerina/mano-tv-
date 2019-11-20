@@ -31,8 +31,6 @@ http://188.35.9.11:2029
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 #EXTINF:-1,OCTROCUZETNA HD
 http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/904/index.m3u8
-#EXTINF:-1,TRICOLOR HD
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,TNT 4HD
 https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
 #EXTINF:-1,TV3 HD RU
@@ -63,8 +61,6 @@ http://188.190.222.51/TLUM_HD/mpegts
 http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
 #EXTINF:-1,PETNICA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1,EUROPA PLIUS HD
-http://185.78.112.23/europa-plus-tv/mono.m3u8
 #EXTINF:-1,EPICDRAMA HD LT
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20002=96000-video=5000000.m3u8
 #EXTINF:-1,EMUSIC HD
@@ -83,8 +79,6 @@ http://188.35.9.5:10020/stolen/403x/hot.dll
 http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1,RASSIA1HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,1HDRU
-http://serv30.vintera.tv:8081/restream/pervij/playlist.m3u8
 #EXTINF:-1,RUTVHD
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1,AKUDJO TV
@@ -97,24 +91,18 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 http://195.9.195.3:8080/manifest/165462_master.m3u8
 #EXTINF:-1,RENTV HD
 http://95.47.243.147/rentvhd/index.m3u8
-#EXTINF:-1,TRICALOR TV
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,CTRASNOE HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1,PETNITCA HD
 http://134.249.101.234:6878/ace/getstream?url=http://pomoyka.win/trash/ttv-list/acelive/as_cid_68730a.acelive
 #EXTINF:-1,STRAH TV
 http://s2.myowntv.org/hls/what.m3u8?login=beats
-#EXTINF:-1,RTR HD
-http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8
 #EXTINF:-1,REN HD
 http://95.47.243.147/rentvhd/index.m3u8
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,TV3 HD
 http://85.112.114.11:8086/udp/233.170.170.79:58631
-#EXTINF:-1,EUROPA PLIUS TV HD
-http://213.234.9.46:7088/udp/239.1.10.32:1234
 #EXTINF:-1,AKUDJI TV HD
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
 #EXTINF:-1,Viasat History HD
