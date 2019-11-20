@@ -1,34 +1,8 @@
 #EXTM3U
-#EXTINF:-1,TV3
-http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
-#EXTINF:-1,NOVOJ KINO 
-http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/126/index.m3u8
-#EXTINF:-1,KINO SEMJA HD
-http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/125/index.m3u8
 #EXTINF:-1,KINO TV HD
 http://193.111.2.200:8000/play/a04z/index.m3u8
-#EXTINF:-1,KINOMIX HD
-http://193.111.2.200:8000/play/a00t/index.m3u8
 #EXTINF:-1,ZARA TV
 http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/105/index.m3u8
-#EXTINF:-1,TV1000ACION 
-http://92.43.140.249/s91/04.m3u8
-#EXTINF:-1,HCT TV
-http://92.43.140.249/s87/04.m3u8
-#EXTINF:-1,PABEDA HD
-http://92.43.140.249/s47/04.m3u8
-#EXTINF:-1,EURICA HD
-http://92.43.140.249/s44/04.m3u8
-#EXTINF:-1,MUZTV 
-http://92.43.140.249/s28/04.m3u8
-#EXTINF:-1,MULTIC ONE
-http://92.43.140.249/s74/04.m3u8
-#EXTINF:-1,TEXNO HD
-http://92.43.140.249/s68/04.m3u8
-#EXTINF:-1,oxota i ribalka hd 
-http://92.43.140.249/s62/04.m3u8
-#EXTINF:-1,PRIKLIUCENIA HD
-http://92.43.140.249/s99/04.m3u8
 #EXTINF:-1,PETNITCA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1,KANAL36
@@ -45,16 +19,8 @@ http://dmitry-tv.ru/his/CH_MIRHD.m3u8
 http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-1,SONG TV RUSIA HD
 https://songtvru.ru/lhigh/playlist.m3u8
-#EXTINF:-1,LRT Sd
-https://194.204.46.137/live/eds/LRT/HLS_encr/LRT-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1,KINO POKAZ	
 http://188.35.9.11:2021
-#EXTINF:-1,LRT SD
-https://194.204.46.137/live/eds/LRT/HLS_encr/LRT-audio_20000=96000-video=2200000.m3u8
-#EXTINF:-1,LNK SD
-https://194.204.46.137/live/eds/LNK/HLS_encr/LNK-audio_20000=96000-video=2200000.m3u8
-#EXTINF:-1,TV6LT SD
-https://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20002=96000-video=2200000.m3u8
 #EXTINF:-1,SENTANTA SPORTS EURO HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1,32MUZIC HD
@@ -83,12 +49,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
 https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565768638/052586ac92a1a8a6a51188d0afd717cb/playlist.m3u8
 #EXTINF:-1,INIT TV LT
 http://88.216.8.122:8080/init_tv/index.m3u8
-#EXTINF:-1,BTV
-http://88.216.8.122:8080/btv/index.m3u8
-#EXTINF:-1,LNK
-http://88.216.8.122:8080/lnk/index.m3u8
-#EXTINF:-1,TV6 LT
-http://88.216.8.122:8080/tv6/index.m3u8
 #EXTINF:-1,TVPLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
 #EXTINF:-1,KIDZONE
@@ -103,8 +63,6 @@ http://188.190.222.51/TLUM_HD/mpegts
 http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
 #EXTINF:-1,PETNICA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1,H2RU
-http://89.251.64.134:9998/udp/239.254.3.38:1234
 #EXTINF:-1,EUROPA PLIUS HD
 http://185.78.112.23/europa-plus-tv/mono.m3u8
 #EXTINF:-1,EPICDRAMA HD LT
