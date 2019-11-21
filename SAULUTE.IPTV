@@ -1,18 +1,10 @@
 #EXTM3U
-#EXTINF:-1,KINO TV HD
-http://193.111.2.200:8000/play/a04z/index.m3u8
-#EXTINF:-1,ZARA TV
-http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/105/index.m3u8
 #EXTINF:-1,PETNITCA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1,KANAL36
 http://360tv-cdn.facecast.io/360/channel1/1.m3u8
 #EXTINF:-1,VIASAT EXPLOR
 http://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
-#EXTINF:-1,KINOXIT HD
-http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/516/index.m3u8
-#EXTINF:-1,KINO TV HD
-http://37.192.22.180:81/udp/239.1.17.13:1234
 #EXTINF:-1,MIR HD
 http://dmitry-tv.ru/his/CH_MIRHD.m3u8
 #EXTINF:-1,VIVA RUSIA HD
@@ -25,8 +17,6 @@ http://188.35.9.11:2021
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1,32MUZIC HD
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1,1+1HD
-http://188.35.9.11:2029
 #EXTINF:-1,NRJAI HITS HD
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 #EXTINF:-1,OCTROCUZETNA HD
@@ -37,9 +27,9 @@ https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a9028
 http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,NOVARUSIA HD
 http://ott.inmart.tv:8081/19/index.m3u8
-#IZVESTIA RU HD
+##EXTINF:-1,IZVESTIA RU HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#VIVA RUSSIA HD
+##EXTINF:-1,VIVA RUSSIA HD
 http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-1,rusian EXTRA TV 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
@@ -72,9 +62,7 @@ http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1,SENTANTA SPORT + hd
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1,muzic hd
-http://188.35.9.5:10007/stolen/200b/parasite.install
-#EXTINF:-1,vip megahit hd
-http://188.35.9.5:10020/stolen/403x/hot.dll
+http://188.35.9.5:10007/stolen/200b/parasite.instal
 #EXTINF:-1,ROSTOV PAPA HD
 http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1,RASSIA1HD
@@ -83,8 +71,6 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1,AKUDJO TV
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8
-#EXTINF:-1,MUZKOE KINO HD
-http://188.35.9.11:2022
 #EXTINF:-1,1HD MUSUIC TV HD
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FILMSTV
