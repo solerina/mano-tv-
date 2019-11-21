@@ -69,16 +69,12 @@ http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,RUTVHD
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1,AKUDJO TV
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8
 #EXTINF:-1,1HD MUSUIC TV HD
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FILMSTV
 http://195.9.195.3:8080/manifest/165462_master.m3u8
 #EXTINF:-1,RENTV HD
 http://95.47.243.147/rentvhd/index.m3u8
-#EXTINF:-1,CTRASNOE HD
-https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1,PETNITCA HD
 http://134.249.101.234:6878/ace/getstream?url=http://pomoyka.win/trash/ttv-list/acelive/as_cid_68730a.acelive
 #EXTINF:-1,STRAH TV
@@ -106,4 +102,4 @@ http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1,EPIC DRAMA HD LT
 https://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:-1,LNK
-https://88.119.220.3/live/eds/LNK/HLS_encr/LNK.m3u8
+https://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8
