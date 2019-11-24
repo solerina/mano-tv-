@@ -409,8 +409,10 @@ http://95.47.243.147/rentvhd/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,TV3 HD
 http://85.112.114.11:8086/udp/233.170.170.79:58631
+#EXTINF:-1,AKUDJI TV 
+https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,AKUDJI TV HD
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+https://stream1.cybergame.tv/live/akudjio.m3u8
 #EXTINF:-1,Viasat History HD
 https://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF:-1,Viasat Explorer HD
