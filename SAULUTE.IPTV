@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,VIDIO SALON HD
+https://s2.catcast.me/hls/vhstv.m3u8
 #EXTINF:-1,AKUDJO
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,TOP KINO
@@ -11,7 +13,7 @@ http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
 #EXTINF:-1,INTELMA
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1muzkoe kino hd
+#EXTINF:-1,MUZKOE TV
 http://188.35.9.11:2022
 #EXTINF:-1,KINOPREMIA
 http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
