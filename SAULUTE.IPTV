@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,AKUDJO
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,TOP KINO
+http://topchantv.net:3456/911site/d28Rz4US4d/1611
+#EXTINF:-1,VIP MEGAXIT
+http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:-1,ROSTOV PAPA 
+http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1,RASIA HD
+http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
+#EXTINF:-1,INTELMA
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1muzkoe kino hd
+http://188.35.9.11:2022
+#EXTINF:-1,KINOPREMIA
+http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
 #EXTINF:-1,OSTRASIUZETNA HD
 http://188.35.9.26:14050/udp/238.0.14.3:69000
 #EXTINF:-1,TV3 LT HD
