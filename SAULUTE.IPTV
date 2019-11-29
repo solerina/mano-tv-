@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1,VIDIO SALON HD
+#EXTINF:-1,KINO TV
+http://220.79.125.230:8080/play/a014/index.m3u8
+#EXTINF:-1,SOK TV 
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1,KINO TV HD
+http://ott-stream.sevstar.net/2037/video.m3u8?token=8330162968
+#EXTINF:-1,STR TV HD
+http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:1,VIDIO SALON HD
 https://s2.catcast.me/hls/vhstv.m3u8
 #EXTINF:-1,AKUDJO
 http://hls.goodgame.ru/hls/12949.m3u8
