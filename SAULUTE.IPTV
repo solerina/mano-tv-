@@ -105,3 +105,27 @@ http://hls.goodgame.ru:80/hls/130048.m3u8
 https://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,TV1000 PREMIUM HD LT
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,Eurodance 90
+https://autopilot.catcast.me/content/36987/index.m3u8
+#EXTINF:-1,Шокирующее HD
+http:\\91.223.105.236:8081\hlsx\472\472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1,Остросюжетное HD
+http://188.35.9.11:2015
+#EXTINF:-1,ViP Comedy HD
+http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:-1,VHS Боевик
+http://server1.life-tv.eu/ch0462/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,Film TV-HD
+http://195.9.195.3:8080/manifest/165462_master.m3u8
+#EXTINF:-1,MaxVideo 1
+http://server1.life-tv.eu/ch0448/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,MaxVideo Anime
+http://server1.life-tv.eu/ch0466/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:-1,ТЛУМ HD
+http://188.190.222.51/TLUM_HD/mpegts
+
+
+
+
