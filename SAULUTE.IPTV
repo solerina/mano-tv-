@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1,LAMINOR 
+http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8?version=2
+#EXTINF:-1,RADISAHSON
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1,ONE BY 4K HD
+http://rtmp.one.by:1499
+#EXTINF:-1,MAJA PLANETA HD
+http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1,KINOHIT
+http://dmitry-tv.ru/his/itv_blrus/CH_KINOHIT.m3u8
+#EXTINF:-1,EDA PREMIUM HD
+http://178.124.183.14:80/hls/BCPKKUK5NT/variant.m3u8
+#EXTINF:-1,HDFILM
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1,FILM ONE PREMIA HD
+http://188.35.9.5:10005/stolen/141q/imposter.rar
+#EXTINF:-1,SANTANTA SPORTS PLUS HD
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,SANTANTA SPORTS 1 HD
+http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:-1,360NOVASTI RU
+http://360tv-cdn.facecast.io/360/channel1/1.m3u8
+#EXTINF:-1,UKRAINA 112
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1,KRIM 1
 http://31.40.128.20/hls/021_krim_1.m3u8
 #EXTINF:-1,PETNICA HD
