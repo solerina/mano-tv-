@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,KRIM 1
+http://31.40.128.20/hls/021_krim_1.m3u8
+#EXTINF:-1,PETNICA HD
+http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:-1,TNT4HD
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-1,MIR HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,RUSKI EXTRYM
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1,KINOTV HD TEST
+http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-1,KINO TV
 http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-1,SOK TV 
