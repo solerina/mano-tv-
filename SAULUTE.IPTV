@@ -121,8 +121,8 @@ http://195.9.195.3:8080/manifest/165462_master.m3u8
 http://95.47.243.147/rentvhd/index.m3u8
 #EXTINF:-1,STRAH TV
 http://s2.myowntv.org/hls/what.m3u8?login=beats
-#EXTINF:-1,REN HD
-http://95.47.243.147/rentvhd/index.m3u8
+#EXTINF:-1,AKUDJI TV 
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
 #EXTINF:-1,TV3 HD
 http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,AKUDJI TV 
@@ -158,7 +158,7 @@ http://195.9.195.3:8080/manifest/165462_master.m3u8
 #EXTINF:-1,MaxVideo 1
 http://server1.life-tv.eu/ch0448/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:-1,MaxVideo Anime
-http://server1.life-tv.eu/ch0466/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,ТЛУМ HD
 http://188.190.222.51/TLUM_HD/mpegts
 
