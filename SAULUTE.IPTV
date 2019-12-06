@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,PREMIUM
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,OSTRA TV
+http://188.35.9.11:2015
+#EXTINF:-1,SOK TV
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1,HISTORY HD
+http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+#EXTINF:-1,EXPLORER HD
+http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 #EXTINF:-1,LAMINOR 
 http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8?version=2
 #EXTINF:-1,RADISAHSON
@@ -33,8 +43,8 @@ http://85.112.114.11:8086/udp/233.170.170.130:58631
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,RUSKI EXTRYM
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1,KINOTV HD TEST
-http://220.79.125.230:8080/play/a014/index.m3u8
+#EXTINF:-1,NATURA HD TEST
+http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
 #EXTINF:-1,KINO TV
 http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-1,SOK TV 
