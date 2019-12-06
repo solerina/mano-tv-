@@ -132,7 +132,7 @@ http://95.47.243.147/rentvhd/index.m3u8
 #EXTINF:-1,STRAH TV
 http://s2.myowntv.org/hls/what.m3u8?login=beats
 #EXTINF:-1,AKUDJI TV 
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-1,TV3 HD
 http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,AKUDJI TV 
