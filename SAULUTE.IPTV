@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,DTX HD
+http://212.12.194.10/dtxhd/live.m3u8
 #EXTINF:-1,DOSENT TV
 https://hls.goodgame.ru/hls/64556.m3u8
 #EXTINF:-1,PREMIUM
