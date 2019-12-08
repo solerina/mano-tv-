@@ -1,159 +1,159 @@
 #EXTM3U
-#EXTINF:-_,RU TV HD
+#EXTINF:+5,RU TV HD
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-_,SONG TV
+#EXTINF:+5,SONG TV
 https://songtvru.ru/hd/playlist.m3u8
-#EXTINF:-_,PLAY SPORTS
+#EXTINF:+5,PLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
-#EXTINF:-_,TV6
+#EXTINF:+5,TV6
 http://88.216.8.122:8080/tv6/index.m3u8
-#EXTINF:-_,TECHNO 24
+#EXTINF:+5,TECHNO 24
 http://178.124.183.13/hls/ZIVFRAFR2I/bw1200000/playlist.m3u8
-#EXTINF:-_,HCT TV 
+#EXTINF:+5,HCT TV 
 http://178.124.183.4:80/hls/NEZVX5TVZX/variant.m3u8
-#EXTINF:-_,RUSKOE NOCH
+#EXTINF:+5,RUSKOE NOCH
 http://178.124.183.4:80/hls/F7UMYQMCGB/variant.m3u8
-#EXTINF:-_,ENERGY HITS 
+#EXTINF:+5,ENERGY HITS 
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w150378122_b1431072.m3u8
-#EXTINF:-_,DTX HD
+#EXTINF:+5,DTX HD
 http://212.12.194.10/dtxhd/live.m3u8
-#EXTINF:-_,DOSENT TV
+#EXTINF:+5,DOSENT TV
 https://hls.goodgame.ru/hls/64556.m3u8
-#EXTINF:-_,PREMIUM
+#EXTINF:+5,PREMIUM
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-_,HISTORY HD
+#EXTINF:+5,HISTORY HD
 http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
-#EXTINF:-_,EXPLORER HD
+#EXTINF:+5,EXPLORER HD
 http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
-#EXTINF:-_,LAMINOR 
+#EXTINF:+5,LAMINOR 
 http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8?version=2
-#EXTINF:-_,RADISAHSON
+#EXTINF:+5,RADISAHSON
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-_,MAJA PLANETA HD
+#EXTINF:+5,MAJA PLANETA HD
 http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-_,KINOHIT
+#EXTINF:+5,KINOHIT
 http://dmitry-tv.ru/his/itv_blrus/CH_KINOHIT.m3u8
-#EXTINF:-_,EDA PREMIUM HD
+#EXTINF:+5,EDA PREMIUM HD
 http://178.124.183.14:80/hls/BCPKKUK5NT/variant.m3u8
-#EXTINF:-_,HDFILM
+#EXTINF:+5,HDFILM
 https://hls.goodgame.ru/hls/12949_720.m3u8
-#EXTINF:-_,SANTANTA SPORTS PLUS HD
+#EXTINF:+5,SANTANTA SPORTS PLUS HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-_,SANTANTA SPORTS 1 HD
+#EXTINF:+5,SANTANTA SPORTS 1 HD
 http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-_,360NOVASTI RU
+#EXTINF:+5,360NOVASTI RU
 http://360tv-cdn.facecast.io/360/channel1/1.m3u8
-#EXTINF:-_,UKRAINA 112
+#EXTINF:+5,UKRAINA 112
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-_,KRIM 1
+#EXTINF:+5,KRIM 1
 http://31.40.128.20/hls/021_krim_1.m3u8
-#EXTINF:-_,PETNICA HD
+#EXTINF:+5,PETNICA HD
 http://85.112.114.11:8086/udp/233.170.170.112:58631
-#EXTINF:-_,TNT4HD
+#EXTINF:+5,TNT4HD
 http://85.112.114.11:8086/udp/233.170.170.130:58631
-#EXTINF:-_,MIR HD
+#EXTINF:+5,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-_,RUSKI EXTRYM
+#EXTINF:+5,RUSKI EXTRYM
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-#EXTINF:-_,NATURA HD TEST
+#EXTINF:+5,NATURA HD TEST
 http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
-#EXTINF:-_,KINO TV
+#EXTINF:+5,KINO TV
 http://220.79.125.230:8080/play/a014/index.m3u8
-#EXTINF:-_,KINO TV HD
+#EXTINF:+5,KINO TV HD
 http://ott-stream.sevstar.net/2037/video.m3u8?token=8330162968
-#EXTINF:-_,STR TV HD
+#EXTINF:+5,STR TV HD
 http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-_,ort HD
+#EXTINF:+5,ort HD
 http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
-#EXTINF:-_,AKUDJO
+#EXTINF:+5,AKUDJO
 http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-_,VIP MEGAXIT
+#EXTINF:+5,VIP MEGAXIT
 http://188.35.9.5:10020/stolen/403x/hot.dll
-#EXTINF:-_,ROSTOV PAPA 
+#EXTINF:+5,ROSTOV PAPA 
 http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-_,RASIA HD
+#EXTINF:+5,RASIA HD
 http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
-#EXTINF:-_,INTELMA
+#EXTINF:+5,INTELMA
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-_,KINOPREMIA
+#EXTINF:+5,KINOPREMIA
 http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
-#EXTINF:-_,TV3 LT HD
+#EXTINF:+5,TV3 LT HD
 http://88.119.220.2/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
-#EXTINF:-_,akudjo tv
+#EXTINF:+5,akudjo tv
 http://hls.goodgame.ru:80/hls/5346.m3u8
-#EXTINF:-_,Premium
+#EXTINF:+5,Premium
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-_,Epic Drama
+#EXTINF:+5,Epic Drama
 https://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/index.m3u8
-#EXTINF:-_,Epic Drama
+#EXTINF:+5,Epic Drama
 https://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-_,TV1000 Premium
+#EXTINF:+5,TV1000 Premium
 https://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-_,ViasatHistoryHD
+#EXTINF:+5,ViasatHistoryHD
 https://88.119.220.2/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
-#EXTINF:-_,Viasat History HD
+#EXTINF:+5,Viasat History HD
 https://88.119.220.2/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
-#EXTINF:-_,Viasat Explorer HD
+#EXTINF:+5,Viasat Explorer HD
 https://88.119.220.2/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
-#EXTINF:-_,ViasatHistoryHD
+#EXTINF:+5,ViasatHistoryHD
 http://88.119.220.2/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
-#EXTINF:-_,TV1000PremiumHD
+#EXTINF:+5,TV1000PremiumHD
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
-#EXTINF:-_,Epic Drama
+#EXTINF:+5,Epic Drama
 https://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/index.m3u8
-#EXTINF:-_,TV1000 Premium
+#EXTINF:+5,TV1000 Premium
 https://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
-#EXTINF:-_,VIASAT EXPLOR
+#EXTINF:+5,VIASAT EXPLOR
 http://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
-#EXTINF:-_,VIVA RUSIA HD
+#EXTINF:+5,VIVA RUSIA HD
 http://85.143.202.116/hls/viva.m3u8
-#EXTINF:-_,TV3 HD RU
+#EXTINF:+5,TV3 HD RU
 http://85.112.114.11:8086/udp/233.170.170.79:58631
-#EXTINF:-_,VIVA RUSSIA HD
+#EXTINF:+5,VIVA RUSSIA HD
 http://85.143.202.116/hls/viva.m3u8
-#EXTINF:-_,INIT TV LT
+#EXTINF:+5,INIT TV LT
 http://88.216.8.122:8080/init_tv/index.m3u8
-#EXTINF:-_,TVPLAY SPORTS
+#EXTINF:+5,TVPLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
-#EXTINF:-_,BALTICUM AUKSInis
+#EXTINF:+5,BALTICUM AUKSInis
 http://88.216.8.122:8080/balticum_auksinis/index.m3u8
-#EXTINF:-_,TLUM HD
+#EXTINF:+5,TLUM HD
 http://188.190.222.51/TLUM_HD/mpegts
-#EXTINF:-_,TV3BELARUS
+#EXTINF:+5,TV3BELARUS
 http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
-#EXTINF:-_,EPICDRAMA HD LT
+#EXTINF:+5,EPICDRAMA HD LT
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-_,1HD MUSUIC TV HD
+#EXTINF:+5,1HD MUSUIC TV HD
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-_,FILMSTV
+#EXTINF:+5,FILMSTV
 http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-_,kino tv hd r
+#EXTINF:+5,kino tv hd r
 http://220.79.125.230:8080/play/a014/index.m3u8
-#EXTINF:-_,TV3 HD
+#EXTINF:+5,TV3 HD
 http://85.112.114.11:8086/udp/233.170.170.79:58631
-#EXTINF:-_,AKUDJI TV 
+#EXTINF:+5,AKUDJI TV 
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-_,AKUDJI TV HD
+#EXTINF:+5,AKUDJI TV HD
 https://stream1.cybergame.tv/live/akudjio.m3u8
-#EXTINF:-_,Viasat History HD
+#EXTINF:+5,Viasat History HD
 https://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
-#EXTINF:-_,Viasat Explorer HD
+#EXTINF:+5,Viasat Explorer HD
 https://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
-#EXTINF:-_,TV3HD LT
+#EXTINF:+5,TV3HD LT
 http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
-#EXTINF:-_,STRTV HD
+#EXTINF:+5,STRTV HD
 http://hls.goodgame.ru:80/hls/130048.m3u8
-#EXTINF:-_,PZNTVHD
+#EXTINF:+5,PZNTVHD
 https://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-_,TV1000 PREMIUM HD LT
+#EXTINF:+5,TV1000 PREMIUM HD LT
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-_,Eurodance 90
+#EXTINF:+5,Eurodance 90
 https://autopilot.catcast.me/content/36987/index.m3u8
-#EXTINF:-_,Мужское кино HD
+#EXTINF:+5,Мужское кино HD
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/muzhskoekinohd/chunklist.m3u8
-#EXTINF:+2,Шокирующее HD
+#EXTINF:+5,Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:+2,ТЛУМ HD
+#EXTINF:+5,ТЛУМ HD
 http://188.190.222.51/TLUM_HD/mpegts
 
 
