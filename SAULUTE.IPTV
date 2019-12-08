@@ -135,45 +135,45 @@ http://188.190.222.51/TLUM_HD/mpegts
 http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
 #EXTINF:-1,EPICDRAMA HD LT
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1,RUTVHD
+#EXTINF:0,RUTVHD
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1,1HD MUSUIC TV HD
+#EXTINF:0,1HD MUSUIC TV HD
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FILMSTV
+#EXTINF:0,FILMSTV
 http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-1,AKUDJI TV 
+#EXTINF:0,AKUDJI TV 
 http://220.79.125.230:8080/play/a014/index.m3u8
-#EXTINF:-1,TV3 HD
+#EXTINF:0,TV3 HD
 http://85.112.114.11:8086/udp/233.170.170.79:58631
-#EXTINF:-1,AKUDJI TV 
+#EXTINF:0,AKUDJI TV 
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,AKUDJI TV HD
+#EXTINF:0,AKUDJI TV HD
 https://stream1.cybergame.tv/live/akudjio.m3u8
-#EXTINF:-1,Viasat History HD
+#EXTINF:0,Viasat History HD
 https://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
-#EXTINF:-1,Viasat Explorer HD
+#EXTINF:0,Viasat Explorer HD
 https://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
-#EXTINF:-1,TV3HD LT
+#EXTINF:0,TV3HD LT
 http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
-#EXTINF:-1,STRTV HD
+#EXTINF:0,STRTV HD
 http://hls.goodgame.ru:80/hls/130048.m3u8
-#EXTINF:-1,PZNTVHD
+#EXTINF:0,PZNTVHD
 https://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1,TV1000 PREMIUM HD LT
+#EXTINF:0,TV1000 PREMIUM HD LT
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-1,Eurodance 90
+#EXTINF:0,Eurodance 90
 https://autopilot.catcast.me/content/36987/index.m3u8
-#EXTINF:-1,Остросюжетное HD
+#EXTINF:0,Остросюжетное HD
 http://188.35.9.11:2015
-#EXTINF:-1,ViP Comedy HD
+#EXTINF:0,ViP Comedy HD
 http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
-#EXTINF:-1,VIP Megahit HD
+#EXTINF:0,VIP Megahit HD
 http://188.35.9.5:10020/stolen/403x/hot.dll
-#EXTINF:-1,Мужское кино HD
+#EXTINF:0,Мужское кино HD
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/muzhskoekinohd/chunklist.m3u8
-#EXTINF:0,Шокирующее HD
+#EXTINF:Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-1,ТЛУМ HD
+#EXTINF:0,ТЛУМ HD
 http://188.190.222.51/TLUM_HD/mpegts
 
 
