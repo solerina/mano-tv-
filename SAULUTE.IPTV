@@ -3,8 +3,6 @@
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-2,SONG TV
 https://songtvru.ru/hd/playlist.m3u8
-#EXTINF:-2,KIDZONE +
-http://185.78.112.18/KIDZONE_PLUS_HD/tracks-v1a3/mono.m3u8
 #EXTINF:-2,PLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
 #EXTINF:-2,TV6
@@ -23,8 +21,6 @@ http://212.12.194.10/dtxhd/live.m3u8
 https://hls.goodgame.ru/hls/64556.m3u8
 #EXTINF:-2,PREMIUM
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-2,Остросюжетное HD
-http://188.35.9.11:2015
 #EXTINF:-2,HISTORY HD
 http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF:-2,EXPLORER HD
@@ -33,8 +29,6 @@ http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8?version=2
 #EXTINF:-2,RADISAHSON
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-2,ONE BY 4K HD
-http://rtmp.one.by:1499
 #EXTINF:-2,MAJA PLANETA HD
 http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-2,KINOHIT
@@ -73,8 +67,6 @@ http://hls.goodgame.ru/hls/130048.m3u8
 http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 #EXTINF:-2,AKUDJO
 http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-2,TOP KINO
-http://topchantv.net:3456/911site/d28Rz4US4d/1611
 #EXTINF:-2,VIP MEGAXIT
 http://188.35.9.5:10020/stolen/403x/hot.dll
 #EXTINF:-2,ROSTOV PAPA 
@@ -85,8 +77,6 @@ http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 #EXTINF:-2,KINOPREMIA
 http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
-#EXTINF:-2,OSTRASIUZETNA HD
-http://188.35.9.26:14050/udp/238.0.14.3:69000
 #EXTINF:-2,TV3 LT HD
 http://88.119.220.2/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 #EXTINF:-2,akudjo tv
@@ -117,8 +107,6 @@ https://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
 http://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
 #EXTINF:-2,VIVA RUSIA HD
 http://85.143.202.116/hls/viva.m3u8
-#EXTINF:-2,KINO POKAZ	
-http://188.35.9.11:2021
 #EXTINF:-2,TV3 HD RU
 http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-2,VIVA RUSSIA HD
@@ -135,13 +123,11 @@ http://188.190.222.51/TLUM_HD/mpegts
 http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
 #EXTINF:-2,EPICDRAMA HD LT
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-2,RUTVHD
-http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-2,1HD MUSUIC TV HD
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-2,FILMSTV
 http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-2,AKUDJI TV 
+#EXTINF:-2,kino tv hd r
 http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-2,TV3 HD
 http://85.112.114.11:8086/udp/233.170.170.79:58631
@@ -163,8 +149,6 @@ https://hls.goodgame.ru/hls/12949.m3u8
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-2,Eurodance 90
 https://autopilot.catcast.me/content/36987/index.m3u8
-#EXTINF:-2,Остросюжетное HD
-http://188.35.9.11:2015
 #EXTINF:-2,Мужское кино HD
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/muzhskoekinohd/chunklist.m3u8
 #EXTINF:-2,Шокирующее HD
