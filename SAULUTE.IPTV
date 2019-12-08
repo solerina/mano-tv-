@@ -151,9 +151,9 @@ http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 https://autopilot.catcast.me/content/36987/index.m3u8
 #EXTINF:-2,Мужское кино HD
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/muzhskoekinohd/chunklist.m3u8
-#EXTINF:2,Шокирующее HD
+#EXTINF:_,Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:2,ТЛУМ HD
+#EXTINF:_,ТЛУМ HD
 http://188.190.222.51/TLUM_HD/mpegts
 
 
