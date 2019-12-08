@@ -25,8 +25,6 @@ https://hls.goodgame.ru/hls/64556.m3u8
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1,OSTRA TV
 http://188.35.9.11:2015
-#EXTINF:-1,SOK TV
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,HISTORY HD
 http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF:-1,EXPLORER HD
@@ -45,8 +43,6 @@ http://dmitry-tv.ru/his/itv_blrus/CH_KINOHIT.m3u8
 http://178.124.183.14:80/hls/BCPKKUK5NT/variant.m3u8
 #EXTINF:-1,HDFILM
 https://hls.goodgame.ru/hls/12949_720.m3u8
-#EXTINF:-1,FILM ONE PREMIA HD
-http://188.35.9.5:10005/stolen/141q/imposter.rar
 #EXTINF:-1,SANTANTA SPORTS PLUS HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1,SANTANTA SPORTS 1 HD
@@ -69,8 +65,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/var
 http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
 #EXTINF:-1,KINO TV
 http://220.79.125.230:8080/play/a014/index.m3u8
-#EXTINF:-1,SOK TV 
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,KINO TV HD
 http://ott-stream.sevstar.net/2037/video.m3u8?token=8330162968
 #EXTINF:-1,STR TV HD
@@ -89,8 +83,6 @@ http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
 #EXTINF:-1,INTELMA
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1,MUZKOE TV
-http://188.35.9.11:2022
 #EXTINF:-1,KINOPREMIA
 http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
 #EXTINF:-1,OSTRASIUZETNA HD
@@ -149,10 +141,6 @@ http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FILMSTV
 http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-1,RENTV HD
-http://95.47.243.147/rentvhd/index.m3u8
-#EXTINF:-1,STRAH TV
-http://s2.myowntv.org/hls/what.m3u8?login=beats
 #EXTINF:-1,AKUDJI TV 
 http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-1,TV3 HD
@@ -175,21 +163,15 @@ https://hls.goodgame.ru/hls/12949.m3u8
 http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1,Eurodance 90
 https://autopilot.catcast.me/content/36987/index.m3u8
-#EXTINF:-1,Шокирующее HD
-http:\\91.223.105.236:8081\hlsx\472\472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,Остросюжетное HD
 http://188.35.9.11:2015
 #EXTINF:-1,ViP Comedy HD
 http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
 #EXTINF:-1,VIP Megahit HD
 http://188.35.9.5:10020/stolen/403x/hot.dll
-#EXTINF:-1,VHS Боевик
+#EXTINF:-1,Мужское кино HD
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/muzhskoekinohd/chunklist.m3u8
-#EXTINF:-1,Film TV-HD
-http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-1,MaxVideo 1
-http://server1.life-tv.eu/ch0448/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,MaxVideo Anime
+#EXTINF:-1,Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,ТЛУМ HD
 http://188.190.222.51/TLUM_HD/mpegts
