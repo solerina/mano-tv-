@@ -171,7 +171,7 @@ http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
 http://188.35.9.5:10020/stolen/403x/hot.dll
 #EXTINF:-1,Мужское кино HD
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/muzhskoekinohd/chunklist.m3u8
-#EXTINF:-1,Шокирующее HD
+#EXTINF:-0,Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1,ТЛУМ HD
 http://188.190.222.51/TLUM_HD/mpegts
