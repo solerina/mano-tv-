@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-0,RU TV HD
+#EXTINF:-2,RU TV HD
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-0,SONG TV
+#EXTINF:-2,SONG TV
 https://songtvru.ru/hd/playlist.m3u8
-#EXTINF:-0,PLAY SPORTS
+#EXTINF:-2,PLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
-#EXTINF:-0,TV6
+#EXTINF:-2,TV6
 http://88.216.8.122:8080/tv6/index.m3u8
-#EXTINF:-0,TECHNO 24
+#EXTINF:-2,TECHNO 24
 http://178.124.183.13/hls/ZIVFRAFR2I/bw1200000/playlist.m3u8
-#EXTINF:-0,HCT TV 
+#EXTINF:-2,HCT TV 
 http://178.124.183.4:80/hls/NEZVX5TVZX/variant.m3u8
-#EXTINF:-0,RUSKOE NOCH
+#EXTINF:-2,RUSKOE NOCH
 http://178.124.183.4:80/hls/F7UMYQMCGB/variant.m3u8
-#EXTINF:-0,ENERGY HITS 
+#EXTINF:-2,ENERGY HITS 
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w150378122_b1431072.m3u8
-#EXTINF:-0,DTX HD
+#EXTINF:-2,DTX HD
 http://212.12.194.10/dtxhd/live.m3u8
 #EXTINF:-0,DOSENT TV
 https://hls.goodgame.ru/hls/64556.m3u8
