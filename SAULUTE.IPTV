@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-2,OSTRA 
+http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/34.ts
+#EXTINF:-2,KINOHIT HD
+http://217.25.216.4:8085/udp/238.2.18.22:1234
+#EXTINF:-2,KINOTV+
+http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-2,RU TV HD
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-2,SONG TV
