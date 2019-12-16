@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,STARK HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
 #EXTINF:-2,H2 HD ENG
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-2,MUSIC BOX HD
