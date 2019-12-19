@@ -123,7 +123,7 @@ http://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
 http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-2,TV3 HD RU
 http://85.112.114.11:8086/udp/233.170.170.79:58631
-#EXTINF:-2,VIVA RUSSIA HD
+#EXTINF:-2,VIVA RUSSIA
 http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-2,INIT TV LT
 http://88.216.8.122:8080/init_tv/index.m3u8
