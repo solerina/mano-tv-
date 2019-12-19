@@ -11,7 +11,7 @@ http://89.249.133.183:4022/udp/239.254.2.211:1234
 http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/34.ts
 #EXTINF:-2,KINOHIT HD
 http://217.25.216.4:8085/udp/238.2.18.22:1234
-#EXTINF:-2,KINOTV+
+#EXTINF:-0,KINOTV+
 http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-2,RU TV HD
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
@@ -167,8 +167,6 @@ https://autopilot.catcast.me/content/36987/index.m3u8
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/muzhskoekinohd/chunklist.m3u8
 #EXTINF:-2,Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-2,ТЛУМ HD
-http://188.190.222.51/TLUM_HD/mpegts
 
 
 
