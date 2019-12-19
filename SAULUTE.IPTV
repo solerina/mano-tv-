@@ -131,8 +131,8 @@ http://88.216.8.122:8080/init_tv/index.m3u8
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
 #EXTINF:-2,BALTICUM AUKSInis
 http://88.216.8.122:8080/balticum_auksinis/index.m3u8
-#EXTINF:-2,TLUM HD
-http://188.190.222.51/TLUM_HD/mpegts
+#EXTINF:-1,izi ru hd
+http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
 #EXTINF:-2,TV3BELARUS
 http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
 #EXTINF:-2,EPICDRAMA HD LT
