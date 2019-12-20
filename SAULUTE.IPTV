@@ -1,4 +1,18 @@
 #EXTM3U
+EXTINF:-1,PORNO6
+http://cdn.adultiptv.net/teen.m3u8
+EXTINF:-1,PORNO GAY GAY
+http://cdn.adultiptv.net/gay.m3u8
+EXTINF:-1,PORNO 5
+http://cdn.adultiptv.net/fetish.m3u8
+EXTINF:-1,PORNO4
+http://cdn.adultiptv.net/bigdick.m3u8
+EXTINF:-1,PORNO3
+http://cdn.adultiptv.net/bigtits.m3u8
+EXTINF:-1,PORNO2
+http://cdn.adultiptv.net/threesome.m3u8
+EXTINF:-2,PORNO HD
+http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1,STARK HD
 http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
 #EXTINF:-2,H2 HD ENG
@@ -71,8 +85,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 #EXTINF:-2,NATURA HD TEST
 http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
-#EXTINF:-2,KINO TV
-http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-2,KINO TV HD
 http://ott-stream.sevstar.net/2037/video.m3u8?token=8330162968
 #EXTINF:-2,STR TV HD
