@@ -11,8 +11,8 @@ http://89.249.133.183:4022/udp/239.254.2.211:1234
 http://188.35.9.26:14050/udp/238.0.14.3:69000
 #EXTINF:-2,KINOHIT HD
 http://217.25.216.4:8085/udp/238.2.18.22:1234
-#EXTINF:-0,KINOTV+
-http://220.79.125.230:8080/play/a014/index.m3u8
+#EXTINF:-2,petnica hd +
+http://195.191.208.2:8086/udp/233.170.170.112:58631
 #EXTINF:-2,RU TV HD
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-2,SONG TV
