@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1,F
+#EXTINF:-1,PORTO
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1,ft
+#EXTINF:-1,PORTO2
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1,ft
+#EXTINF:-1,PORTO3
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1,PO
+#EXTINF:-1,PORTO4
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1,Pi
+#EXTINF:-1,PORTO5
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1,Pop
+#EXTINF:-1,PORTO6
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-2,Pp
+#EXTINF:-1,PORTO7
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1,STARK HD
 http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
@@ -69,7 +69,7 @@ https://hls.goodgame.ru/hls/12949_720.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-2,SANTANTA SPORTS 1 HD
 http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-2,360NOVASTI RU
+#EXTINF:-1,NOVASTI RU
 http://360tv-cdn.facecast.io/360/channel1/1.m3u8
 #EXTINF:-2,UKRAINA 112
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
