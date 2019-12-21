@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,DISCOVER HD
+http://45.143.205.112:1000/play/discovery-hd/index.m3u8
 #EXTINF:-1,PORTO
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1,PORTO2
