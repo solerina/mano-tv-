@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,TVPLAY 
+http://88.216.48.147/flussonic/TVPlaySport__plius/video.m3u8
+#EXTINF:-1,TV1 LT
+http://88.216.8.122:8080/tv1/index.m3u8
 #EXTINF:-1,OSTRA HD
 http://188.35.9.15:2015
 #EXTINF:-1,KINOPOKAZ
