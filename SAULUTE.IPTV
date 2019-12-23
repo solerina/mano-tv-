@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TV6
+http://88.216.8.122:8080/tv6/index.m3u8
 #EXTINF:-1,TVPLAY 
 http://88.216.48.147/flussonic/TVPlaySport__plius/video.m3u8
 #EXTINF:-1,TV1 LT
