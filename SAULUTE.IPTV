@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TGFM FROM LT CLUB RADIO
+http://radijas.tgfm.lt:8000/stream/2/;?type=http&nocache=1336
 #EXTINF:-1,TV6
 http://88.216.8.122:8080/tv6/index.m3u8
 #EXTINF:-1,TVPLAY 
