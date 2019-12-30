@@ -1,46 +1,61 @@
 #EXTM3U
 #EXTINF:-1,TGFM FROM LT CLUB RADIO
+#EXTGRP:Общие
 http://radijas.tgfm.lt:8000/stream/2/;?type=http&nocache=1336
 #EXTINF:-1,TV6
+#EXTGRP:Общие
 http://88.216.8.122:8080/tv6/index.m3u8
-#EXTINF:-1,TVPLAY 
+#EXTINF:-1,TVPLAY
+#EXTGRP:Общие
 http://88.216.48.147/flussonic/TVPlaySport__plius/video.m3u8
 #EXTINF:-1,TV1 LT
+#EXTGRP:Общие
 http://88.216.8.122:8080/tv1/index.m3u8
 #EXTINF:-1,OSTRA HD
+#EXTGRP:Общие
 http://188.35.9.15:2015
 #EXTINF:-1,KINOPOKAZ
+#EXTGRP:Общие
 http://188.35.9.15:2021
 #EXTINF:-1,VIP PREMJA
+#EXTGRP:Общие
 http://188.35.9.15:2013
 #EXTINF:-1,SPORT1 LT
+#EXTGRP:Общие
 http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
 #EXTINF:-1,EURODANCER
+#EXTGRP:Общие
 https://autopilot.catcast.me/content/36987/index.m3u8
 #EXTINF:-1,DISCOVER HD
+#EXTGRP:Общие
 http://45.143.205.112:1000/play/discovery-hd/index.m3u8
 #EXTINF:-1,PORTO
+#EXTGRP:Общие
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1,PORTO2
+#EXTGRP:Общие
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1,PORTO3
+#EXTGRP:Общие
 http://cdn.adultiptv.net/fetish.m3u8
 #EXTINF:-1,PORTO4
+#EXTGRP:Общие
 http://cdn.adultiptv.net/bigdick.m3u8
 #EXTINF:-1,PORTO5
+#EXTGRP:Общие
 http://cdn.adultiptv.net/bigtits.m3u8
 #EXTINF:-1,PORTO6
+#EXTGRP:Общие
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1,PORTO7
+#EXTGRP:Общие
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1,STARK HD
+#EXTGRP:Общие
 http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
-#EXTINF:-2,H2 HD ENG
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-2,MUSIC BOX HD
+#EXTGRP:Общие
 http://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-2,EUROPA+HD
-http://89.249.133.183:4022/udp/239.254.2.211:1234
 #EXTINF:-2,OSTRA 
 http://188.35.9.26:14050/udp/238.0.14.3:69000
 #EXTINF:-2,KINOHIT HD
@@ -68,10 +83,13 @@ http://212.12.194.10/dtxhd/live.m3u8
 #EXTINF:-2,DOSENT TV
 https://hls.goodgame.ru/hls/64556.m3u8
 #EXTINF:-2,PREMIUM
+#EXTGRP:Общие
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-2,HISTORY HD
+#EXTGRP:Общие
 http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF:-2,EXPLORER HD
+#EXTGRP:Общие
 http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 #EXTINF:-2,LAMINOR 
 http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8?version=2
@@ -151,12 +169,8 @@ https://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/index.m3u8
 https://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
 #EXTINF:-2,VIASAT EXPLOR
 http://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
-#EXTINF:-2,VIVA RUSIA HD
-http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-2,TV3 HD RU
 http://85.112.114.11:8086/udp/233.170.170.79:58631
-#EXTINF:-2,VIVA RUSSIA
-http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-2,INIT TV LT
 http://88.216.8.122:8080/init_tv/index.m3u8
 #EXTINF:-2,TVPLAY SPORTS
@@ -165,16 +179,12 @@ http://88.216.8.122:8080/tvplay_sports/index.m3u8
 http://88.216.8.122:8080/balticum_auksinis/index.m3u8
 #EXTINF:-1,izi ru hd
 http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
-#EXTINF:-2,TV3BELARUS
-http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
 #EXTINF:-2,EPICDRAMA HD LT
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:-1,mult 
 http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
 #EXTINF:-2,FILMSTV
 http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-2,kino tv hd r
-http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-2,TV3 HD
 http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-2,AKUDJI TV 
@@ -395,926 +405,5 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1,Жара 
 #EXTGRP:Музыка
 http://50.7.144.155:8081/zhara/index.m3u8?wmsAuthSign=1577501348S9262cef1177c46ce48916f2755b317b6S811h731h871h5
-#EXTINF:-1,Евроновости
-#EXTGRP:Другое
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,Россия 24
-https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1,პირველი არხი
-http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
-#EXTINF:-1,მეორე არხი
-https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,რუსთავი 2
-http://md-store4.tulix.tv/rustavi2/index.m3u8
-#EXTINF:-1,იმედი
-https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ფორმულა
-https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v2a1/mono.m3u8
-#EXTINF:-1,Первый Канал (Россия)
-http://163.172.222.252/hls/01/index.m3u8?md=C3GwZGOY1U2HB_-0HvIM0Q&e=1577492625
-#EXTINF:-1 group-title="Общие",Первый Канал 
-http://136.243.91.5/video/xrKCCZVy23bozia8K8CLrQ/2/playlist.m3u8
-#EXTINF:-1 group-title="Общие",НТВ
-http://31.40.128.20/hls/004_ntv.m3u8
-#EXTINF:0,24 часа на жизнь (2017)
-https://hls-t001-l001-c004-s001.s2w3.space/11_17_18/11/17/02/6N3LnYEA/1080_QodZl2ZC.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,5-ая волна (2016)
-https://hls-t001-l001-c007-s001.s2w3.space/11_19_18/11/19/07/plI3wVgL/1080_uQATP501.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,51 (2011)
-https://vs49.vcdn.biz/199743c06ecee21c4523fca28a3bc3a1_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/87781/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid1611709743-b2000000.m3u8
-#EXTINF:0,IO (2019)
-https://hls-t001-l001-c015-s001.s2w3.space/01_25_19/01/25/23/Mmq81Vya/1080_9CfFcgmR.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Аватар (2009)
-https://hls-t001-l001-c006-s001.s2w3.space/06_26_18/06/26/16/XyZeAany/1080_5eMNWv8a.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Аквамен (2018)
-https://hls-t001-l001-c009-s001.s2w3.space/03_14_19/03/14/12/Uv2exXtm/1080_dCi5DH9G.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Акванавты (1979)
-https://vs36.vcdn.biz/953e7e2c6b7fa2b515c2f494dd9abc40_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/209811/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1949376290-b2000000.m3u8
-#EXTINF:0,Аксель (2018)
-https://hls-t001-l001-c007-s001.s2w3.space/01_02_19/01/02/23/1rpyetSu/1080_jW0XYnpH.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Акулий торнадо 4: Пробуждение (2016)
-http://hls.kinoprofi.org/hls/Akuliy.Tornado.4.Probujdeniye.2017.HDRip/playlist.m3u8
-#EXTINF:0,Алита: Боевой ангел (2019)
-https://hls-t001-l001-c022-s001.s2w3.space/08_05_19/08/05/17/YJv8sp7h/1080_x2hZIxZJ.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Аннигиляция (2018)
-https://hls-t001-l001-c024-s001.s2w3.space/05_26_18/05/26/07/MWU50d65/1080_oNiOApAD.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Анон (2018)
-https://vs54.vcdn.biz/bf1451d80263d2d682e128842e5219b6_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/49324071/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1548539311-b2000000.m3u8
-#EXTINF:0,Антиматерия (2016)
-http://hls.kinoprofi.org/hls/AntiMateriya.2016.P.HDRip/playlist.m3u8
-#EXTINF:0,Апгрейд (2018)
-https://hls-t001-l001-c019-s001.s2w3.space/10_27_19/10/27/17/tUi0LNqT/1080_QFj6Q2e4.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Астро (2018)
-https://hls-t001-l001-c010-s001.s2w3.space/05_16_19/05/16/10/Xdzp1u8M/1080_oUvDTlzG.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Атлантида (2017)
-https://hls-t001-l001-c023-s001.s2w3.space/08_26_18/08/26/23/NpVBHfdZ/1080_fxEUB9pM.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Ба-бах! (2010)
-https://vs13.vcdn.biz/23e9c5ed7c82ceb32188f1370b71f326_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/460901/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid62848492-b2000000.m3u8
-#EXTINF:0,Бамблби (2018)
-https://hls-t001-l001-c010-s001.s2w3.space/03_26_19/03/26/08/M1jPo8Ak/1080_v3piVqmW.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Бегущий в лабиринте: Лекарство от смерти (2018)
-https://hls-t001-l001-c010-s001.s2w3.space/05_31_19/05/31/21/L7280EOq/1080_DWfelqaF.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Бегущий по лезвию 2049 (2017)
-https://hls-t001-l001-c004-s001.s2w3.space/06_28_18/06/28/18/qVUhOyUl/1080_2mrtm47W.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Безумный Макс: Дорога ярости (2015)
-https://hls-t001-l001-c017-s001.s2w3.space/01_03_19/01/03/20/uK0GDZf8/1080_QaORb5Ul.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Бета-тест (2016)
-https://hls.kinokrad.co/hls/B.Test.2O16.P.HDRip/playlist.m3u8
-#EXTINF:0,Блуждающая Земля (2019)
-https://hls-t001-l001-c013-s001.s2w3.space/11_05_19/11/05/13/9fjn2o7U/1080_J7gUwlqq.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Бойфренд из будущего (2013)
-https://hls-t001-l001-c014-s001.s2w3.space/06_28_18/06/28/07/U8RBwp3B/1080_6swu7nEm.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Буря в Арктике (2010)
-https://vs8.vcdn.biz/6e98ba937172109ce852e8827e9e0b08_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/81696201/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid108014429-b2000000.m3u8
-#EXTINF:0,Бэтмен: Начало (2005)
-https://hls-t001-l001-c005-s001.s2w3.space/08_02_18/08/02/18/02COHb1F/1080_vEk8GPmP.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Бюро человечества (2017)
-https://hls.kinokrad.co/hls/The.Humanity.Bureau.2017.Pof.HDRip/playlist.m3u8
-#EXTINF:0,В тени Луны (2019)
-https://hls-t001-l001-c003-s001.s2w3.space/09_27_19/09/27/14/eWZAuYv5/1080_wXHP2B3T.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Веном (2018)
-https://hls-t001-l001-c007-s001.s2w3.space/05_29_19/05/29/09/jpPKpGGq/1080_gNC7udDb.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Вечное сияние чистого разума (2004)
-https://hls-t001-l001-c013-s001.s2w3.space/06_28_18/06/28/07/lR2owQd5/1080_iqTcsa0w.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Вирус (2016)
-https://vs30.vcdn.biz/4628d409ba0d50a55d45dfa01980b2f3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/4392561/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid1394113475-b2000000.m3u8
-#EXTINF:0,Вне времени (2015)
-https://vs52.vcdn.biz/6e7b7179ace62342878b31185220ac03_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/27362221/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid1327384336-b2000000.m3u8
-#EXTINF:0,Вне/себя (2015)
-https://cdnmfw.tvzavr.ru/stream/tvzavr/3/59e884a9-bb49-4fcc-81d9-7fabda787ecc/59e884a9-bb49-4fcc-81d9-7fabda787ecc-audio_rus%3D189375-video%3D4998000.m3u8
-#EXTINF:0,Во время грозы (2018)
-https://hls-t001-l001-c021-s001.s2w3.space/09_29_19/09/29/12/GK2YBcyw/1080_mGd3dm3h.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Восстание (2017)
-https://hls.kinokrad.co/hls/Vosstanie.2017.D.BDRip/playlist.m3u8
-#EXTINF:0,Восстание планеты обезьян (2011)
-https://hls-t001-l001-c014-s001.s2w3.space/09_08_18/09/08/02/YuW7AiTw/1080_tO9K9zik.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Вспомнить всё (1990)
-https://hls-t001-l001-c010-s001.s2w3.space/11_19_19/11/19/21/IcJSmCJc/1080_BHTJCQnD.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Геошторм (2017)
-https://hls-t001-l001-c014-s001.s2w3.space/05_31_19/05/31/15/TRJPYcPB/1080_Yx7S8woP.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Гинтама (2017)
-https://hls.kinokrad.co/hls/Gintama.2017.P.BDRip/playlist.m3u8
-#EXTINF:0,Голодные игры: И вспыхнет пламя (2013)
-https://hls-t001-l001-c003-s001.s2w3.space/06_08_18/06/08/02/YeEL11GZ/1080_0lRAlE89.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Господин Никто (2009)
-https://hls-t001-l001-c020-s001.s2w3.space/06_27_18/06/27/01/1iqgtG5Q/1080_TC0BDfOA.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Господство Суперменов (2019)
-https://hls-t001-l001-c006-s001.s2w3.space/03_01_19/03/01/09/qcWVV1pI/1080_n6NOyEk5.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Гостья (2013)
-https://vs56.vcdn.biz/dbd593b27af68fb3c9c42fd2bbd57550_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/15891671/u_uid/0/u_vod/3/u_device/cms_html5/a/11/type.amlst/chunklist-sid485444850-b2000000.m3u8
-#EXTINF:0,Гостья из будущего 1 серия (1984)
-https://vs47.vcdn.biz/dfc86d2b096163cddff559c944c64094_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/102131/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1688240833-b1500000.m3u8
-#EXTINF:0,Гостья из будущего 2 серия (1984)
-https://vs46.vcdn.biz/119c8aa722ca2e810fb03c9c7800b702_megogo/vod/hls/b/450_900_1350/u_sid/0/o/107821/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid568360092-b1350000.m3u8
-#EXTINF:0,Гостья из будущего 3 серия (1984)
-https://vs50.vcdn.biz/5ff38e5142a9194ebf8d72eb571e2aa0_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/142281/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1539289728-b1500000.m3u8
-#EXTINF:0,Гостья из будущего 4 серия (1984)
-https://vs34.vcdn.biz/7c2165532dfee93a88c2f0216b87f0b5_megogo/vod/hls/b/450_900_1350/u_sid/0/o/148081/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1151651445-b1350000.m3u8
-#EXTINF:0,Гравитация (2013)
-https://hls-t001-l001-c012-s001.s2w3.space/07_07_18/07/07/01/JdPGiTMi/1080_BPpghzd1.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Грань будущего (2014)
-https://hls-t001-l001-c023-s001.s2w3.space/06_07_18/06/07/18/pg1NrdQC/1080_1t28qWJ3.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,День гнева (1985)
-https://vs33.vcdn.biz/629935beaa1b24122dedf6ce69bb9038_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/188431/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid537767147-b2000000.m3u8
-#EXTINF:0,Дефективные (2017)
-https://hls.kinokrad.co/hls/Defective.2017.P.HDRip/playlist.m3u8
-#EXTINF:0,Дивергент (2014)
-https://vs40.vcdn.biz/f67cca1d86d85b4014b10e7e11283fa9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/10577721/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1565653207-b2000000.m3u8
-#EXTINF:0,Дивергент, глава 2: Инсургент (2015)
-https://vs32.vcdn.biz/044de1f32600ab7c30cb892ce07d6d19_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33384191/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid135226638-b2000000.m3u8
-#EXTINF:0,Дивергент, глава 3: За стеной (2016)
-https://vs11.vcdn.biz/1cedf2e23b179150bb5ef8111d826369_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38341231/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid2116802942-b2000000.m3u8
-#EXTINF:0,Доктор стрэндж (2016)
-https://hls-t001-l001-c011-s001.s2w3.space/07_07_18/07/07/01/LNgUhhhN/1080_r3f7Garw.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Доминус (1990)
-https://vs33.vcdn.biz/661440b2ab0371a327f614889582a745_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/63753141/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1313622418-b2000000.m3u8
-#EXTINF:0,Дрожь земли 6 (2018)
-https://hls-t001-l001-c015-s001.s2w3.space/05_25_18/05/25/19/qrfyYomF/1080_NGyp7d4t.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Дубликат (2018)
-https://hls-t001-l001-c015-s001.s2w3.space/11_21_18/11/21/08/GmpAKn1N/1080_WOwnwkOn.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Дыши во мгле (2018)
-https://hls-t001-l001-c016-s001.s2w3.space/08_14_18/08/14/21/1RfMa00x/1080_2fzy3KeN.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Дэдпул (2016)
-https://hls-t001-l001-c008-s001.s2w3.space/06_07_19/06/07/10/2lqUxVki/1080_ZvkdLqWN.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Дэдпул 2 (2018)
-https://hls-t001-l001-c017-s001.s2w3.space/08_26_18/08/26/10/YaH3CXZn/1080_90ow0dTU.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Железное небо (2012)
-https://vs32.vcdn.biz/1d5e1e42392ce1778deaeaa1d62c72d1_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/426491/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1059242935-b2000000.m3u8
-#EXTINF:0,Железный человек (2008)
-https://hls-t001-l001-c002-s001.s2w3.space/08_01_18/08/01/20/uNrJm68y/1080_PkVX4xcg.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Завещание профессора Доуэля (1984)
-https://vs31.vcdn.biz/505e10322bf0d3663bc3c9b8117dc417_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/188171/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid527398064-b2000000.m3u8
-#EXTINF:0,Загадочная история Бенджамина Баттона (2008)
-https://hls-t001-l001-c022-s001.s2w3.space/06_28_18/06/28/07/3nxY7fgk/1080_nM9Bq1K7.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Закат цивилизации (2018)
-https://hls-t001-l001-c011-s001.s2w3.space/08_26_18/08/26/19/cWtEQ503/1080_4FUNhdjH.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Защитники (2017)
-https://vs52.vcdn.biz/16e5da015f8e542b1ed72a1a1c470429_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38269611/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1730189013-b2000000.m3u8
-#EXTINF:0,Звёздные войны: Пробуждение Силы (2015)
-https://hls-t001-l001-c022-s001.s2w3.space/01_09_19/01/09/14/qK8WnLFT/1080_3GCNBjtO.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Звёздные войны. Эпизод III: Месть Ситхов (2005)
-https://hls-t001-l001-c013-s001.s2w3.space/06_06_18/06/06/17/rajImM57/1080_m34i5nhx.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Звёздные войны. Эпизод IV: Новая надежда (1977)
-https://hls-t001-l001-c014-s001.s2w3.space/06_06_18/06/06/18/stMRRMRh/1080_lxahg4q3.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Звёздные войны. Эпизод V: Империя наносит ответный удар (1980)
-https://hls-t001-l001-c016-s001.s2w3.space/06_06_18/06/06/18/HoHFcMcv/1080_kapKaquu.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Звёздные войны. Эпизод VI: Возвращение Джедая (1983)
-https://hls-t001-l001-c017-s001.s2w3.space/06_06_18/06/06/18/Oee25cNE/1080_JBAL0Bih.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Звездные войны: Последние джедаи (2017)
-https://hls-t001-l001-c010-s001.s2w3.space/07_31_18/07/31/15/GdJaSApc/1080_vCdLziTo.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Звездные врата: Континуум (2008)
-https://hls-t001-l001-c010-s001.s2w3.space/09_09_18/09/09/06/GtVyxJM1/1080_6JfU1Qnf.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Земля завтрашнего дня (2015)
-https://hls.kinokrad.co/hls/Tomorrowland.2015.BDRip/playlist.m3u8
-#EXTINF:0,Знамение (2009)
-https://vs53.vcdn.biz/3f5ba84e2c030d61318cf3966487fa23_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/86031/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1805057982-b2000000.m3u8
-#EXTINF:0,Зои (2018)
-https://hls-t001-l001-c007-s001.s2w3.space/09_14_19/09/14/07/iUv2fTpR/1080_wq1WZ07D.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Зоология (2016)
-https://cdnmfw.tvzavr.ru/stream/tvzavr/3/38b0dd94-a6b5-48e9-aa66-0397e93c37fd/38b0dd94-a6b5-48e9-aa66-0397e93c37fd-audio_rus%3D317440-video%3D4997000.m3u8
-#EXTINF:0,Игра Эндера (2013)
-https://vs19.vcdn.biz/9ad76293738c231f7a939fc33ac14d7f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/15626291/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1691095322-b2000000.m3u8
-#EXTINF:0,Из машины (2014)
-https://hls-t001-l001-c001-s001.s2w3.space/07_09_18/07/09/19/RfqXxfNS/1080_YijPmX2N.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Изгой-один. Звёздные войны: Истории (2016)
-https://hls-t001-l001-c012-s001.s2w3.space/06_05_19/06/05/19/KUM9cMuB/1080_4DeCFESr.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Излом времени (2018)
-https://hls-t001-l001-c004-s001.s2w3.space/06_20_18/06/20/02/eVJNS6QL/1080_tmYlxiAJ.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Интерстеллар (2014)
-https://hls-t001-l001-c018-s001.s2w3.space/06_07_19/06/07/19/rFkklhs2/1080_OBSiATk6.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Исходный код (2011)
-https://vs54.vcdn.biz/8f5528471f325712c026d6740e2360f1_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/98291/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid999486585-b2000000.m3u8
-#EXTINF:0,Кажется, мы остались одни (2018)
-https://hls-t001-l001-c020-s001.s2w3.space/09_27_18/09/27/19/hoES1Bkr/1080_J6Pa7O4I.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Как разговаривать с девушками на вечеринках (2017)
-https://hls-t001-l001-c020-s001.s2w3.space/08_26_18/08/26/20/oAlMNeUM/1080_XFjT4MK5.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Как это заканчивается (2018)
-https://hls-t001-l001-c009-s001.s2w3.space/11_01_18/11/01/20/DkfDmlcY/1080_U1W7qItP.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Капитан Марвел (2019)
-https://hls-t001-l001-c010-s001.s2w3.space/06_10_19/06/10/07/wPf8Yf7N/1080_bscz9jem.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Кин (2018)
-https://vs32.vcdn.biz/772fbe7b5680a8cdfb5ca4e0371597a9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71952831/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid476336379-b2000000.m3u8
-#EXTINF:0,Кин-дза-дза! 1 серия (1986)
-https://vs43.vcdn.biz/08bd2198bebc637f4c376b8e13a4278a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/24937701/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2087640590-b2000000.m3u8
-#EXTINF:0,Кин-дза-дза! 2 серия (1986)
-https://vs56.vcdn.biz/2bbf84eba5e5f8b1e70bc83e65672f37_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/24937711/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid849082832-b2000000.m3u8
-#EXTINF:0,Колония (2013)
-https://vs53.vcdn.biz/05a9be06ea95be2ae84056549ac76e9b_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43894991/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid655056490-b2000000.m3u8
-#EXTINF:0,Коматозники (2017)
-https://hls-t001-l001-c011-s001.s2w3.space/09_27_19/09/27/15/qLbuCIg0/1080_kq5ZJmXc.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Конг:Остров черепа (2017)
-https://hls-t001-l001-c017-s001.s2w3.space/07_26_18/07/26/16/PSrXzW6L/1080_00AqNjXD.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Короче (2017)
-https://hls-t001-l001-c012-s001.s2w3.space/09_01_18/09/01/09/tT39yISq/1080_FHFPCx5w.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Космос между нами (2017)
-https://hls-t001-l001-c007-s001.s2w3.space/08_28_18/08/28/19/ofubDyar/1080_N4FukIUc.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Кровоточащая сталь (2017)
-https://hls.kinokrad.co/hls/Bleeding_Steel.2017.HDrip/playlist.m3u8
-#EXTINF:0,Кунг Фьюри (2015)
-https://hls-t001-l001-c002-s001.s2w3.space/08_31_18/08/31/19/ZvEutuXp/1080_bh7Fswzd.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Лига справедливости (2017)
-https://hls-t001-l001-c017-s001.s2w3.space/07_31_18/07/31/17/QmFZncMI/1080_xSeBEz5G.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Логан (2017)
-https://hls-t001-l001-c008-s001.s2w3.space/06_05_19/06/05/13/ETo7VD4E/1080_KTEEc6kq.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Луна (1965)
-https://vs52.vcdn.biz/ec09c0748cb68cc14ecc9d7c1a91fe18_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/76032461/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid761870134-b2000000.m3u8
-#EXTINF:0,Луна 2112 (2009)
-https://hls-t001-l001-c021-s001.s2w3.space/12_03_18/12/03/12/OUToh6aL/1080_UUGuGVSg.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Любовь (2011)
-https://vs31.vcdn.biz/18487b88aaeda44dd8893a21c54c6525_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/1005721/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid510330071-b2000000.m3u8
-#EXTINF:0,Люди Икс 2 (2003)
-https://hls-t001-l001-c007-s001.s2w3.space/06_11_18/06/11/22/er23oN0p/1080_6nXb0gxF.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Люди Икс: Дни минувшего будущего (2014)
-https://hls-t001-l001-c002-s001.s2w3.space/06_07_18/06/07/18/lW2RWGpa/1080_TZ6bpJsl.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Люди Икс: Первый класс (2011)
-https://hls-t001-l001-c017-s001.s2w3.space/06_11_18/06/11/21/cgLKmY3c/1080_rC8kwrmb.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Макс Стил (2016)
-https://bk2-hls.kinokrad.co/hls/Maks.Steel.2016.HDRip/playlist.m3u8
-#EXTINF:0,Марсианин (2015)
-https://hls-t001-l001-c017-s001.s2w3.space/06_04_18/06/04/20/ODIHxQ7i/1080_TgEd6nAM.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Матрица (1999)
-https://hls-t001-l001-c015-s001.s2w3.space/06_18_18/06/18/09/eeUmwdOm/1080_5asoiTJc.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Матрица: перезагрузка (2003)
-https://hls-t001-l001-c002-s001.s2w3.space/06_18_18/06/18/08/hTRyc8P8/1080_UrXR88Td.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Матрица: революция (2003)
-https://hls-t001-l001-c020-s001.s2w3.space/06_18_18/06/18/13/GmcWY69R/1080_cfrx15Cg.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Махнем на Луну! (2017)
-https://hls.kinokrad.co/hls/Condorito.La.Pelicula.2017.HDRip/playlist.m3u8
-#EXTINF:0,Машина времени в джакузи (2010)
-https://vs20.vcdn.biz/e4d292ca56348f2883b656ea461d30ce_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/28774551/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid768903437-b2000000.m3u8
-#EXTINF:0,Мег: монстр глубины (2018)
-https://hls-t001-l001-c019-s001.s2w3.space/10_31_18/10/31/07/GkQqextH/1080_9jNNKW5I.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Меланхолия (2011)
-https://vs31.vcdn.biz/055f585a570381798d8a9e04f6457cf2_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84961/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid1330969878-b2000000.m3u8
-#EXTINF:0,Мир будущего (2017)
-https://hls-t001-l001-c010-s001.s2w3.space/05_16_19/05/16/11/LoXfhr35/1080_TqXRdGxU.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Мир Юрского периода 2 (2018)
-https://hls-t001-l001-c004-s001.s2w3.space/05_29_19/05/29/15/QyiWCoIe/1080_P9VIXIe7.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Миссия «Серенити» (2005)
-https://hls-t001-l001-c019-s001.s2w3.space/07_27_18/07/27/06/Kt3OCxiF/1080_vcIxwKIE.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Мобильник (2016)
-https://vs10.vcdn.biz/5ea72fe4026f37bcae09f49670fffd87_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/36609361/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid1349729392-b2000000.m3u8
-#EXTINF:0,Моя девушка-монстр (2016)
-https://vs56.vcdn.biz/36b6a53fa81a6e39e919cf06dc4e07a0_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/45865733/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid874684257-b2000000.m3u8
-#EXTINF:0,Мстители (2012)
-https://hls-t001-l001-c008-s001.s2w3.space/08_01_18/08/01/21/Op20QANP/1080_ldLU1DJn.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Мстители: Война бесконечности (2018)
-https://hls-t001-l001-c008-s001.s2w3.space/05_29_19/05/29/20/pUdaulRZ/1080_RRa5Fbor.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Мстители: Финал (2019)
-https://hls-t001-l001-c023-s001.s2w3.space/08_05_19/08/05/17/frAg0tvu/1080_Y2OtCGiC.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Муза смерти (2017)
-https://hls.kinokrad.co/hls/muza.2017.D.HDRip/playlist.m3u8
-#EXTINF:0,Назад в будущее (1985)
-https://hls-t001-l001-c015-s001.s2w3.space/07_13_18/07/13/07/a9p7mHmU/1080_0Y7a4bGp.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Назад в будущее 2 (1989)
-https://hls-t001-l001-c015-s001.s2w3.space/06_24_18/06/24/20/XH6n3y00/1080_ZRYTBXID.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Напролом (2012)
-https://cdnmfw.tvzavr.ru/stream/tvzavr/3/ad82cf1b-1cb0-46da-a504-2422dbc52b25/ad82cf1b-1cb0-46da-a504-2422dbc52b25-audio_rus%3D189375-video%3D4993000.m3u8
-#EXTINF:0,Начало (2010)
-https://hls-t001-l001-c006-s001.s2w3.space/06_06_18/06/06/07/1N6R0ZHm/1080_R8OBwUsS.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Небесный легион (2005)
-https://hls.kinokrad.co/hls/nebesnuy.legion2005/playlist.m3u8
-#EXTINF:0,Немой (2018)
-https://hls.kinokrad.co/hls/Nemoy.2017.HDrip/playlist.m3u8
-#EXTINF:0,Области тьмы (2011)
-https://vs49.vcdn.biz/887b59d7a377390d0a1ece5de79f72c4_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/89101/u_uid/0/u_vod/3/u_device/cms_html5/a/10/type.amlst/chunklist-sid331670687-b2000000.m3u8
-#EXTINF:0,Облачный атлас (2012)
-https://hls-t001-l001-c008-s001.s2w3.space/07_07_18/07/07/00/QMyloA3q/1080_8AJaKzQN.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Оверлорд (2018)
-https://hls-t001-l001-c003-s001.s2w3.space/02_04_19/02/04/11/yxOwDx5K/1080_ckYf4FVT.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Ожидайте дальнейших инструкций (2018)
-https://hls.kinokrad.co/hls/Await.Further.Instructions.2018.HDRip/playlist.m3u8
-#EXTINF:0,Окча (2017)
-https://hls-t001-l001-c009-s001.s2w3.space/08_14_18/08/14/15/WjXJ2LRF/1080_DDsV1bQ8.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Орбита 9 (2017)
-https://hls-t001-l001-c017-s001.s2w3.space/08_30_18/08/30/14/Bhz0qVn4/1080_3iEmTbur.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Особое мнение (2002)
-https://hls-t001-l001-c010-s001.s2w3.space/07_07_18/07/07/00/94N7GvbZ/1080_2RyxQ0mc.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Оставленные (2014)
-https://vs40.vcdn.biz/01e58d9e2303547adc8ebb42a72f08d7_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/1994981/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid488490606-b2000000.m3u8
-#EXTINF:0,Остров собак (2018)
-https://hls.kinokrad.co/hls/Isle.of.Dogs.2018.HDRip/playlist.m3u8
-#EXTINF:0,Ошибка времени (2014)
-https://cdnmfw.tvzavr.ru/stream/tvzavr/3/272f80f2-63f6-4126-86b0-9227ecc0c9e1/272f80f2-63f6-4126-86b0-9227ecc0c9e1-audio_rus%3D317440-video%3D5001000.m3u8
-#EXTINF:0,Параграф 78: фильм второй (2007)
-https://bk2-hls.kinokrad.co/hls/paragraf_2_DVDRip/playlist.m3u8
-#EXTINF:0,Парад планет (1984)
-https://vs31.vcdn.biz/74177fffa3d8e9596fe8433a94662933_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17775831/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2135969187-b2000000.m3u8
-#EXTINF:0,Парадокс Кловерфилда: Частица Бога (2018)
-https://hls-t001-l001-c002-s001.s2w3.space/08_13_18/08/13/18/1SimfORq/1080_KINcivPI.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Паранормальное (2017)
-https://hls-t001-l001-c013-s001.s2w3.space/08_26_18/08/26/15/Kd7j8TqX/1080_BTBQqeDi.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Парк Юрского периода (1993)
-https://hls-t001-l001-c011-s001.s2w3.space/07_31_18/07/31/16/tTWl5TWm/1080_nNigNUOW.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Первая судная ночь (2018)
-https://hls-t001-l001-c005-s001.s2w3.space/10_07_18/10/07/21/HAPHxR8S/1080_MEPMhkkr.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Первому игроку приготовиться (2018)
-https://hls-t001-l001-c007-s001.s2w3.space/06_26_18/06/26/16/KBs3bQQZ/1080_Aposmst9.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Первый мститель: Другая война (2014)
-https://hls-t001-l001-c018-s001.s2w3.space/06_07_18/06/07/21/hyQulN81/1080_4MHn8v2c.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Первый мститель: Противостояние (2016)
-https://hls-t001-l001-c010-s001.s2w3.space/06_06_19/06/06/15/vovKBozw/1080_SVfiBKmY.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Петля времени (2012)
-https://vs59.vcdn.biz/459044ac08275f1a6bc3edd7ddd03163_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/91101/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid225555867-b2000000.m3u8
-#EXTINF:0,Планета Ка-Пэкс (2001)
-https://hls-t001-l001-c005-s001.s2w3.space/10_25_19/10/25/12/FpA7YG0Q/1080_R8duarQr.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Планета обезьян: Война (2017)
-https://hls-t001-l001-c018-s001.s2w3.space/06_05_19/06/05/16/MMQQs3R2/1080_rW3cEaex.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Планета обезьян: Революция (2014)
-https://hls-t001-l001-c018-s001.s2w3.space/06_08_18/06/08/06/h0OPkTTD/1080_0oTUWXwN.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Повторяющие реальность (2010)
-https://vs52.vcdn.biz/bf96edf8762e756e88a9da0841d26ebd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/140711/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid772227955-b2000000.m3u8
-#EXTINF:0,Помешанный на времени (2018)
-https://vs19.vcdn.biz/81faef61bbaaba1c645db884088add66_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71406251/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1952955549-b2000000.m3u8
-#EXTINF:0,Прибытие (2016)
-https://hls-t001-l001-c017-s001.s2w3.space/06_05_19/06/05/15/hrdiJemo/1080_AflX00Dl.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Призрак в доспехах (2017)
-https://hls-t001-l001-c011-s001.s2w3.space/12_28_18/12/28/16/Vy1IP69x/1080_1XKbpu1L.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Притяжение (2017)
-https://vs58.vcdn.biz/326e90dd68175faf149432ede911958d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/48679571/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid258044480-b2000000.m3u8
-#EXTINF:0,Пришелец (2018)
-https://vs59.vcdn.biz/c5780acff5dcfd4cce681dd16a81ed29_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71726541/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid807835757-b2000000.m3u8
-#EXTINF:0,Пришельцы в доме (2018)
-https://hls.kinokrad.co/hls/InoPlaneTynE.2O18.D.HDRip/playlist.m3u8
-#EXTINF:0,Прорубь (2017)
-https://hls.kinokrad.co/hls/Prorub_2017.HDRip/playlist.m3u8
-#EXTINF:0,Птичий короб (2018)
-https://hls-t001-l001-c009-s001.s2w3.space/01_18_19/01/18/18/NLH0P3pb/1080_46fCkGD4.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Пятый элемент (1997)
-https://hls-t001-l001-c001-s001.s2w3.space/06_26_18/06/26/17/L6VmcfIN/1080_DSowQj4H.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Равные (2016)
-https://vs30.vcdn.biz/d2c68f48e92c4bee9468570e82c54e71_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/40251091/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid579297256-b2000000.m3u8
-#EXTINF:0,Район №9 (2009)
-https://hls-t001-l001-c009-s001.s2w3.space/07_06_18/07/06/23/cP9P7jo5/1080_ZAinxlVr.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Репродукция (2018)
-https://vs59.vcdn.biz/403620c5d5ea57384c29c8de58e93dfb_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/49414521/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid318065947-b2000000.m3u8
-#EXTINF:0,Риддик (2013)
-https://vs36.vcdn.biz/a135fa94716a875f85abb8a5a9b485a5_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/5068491/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid462270010-b2000000.m3u8
-#EXTINF:0,Рубеж (2018)
-https://vs47.vcdn.biz/fb7556c3ca6b32c13026b77b9cdb304d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/62747421/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid241285849-b2000000.m3u8
-#EXTINF:0,Рэмпейдж (2018)
-https://hls-t001-l001-c014-s001.s2w3.space/05_30_19/05/30/15/LRWyykJR/1080_DROZSZjn.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Сверхъестественное (2019)
-https://hls.kinokrad.co/hls/First.Light.2018.P.HDRip/playlist.m3u8
-#EXTINF:0,Секрет Зоар (2016)
-https://vs48.vcdn.biz/2cd987774a67efe4859620d92edbd6ad_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/60945541/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1174850454-b2000000.m3u8
-#EXTINF:0,Семь стихий (1984)
-https://vs12.vcdn.biz/56fb8171e7b91a65894e2a8ff8ac91b5_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/33077391/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2098019095-b2000000.m3u8
-#EXTINF:0,Скайлайн (2010)
-https://vs54.vcdn.biz/f7158850c94948e160ccd5f9df1df5ff_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/85391/u_uid/0/u_vod/3/u_device/cms_html5/a/17/type.amlst/chunklist-sid1791505871-b2000000.m3u8
-#EXTINF:0,Скайлайн 2 (2017)
-https://hls-t001-l001-c008-s001.s2w3.space/08_31_18/08/31/22/YKuC5hS2/1080_jr5W8a6C.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Совершенное оружие (2016)
-https://hls.kinokrad.co/hls/The.Perfect.Weapon.2016.Pof.HDRip/playlist.m3u8
-#EXTINF:0,Солярис (1972)
-https://vs40.vcdn.biz/8e089a5ab0df5d47f9bdee74f6859c99_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/17748451/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1690875647-b2000000.m3u8
-#EXTINF:0,Сталкер (1979)
-https://vs17.vcdn.biz/b85b710d0120cb006720751655b703b6_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/17555671/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1192740553-b2000000.m3u8
-#EXTINF:0,Стартрек (2009)
-https://hls-t001-l001-c010-s001.s2w3.space/06_11_18/06/11/23/a0gdZiSl/1080_wOYDh4cu.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Стартрек: Возмездие (2013)
-https://hls-t001-l001-c008-s001.s2w3.space/06_11_18/06/11/22/rku4wNTK/1080_tsTmuJhl.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Стартрек: Бесконечность (2016)
-https://hls-t001-l001-c013-s001.s2w3.space/07_10_18/07/10/21/vU3fKFza/1080_XD81TIav.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Стекло (2019)
-https://hls-t001-l001-c005-s001.s2w3.space/05_29_19/05/29/09/kgpNFhHq/1080_L5prfzHB.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Стражи Галактики (2014)
-https://hls-t001-l001-c020-s001.s2w3.space/05_28_18/05/28/13/ISqJcMWD/1080_g7XRSXao.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Стражи Галактики. Часть 2 (2017)
-https://hls-t001-l001-c003-s001.s2w3.space/06_05_19/06/05/13/gsL7ioNy/1080_2S1Yo6dG.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Страховщик (2014)
-https://vs22.vcdn.biz/b19b21ff005d0ba8b801b3e3520e5a0a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/11794371/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid2037609408-b2000000.m3u8
-#EXTINF:0,Судья Дредд (2012)
-https://vs32.vcdn.biz/b9f930dea8e1db7a9e1f53ae6dd98e69_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/91341/u_uid/0/u_vod/3/u_device/cms_html5/a/15/type.amlst/chunklist-sid1483289329-b2000000.m3u8
-#EXTINF:0,Тайна 7-ми сестер (2017)
-https://hls-t001-l001-c007-s001.s2w3.space/09_20_18/09/20/08/rniq6igD/1080_wgcQWBtI.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Тайна дома с часами (2018)
-https://hls-t001-l001-c012-s001.s2w3.space/07_12_19/07/12/14/RzjHdVWd/1080_hWzrp7tc.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Танцы насмерть (2017)
-https://hls-t001-l001-c008-s001.s2w3.space/04_12_19/04/12/07/ia3fX7py/1080_KjfUZovk.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Тау (2018)
-https://hls-t001-l001-c013-s001.s2w3.space/09_12_18/09/12/08/okmumsVz/1080_qwczweAf.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Телекинез (2018)
-https://hls.kinokrad.co/hls/Psychokinesis.2018.HDRip/playlist.m3u8
-#EXTINF:0,Тень (1994)
-https://vs36.vcdn.biz/8f204a4974a67117349a2d194492045d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/557841/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1033963678-b2000000.m3u8
-#EXTINF:0,Терминатор (1984)
-https://hls-t001-l001-c004-s001.s2w3.space/10_28_19/10/28/13/ZMvkk1nQ/1080_5FFjZqEx.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Терминатор 2: Судный День (1991)
-https://hls-t001-l001-c019-s001.s2w3.space/06_19_18/06/19/17/Zh7JPMpx/1080_xaDx7CPt.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Тёмные отражения (2018)
-https://hls-t001-l001-c005-s001.s2w3.space/11_20_18/11/20/23/OaJITPPo/1080_OHIVSNQa.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Tёмный рыцарь (2008)
-https://hls-t001-l001-c022-s001.s2w3.space/10_31_18/10/31/00/8twHJS40/1080_qGSLSNH2.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Тёмный рыцарь: Возрождение легенды (2012)
-https://hls-t001-l001-c020-s001.s2w3.space/06_16_18/06/16/17/Z9OzsFL7/1080_xhJ4QXjr.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Титан (2018)
-https://hls-t001-l001-c014-s001.s2w3.space/06_13_18/06/13/12/tzQPRzKO/1080_4GPIHojj.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Тихое место (2018)
-https://hls-t001-l001-c002-s001.s2w3.space/08_26_18/08/26/22/GUGLQFQW/1080_hTBP1ckV.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Тихоокеанский рубеж 2 (2018)
-https://hls-t001-l001-c008-s001.s2w3.space/05_30_19/05/30/18/atCf868c/1080_A95Ef4YG.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Тор:Рогнарек (2017)
-https://hls-t001-l001-c006-s001.s2w3.space/05_28_18/05/28/16/1soEoMd6/1080_y0rgynaw.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Трансформация (2016)
-https://vs33.vcdn.biz/c0bebd80239e975c70c031965143296e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/45334681/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1641299484-b2000000.m3u8
-#EXTINF:0,Трансформеры:Последний рыцарь (2017)
-https://hls-t001-l001-c003-s001.s2w3.space/08_30_18/08/30/17/F0ASH43c/1080_6CRjTNpM.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Универсальный солдат 2: Братья по оружию (1998)
-https://vs48.vcdn.biz/8b264747d9829419f9dd6d1316d155b1_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/66222211/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid926552001-b2000000.m3u8
-#EXTINF:0,Универсальный солдат 3: Возрождение (2009)
-https://vs53.vcdn.biz/fc1187ce3f60a31e9b601565a4516b0a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/66222001/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1009963502-b2000000.m3u8
-#EXTINF:0,Универсальный солдат 4 (2012)
-https://vs33.vcdn.biz/20c716a5d07ea4d2296fdb0ba26e950e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/66222021/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid43579664-b2000000.m3u8
-#EXTINF:0,ФОТОГРАФ (2018)
-https://hls.kinokrad.co/hls/fotograf.HDRip2018/playlist.m3u8
-#EXTINF:0,Хан Соло: Звёздные войны.Истории (2018)
-https://hls-t001-l001-c011-s001.s2w3.space/09_16_18/09/16/15/a5kV3J8W/1080_vrm1XH4T.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Хищник (1987)
-https://hls-t001-l001-c012-s001.s2w3.space/05_29_19/05/29/10/rf1kBFCt/1080_7vdefNDm.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Хищник (2018)
-https://hls-t001-l001-c011-s001.s2w3.space/05_29_19/05/29/10/ijtAXAyS/1080_3gCACc7W.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Хранители (2009)
-https://hls-t001-l001-c007-s001.s2w3.space/07_07_18/07/07/10/AjjXoZ6t/1080_wAPUsgSx.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Хроники хищных городов (2018)
-https://hls-t001-l001-c019-s001.s2w3.space/07_12_19/07/12/10/lNYjSSQW/1080_748cKGua.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Цензор (2017)
-https://vs36.vcdn.biz/bb0654651f0cd00bea55eed4534de297_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/83115361/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1256320841-b2000000.m3u8
-#EXTINF:0,Человек-амфибия (1962)
-https://vs21.vcdn.biz/a7cd705ecf32dc3436b6324bd50ef83c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/106021/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid125437175-b2000000.m3u8
-#EXTINF:0,Человек-муравей и Оса (2018)
-https://hls-t001-l001-c019-s001.s2w3.space/05_29_19/05/29/16/PCdJ6qzu/1080_tr4M5db5.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Человек-паук: Возвращение домой (2017)
-https://hls-t001-l001-c009-s001.s2w3.space/06_06_18/06/06/17/WkseFbBv/1080_nlNpXb1x.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Человек-паук: через вселенные (2018)
-https://hls-t001-l001-c012-s001.s2w3.space/03_13_19/03/13/04/QxUvmfqq/1080_ZZDqqVgr.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Человек-паук: Вдали от дома (2019)
-https://hls-t001-l001-c001-s001.s2w3.space/09_26_19/09/26/10/DY18Y9TY/1080_2BhVkMr4.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Через тернии к звёздам 1серия (1980)
-https://vs11.vcdn.biz/9e0ce70fef6008e828a3810397f70484_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/502331/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid31755370-b2000000.m3u8
-#EXTINF:0,Через тернии к звёздам 2серия (1980)
-https://vs34.vcdn.biz/fd4b428e39b0e682407abbabf0096f3e_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/210591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid158259761-b2000000.m3u8
-#EXTINF:0,Черепашки-ниндзя 2 (2016)
-https://hls-t001-l001-c017-s001.s2w3.space/08_13_18/08/13/16/1AlZmWVK/1080_pVxkGMjH.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Черная Пантера (2018)
-https://hls-t001-l001-c023-s001.s2w3.space/11_17_18/11/17/20/UiHrYw8Z/1080_RWg12L67.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Черновик (2018)
-https://hls.kinokrad.co/hls/Chernovik.2018.HDRip/playlist.m3u8
-#EXTINF:0,Черное зеркало: Брандашмыг (2018)
-https://hls-t001-l001-c004-s001.s2w3.space/01_16_19/01/16/03/XJOOxzj8/1080_HP21Savb.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Чудо-женщина (2017)
-https://hls-t001-l001-c003-s001.s2w3.space/07_31_18/07/31/13/OXHgZrQQ/1080_4SeTP2Zg.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Чужие (1986)
-https://hls-t001-l001-c010-s001.s2w3.space/10_23_18/10/23/21/q0kEDYmY/1080_3yBYMfOr.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Чужой (1979)
-https://hls-t001-l001-c009-s001.s2w3.space/10_23_18/10/23/21/6tW2og9j/1080_08TKXGlW.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Шазам! (2019)
-https://hls-t001-l001-c013-s001.s2w3.space/07_01_19/07/01/07/UjHwkoH5/1080_eVUGLa8N.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Эквилибриум (2002)
-https://hls-t001-l001-c009-s001.s2w3.space/10_27_18/10/27/21/xc7UiwWd/1080_NWgsCpjt.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Эпидемия (2013)
-https://vs38.vcdn.biz/4baa01d11d9c74bdb31b4b2c84aedf13_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/556471/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid39590759-b2000000.m3u8
-#EXTINF:0,Эффект бабочки (2004)
-https://hls-t001-l001-c016-s001.s2w3.space/06_19_18/06/19/20/bUbEOa23/1080_ztitBZ6Q.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Юные титаны, вперёд! (2018)
-https://hls-t001-l001-c001-s001.s2w3.space/01_08_19/01/08/11/XLgm6yuH/1080_F4DGHduU.mp4/tracks/v1-a/master.m3u8
-#EXTINF:0,Я – начало (2014)
-https://hls-t001-l001-c023-s001.s2w3.space/11_19_19/11/19/19/674OQFFg/1080_0eOLBb2s.mp4/tracks/v1-a/master.m3u8
-#EXTINF:-1 ,National Geographic Wild HD
-http://188.35.9.5:10005/stolen/149u/imposter.rar
-#EXTINF:-1 ,Комедийное HD
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1 ,VIP Megahit HD
-http://188.35.9.5:10020/stolen/403x/hot.dll
-#EXTINF:-1 ,Film 1 Premiere HD
-http://188.35.9.5:10005/stolen/141q/imposter.rar
-#EXTINF:-1 ,Русский Роман HD
-http://188.35.9.5:10007/stolen/127k/parasite.install
-#EXTINF:-1 ,Классика кино HD
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 ,ННТВ HD
-http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8
-#EXTINF:-1 ,КИНОПРЕМЬЕРА HD
-http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
-#EXTINF:-1 ,Star Family HD
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:-1 ,112 HD
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 ,112 Украина [FHD]
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 ,112 Украина HD Украина
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 ,312 МУЗЫКА HD
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 ,360 Новости HD
-http://360tv-cdn.facecast.io/360/channel1/1.m3u8
-#EXTINF:-1 ,360° Новости HD
-http://360tv-cdn.facecast.io/360/channel1/1.m3u8
-#EXTINF:-1 ,AD SPORT 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 ,Amedia Premium HD
-http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8
-#EXTINF:-1 ,Animal Planet HD
-http://46.32.68.167/s/live/918/86.169.51.136/1/0.m3u8
-#EXTINF:-1 ,DTX HD
-http://212.12.194.10/dtxhd/live.m3u8
-#EXTINF:-1 ,Duck TV HD
-http://51.15.190.120:38099/duckhd/live.m3u8
-#EXTINF:-1 ,FixHD
-http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
-#EXTINF:-1 ,HD Media 3D HD
-http://serv25.vintera.tv:8081/HDMediaFree/hdm3d/playlist.m3u8
-#EXTINF:-1 ,HD КИНО
-https://hls.goodgame.ru/hls/12949_720.m3u8
-#EXTINF:-1 ,History HD
-http://46.32.68.167/s/live/926/86.169.51.136/1/0.m3u8
-#EXTINF:-1 ,Kronehit TV HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 ,MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 ,MTV HD Enland
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
-#EXTINF:-1 ,Nat Geo Wild HD
-http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8
-#EXTINF:-1 ,Outdoor HD
-http://ott.watch/stream/E7Q3UVKI5H/211.m3u8
-#EXTINF:-1 ,Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 ,Setanta Sport HD
-http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-1 ,Setanta Sport Plus HD
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 ,Setanta Sports HD
-http://myott.tv/stream/E9LYLBWT7X/234.m3u8
-#EXTINF:-1 ,Еда Премиум HD
-http://178.124.183.14:80/hls/BCPKKUK5NT/variant.m3u8
-#EXTINF:-1 ,Кино UHD
-http://188.35.9.18:16050/udp/238.0.16.1:69000
-#EXTINF:-1 ,Кинопоказ HD1 (шокирующее)
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-1 ,КИНОПОКАЗ HD2 /Комедийное
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1 ,Классика кино HD
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 ,КОМЕДИЙНОЕ HD
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&amp;p=12326fa256d9bf86
-#EXTINF:-1 ,Мужское кино HD
-http://188.35.9.11:2022
-#EXTINF:-1 ,НТМ HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 ,ПЯТНИЦА! HD
-http://85.112.114.11:8086/udp/233.170.170.112:58631
-#EXTINF:-1 ,Пятница! HD (auto)
-https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1 ,Россия РТР HD
-http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8?version=2
-#EXTINF:-1 ,Ростов-папа HD
-http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-1 ,РТР Россия HD
-http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8
-#EXTINF:-1 ,СТРК HD
-http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
-#EXTINF:-1 ,Супер HD
-http://85.112.114.11:8086/udp/238.2.49.249:1234
-#EXTINF:-1 ,ТНТ4 HD
-http://85.112.114.11:8086/udp/233.170.170.130:58631
-#EXTINF:-1 ,ТНТ4 HD (auto)
-https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
-#EXTINF:-1 ,ШОКИРУЮЩЕЕ HD
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-1 ,Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,МИР Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 ,Мир 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,Star Family HD
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:-1 ,SONG TV Russia [FHD]
-https://songtvru.ru/hd/playlist.m3u8
-#EXTINF:-1 ,Астрахань 24 HD
-http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Вместе РФ HD
-http://serv25.vintera.tv:8081/vmesterf/vmesterf/playlist.m3u8
-#EXTINF:-1 ,7 канал HD (Одесса)
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 ,Юрган ТВ HD
-http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,112 HD
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 ,Arena Sport 2 HD
-https://ip2019tv.do.am/sport/Arena_Sport_2.m3u8
-#EXTINF:-1 ,НТА (Львів) HD
-http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1 ,MGM HD
-http://c0.cdn.trinity-tv.net/stream/uq2t763988wmx82xs37vrzrtrvaz686y22jd9gcgvgbhu88g6dntdb82kggx9zgvpvwj5wisyi5mgwwgdqzm7d6xbf7yvctwzvhsu3t57ms3wa4qxwyeuqk3ayrdwx3k2b6cdtnrydx9qa3ezqzea===.m3u8
-#EXTINF:-1 ,HD Fashion & Lifestyle UA
-http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
-#EXTINF:-1 ,Астрахань 24 HD +1
-http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
-#EXTINF:-1 ,MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 ,А1 HD (Одеса)
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
-#EXTINF:-1 ,360° HD
-http://dmitry-tv.ru/his/CH_360TVHD.m3u8
-#EXTINF:-1 ,Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 ,Fox Sports Racing HD
-http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
-#EXTINF:-1 ,Радио Шансон ТВ [HD]
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 ,Московский образовательный ТВ HD
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 ,Al Kass Sports 4 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 ,NBC GOLF HD
-http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
-#EXTINF:-1 ,ALL Sports HD
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 ,Известия ТВ FHD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,Прямий HD
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
-#EXTINF:-1 ,AD SPORT 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
-#EXTINF:-1 ,Nickelodeon HD
-http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
-#EXTINF:-1 ,SONG TV HD Russia
-https://songtvru.ru/lhigh/playlist.m3u8
-#EXTINF:-1 ,Июнь ТВ HD
-http://hls.m-ten.ru:8080/hls/21/live.m3u8
-#EXTINF:-1 ,Кинопоказ HD 2
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1 ,СТРК HD
-http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
-#EXTINF:-1 ,TRT Muzik HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 ,MM-TV HD
-http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
-#EXTINF:-1 ,Ultra HD Cinema
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
-#EXTINF:-1 ,Bambarbia TV [HD]
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1 ,MTV HD Enland
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
-#EXTINF:-1 ,Arena Sport 3 HD
-https://ip2019tv.do.am/sport/Arena_Sport_3.m3u8
-#EXTINF:-1 ,Star Cinema HD
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-#EXTINF:-1 ,SONG TV Russia [HD]
-https://songtvru.ru/lhigh/playlist.m3u8
-#EXTINF:-1 ,Донеччина TV HD
-http://stream.dn.ua/hls/stream.m3u8
-#EXTINF:-1 ,MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 ,Правда ТУТ HD (Київ)
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 ,HD Media 3D HD
-http://serv25.vintera.tv:8081/HDMediaFree/hdm3d/playlist.m3u8
-#EXTINF:-1 ,ZETA HD
-http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
-#EXTINF:-1 ,Holvoet TV HD (Chille)
-http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
-#EXTINF:-1 ,SONG TV HD (Russia)
-https://songtvru.ru/hd/playlist.m3u8
-#EXTINF:-1 ,43 канал HD
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-#EXTINF:-1 ,World Fashion Channel International HD
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Мир Premium HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 ,HD Media
-http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
-#EXTINF:-1 ,FixHD
-http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
-#EXTINF:-1 ,Al Kass Sports 5 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 ,Viasat History HD
-http://hls.trinity-tv.net/stream/35ezf2h3bj9357zqtaq7ct8jk38ukffg6jyn6n36m6pj5wtybv5g4ygdrxmrxcgnr34vvn82nqy8gmwpvpr5nwcfxk8vnwshhny3nxnfk8n8dcmqf57k9ddxe5gu8d6md5fqqfty463494yyxngkq===.m3u8
-#EXTINF:-1 ,WOW!TV HD
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 ,AD SPORT 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
-#EXTINF:-1 ,Мир [HD]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,SONG TV FHD Russia
-https://songtvru.ru/hd/playlist.m3u8
-#EXTINF:-1 ,Travel Guide TV HD
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1 ,Мир /HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,СК1 HD (Житомир)
-https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/chunks.m3u8
-#EXTINF:-1 ,УрФО 24 HD +2
-http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
-#EXTINF:-1 ,НТМ HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 ,Kronehit TV HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 ,Splaxxx HD
-http://www.evoiptv.com/hlskids/hlskids.m3u8
-#EXTINF:-1 ,Ростов-папа HD
-http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-1 ,Мир (HD)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,HD КИНО
-https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
-#EXTINF:-1 ,Viasat Sport HD
-http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8
-#EXTINF:-1 ,Akudji TV HD
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8
-#EXTINF:-1 ,TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:-1 ,Громадське HD
-http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
-#EXTINF:-1 ,Al Kass Sports 1 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 ,FLOW Sports 1 HD
-http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
-#EXTINF:-1 ,Travel Guide TV [FHD]
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1 ,Ocean TV (HD)
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:-1 ,Мир HD (Premium)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 ,Brics TV HD
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,360 Новости HD
-http://360tv-cdn.facecast.io/360/channel1/1.m3u8
-#EXTINF:-1 ,Любимый HD/ТНТ4
-http://92.245.103.126:1935/live/live.stream/playlist.m3u8
-#EXTINF:-1 ,RU TV HD
-http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1 ,РЖД ТВ HD
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:-1 ,Epic Drama HD
-http://hls.trinity-tv.net/stream/4zh7brpw5jhxwyy2m3x3y64n7628tqgs4ii6sgvid5mssvcafie2zdf6wjja5p7533wswqx7a4gk684eskfinyejxxqxqvu8jjdfb6k5d52zrab7ikvyjxm33csefu98ip97gb5apma2pe4m2enm2hka.m3u8
-#EXTINF:-1 ,КОМЕДИЙНОЕ HD
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1 ,Red Bull TV HD
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 ,DTX HD
-http://212.12.194.10/dtxhd/live.m3u8
-#EXTINF:-1 ,Al Kass Sports 2 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 ,Duck TV HD
-http://51.15.190.120:38099/duckhd/live.m3u8
-#EXTINF:-1 ,ID Fashion TV HD
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
-#EXTINF:-1 ,Между.Net ТВ HD
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 ,Travel HD BG
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1 ,Министерство идей HD
-https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 ,Астрахань.Ru Sport HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 ,Шокирующее HD
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-1 ,Комедийное HD
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1 ,Шокирующее HD
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-1 ,Комедийное HD
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1 ,Классика кино HD
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 ,112 Украина HD
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1 ,112 Украина [FHD]
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
-#EXTINF:-1 ,24 канал HD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
-#EXTINF:-1 ,MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 ,HD Media
-http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
-#EXTINF:-1 ,ID Fashion TV HD
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
-#EXTINF:-1 ,ID Fashion TV [FHD]
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,Kronehit TV HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 ,Kronehit TV [FHD]
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 ,Luxury HD
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 ,Travel HD BG
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1 ,Ocean TV HD
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:-1 ,Наш Дом HD
-http://85.234.33.60/stream/c11.m3u8
-#EXTINF:-1 ,RU TV HD
-http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1 ,UA TV HD
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 ,Первый Музыкальный BY [FHD]
-http://rtmp.one.by:1300
-#EXTINF:-1 ,Ростов-папа HD
-http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-1 ,СТРК HD
-http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
-#EXTINF:-1 ,Смайлик ТВ HD
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 ,HD Media
-http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
-#EXTINF:-1 ,HD КИНО
-https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
-#EXTINF:-1 ,Jasmin channel 18+ HD
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
-#EXTINF:-1 ,ANIXE HD
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 ,Abu Dhabi Drama HD
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8
-#EXTINF:-1 ,Akudji TV HD
-http://hls.goodgame.ru:80/hls/5346.m3u8
-#EXTINF:-1 ,Almaty TV HD
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-#EXTINF:-1 ,Bambarbia TV HD
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1 ,DJing Electro Rock HD
-http://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1 ,Digi 24 HD
-http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
-#EXTINF:-1 ,Digi24 HD
-http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 ,Djing Classic HD
-http://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 ,Djing TV HD
-http://www.djing.com/tv/live.m3u8
-#EXTINF:-1 ,G TV HD
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
-#EXTINF:-1 ,HD Fashion & Lifestyle (UA)
-http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
-#EXTINF:-1 ,HD Fashion & Lifestyle [FHD]
-http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,HD Fashion UA
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,Horizon TV HD
-http://5.254.76.34:17070/C441/tracks-v1a1/mono.m3u8?token=kdsdkwy453wrRq29IIIo
-#EXTINF:-1 ,JOJ family HD
-http://cdn1.4net.tv/master_10.m3u8
-#EXTINF:-1 ,Jasmin HD 18+
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 ,KRAL HD
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 ,Luxury HD
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 ,MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 ,MM TV HD
-http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
-#EXTINF:-1 ,Miami TV Colombia HD (18+)
-http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-#EXTINF:-1 ,MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 ,Música HD
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
-#EXTINF:-1 ,NAT GEO WILD HD
-https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8
-#EXTINF:-1 ,Publika TV HD (Moldova)
-http://livebeta.publika.md/LIVE/P/1500.m3u8
-#EXTINF:-1 ,RING HD
-https://cdn1.mobiletv.bg/T14/ATV/ringhd/ringhd_ATV987654321.m3u8
-#EXTINF:-1 ,RTL 102.5 TV HD
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
-#EXTINF:-1 ,RU TV HD
-http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1 ,Sport HD 720
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 ,TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 ,Univer HD
-http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
-#EXTINF:-1 ,А1 [HD]
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
-#EXTINF:-1 ,Астрахань.Ru Sport HD
-http://91.211.143.214/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 ,Возрождение TV [FHD]
-http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8
-#EXTINF:-1 ,Волжский Плюс [HD]
-http://flussonic.powernet.com.ru:8080/telekanal_internet/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Донеччина TV HD
-http://stream.dn.ua/hls/stream.m3u8
-#EXTINF:-1 ,Думская ТВ HD (Одесса)
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1 ,Июнь ТВ HD
-http://hls.m-ten.ru:8080/hls/21/live.m3u8
-#EXTINF:-1 ,НТМ HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 ,Радио Шансон ТВ HD
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
-#EXTINF:-1 ,Тивиком HD (+5)
-http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-
-
 
 
