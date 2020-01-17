@@ -1,68 +1,49 @@
 #EXTM3U
 #EXTINF:-1,TGFM FROM LT CLUB RADIO
-#EXTGRP:Общие
 http://radijas.tgfm.lt:8000/stream/2/;?type=http&nocache=1336
 #EXTINF:-1,TV6
-#EXTGRP:Общие
 http://88.216.8.122:8080/tv6/index.m3u8
 #EXTINF:-1,TVPLAY
-#EXTGRP:Общие
 http://88.216.48.147/flussonic/TVPlaySport__plius/video.m3u8
 #EXTINF:-1,TV1 LT
-#EXTGRP:Общие
 http://88.216.8.122:8080/tv1/index.m3u8
-#EXTINF:-1,OSTRA HD
-#EXTGRP:Общие
+#EXTINF:-1,OSTra
 http://188.35.9.15:2015
 #EXTINF:-1,KINOPOKAZ
-#EXTGRP:Общие
 http://188.35.9.15:2021
 #EXTINF:-1,VIP PREMJA
-#EXTGRP:Общие
 http://188.35.9.15:2013
 #EXTINF:-1,SPORT1 LT
-#EXTGRP:Общие
 http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
 #EXTINF:-1,EURODANCER
-#EXTGRP:Общие
 https://autopilot.catcast.me/content/36987/index.m3u8
 #EXTINF:-1,DISCOVER HD
-#EXTGRP:Общие
 http://45.143.205.112:1000/play/discovery-hd/index.m3u8
 #EXTINF:-1,PORTO
-#EXTGRP:Общие
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1,PORTO2
-#EXTGRP:Общие
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1,PORTO3
-#EXTGRP:Общие
 http://cdn.adultiptv.net/fetish.m3u8
 #EXTINF:-1,PORTO4
-#EXTGRP:Общие
 http://cdn.adultiptv.net/bigdick.m3u8
 #EXTINF:-1,PORTO5
-#EXTGRP:Общие
 http://cdn.adultiptv.net/bigtits.m3u8
 #EXTINF:-1,PORTO6
-#EXTGRP:Общие
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1,PORTO7
-#EXTGRP:Общие
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1,STARK HD
-#EXTGRP:Общие
 http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
-#EXTINF:-2,MUSIC BOX HD
-#EXTGRP:Общие
+#EXTINF:-1,MUSIC BOX HD
 http://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-2,OSTRA 
+#EXTINF:-1,OSTRA 
 http://188.35.9.26:14050/udp/238.0.14.3:69000
-#EXTINF:-2,KINOHIT HD
+#EXTINF:-1,KINOHIT HD
 http://217.25.216.4:8085/udp/238.2.18.22:1234
 #EXTINF:-1,petnica hd
 http://195.191.208.2:8086/udp/233.170.170.112:58631
-#EXTINF:-2,RU TV HD
+#EXTINF:-1,RU TV HD
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-2,SONG TV
 https://songtvru.ru/hd/playlist.m3u8
