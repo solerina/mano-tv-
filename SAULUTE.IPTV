@@ -47,8 +47,6 @@ https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w150378
 http://212.12.194.10/dtxhd/live.m3u8
 #EXTINF:-2,DOSENT TV
 https://hls.goodgame.ru/hls/64556.m3u8
-#EXTINF:-2,PREMIUM
-http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-2,HISTORY HD
 http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF:-2,EXPLORER HD
@@ -223,8 +221,6 @@ http://217.25.216.4:8085/udp/238.2.18.80:1234
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/latina.m3u8
 #EXTINF:-1 ,Milf HD
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 ,O-La-La
-http://217.25.216.4:8085/udp/238.2.5.209:1234
 #EXTINF:-1 ,Pornstar HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pornstar.m3u8
 #EXTINF:-1 ,POV HD
@@ -393,8 +389,6 @@ http://178.124.183.13/hls/LWWBCKZAPZ/bw1200000/playlist.m3u8
 http://178.124.183.150/hls/CH_NASHEKINO_HLS/bw1200000/playlist.m3u8
 #EXTINF:-1,Наше Новое Кино
 http://178.124.183.150/hls/UVPWPN2KTN_HLS/bw1200000/playlist.m3u8
-#EXTINF:-1,Haш фyтбол
-http://178.124.183.13/hls/HNBMWPATWZ/bw1200000/playlist.m3u8
 #EXTINF:-1,Ностальгия
 http://178.124.183.13/hls/SWPQU2UFKD/bw1200000/playlist.m3u8
 #EXTINF:-1,ОНТ
@@ -457,37 +451,5 @@ https://v2.catcast.me/content/37316/index.m3u8
 https://hls.goodgame.ru/hls/64556_480.m3u8
 #EXTINF:-1,Кинозал 11 (Film TV)
 http://195.9.195.3:8080/hls/165462.m3u8
-#EXTINF:-1,Кинозал 12 (Боевик TV)
-http://str04.mediatech.by/cs_virtkinozalhd2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинозал 13 (КВ1)
 https://v2.catcast.me/content/35525/index.m3u8
-#EXTINF:-1,Кинозал 14 (Mnogo TV)
-https://s.catcast.me/hls/mnogotv.m3u8
-#EXTINF:-1,Кинозал 15 (SeverTV Kino)
-https://s.catcast.me/hls/severtvkino.m3u8
-#EXTINF:-1,Кинозал 16 (КИНОПАБ Хит) 
-https://edge-contell-01.mycdn.video/pub/hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 17 (КИНОПАБ VHS) 
-https://edge-contell-01.mycdn.video/pub/vhs/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 18 (КИНОПАБ UHD 4K) 
-https://edge-contell-01.mycdn.video/pub/4k/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 19 (КИНОПАБ Комедия) 
-https://edge-contell-01.mycdn.video/pub/comedy/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 20 (КИНОПАБ Ужасы) 
-https://edge-contell-01.mycdn.video/pub/horror/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 21 (КИНОПАБ Фантастика) 
-https://edge-contell-01.mycdn.video/pub/scifi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 22 (КИНОПАБ Футурама) 
-https://edge-contell-01.mycdn.video/pub/futurama/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 23 (КИНОПАБ Секретные материалы) 
-https://edge-contell-01.mycdn.video/pub/xfiles/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 24 (КИНОПАБ Южный парк) 
-https://edge-contell-01.mycdn.video/pub/southpark/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 25 (Кинорейс 1) 
-http://cdn.mediatech.by/cs_virtkinozalhd1/index.m3u8
-#EXTINF:-1,Кинозал 26 (Кинорейс 2) 
-http://cdn.mediatech.by/cs_virtkinozalhd2/index.m3u8
-#EXTINF:-1,Кинозал 27 (Кинорейс 3) 
-http://cdn.mediatech.by/cs_virtkinozalhd3/index.m3u8
-#EXTINF:-1,Кинозал 28 (Кинорейс 4) 
-http://str04.mediatech.by/cs_virtkinozalsd1/tracks-v1a1/mono.m3u8
