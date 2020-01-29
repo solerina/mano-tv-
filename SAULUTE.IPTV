@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,VIVA TV
+https://hls.myvideocontent.ru/hls2/vivapolska/index.m3u
 #EXTINF:-1,TGFM FROM LT CLUB RADIO
 http://radijas.tgfm.lt:8000/stream/2/;?type=http&nocache=1336
 #EXTINF:-1,OSTra
