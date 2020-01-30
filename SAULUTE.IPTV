@@ -56,7 +56,7 @@ http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF:-2,EXPLORER HD
 #EXTGRP:Общие
 http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
-#EXTINF:-2,LAMINOR 
+#EXTINF:-1,TEST
 http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8?version=2
 #EXTINF:-2,RADISAHSON
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
