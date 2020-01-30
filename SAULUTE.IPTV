@@ -49,8 +49,8 @@ http://178.124.183.4:80/hls/F7UMYQMCGB/variant.m3u8
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w150378122_b1431072.m3u8
 #EXTINF:-1,TEST
 http://212.12.194.10/dtxhd/live.m3u8
-#EXTINF:-1,TEST
-https://hls.goodgame.ru/hls/64556.m3u8
+#EXTINF:-1,AKUDJO TV HD 
+https://stream1.cybergame.tv/live/akudjio.m3u8
 #EXTINF:-2,HISTORY HD
 http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF:-2,EXPLORER HD
@@ -87,9 +87,9 @@ http://ott-stream.sevstar.net/2037/video.m3u8?token=8330162968
 http://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-2,ort HD
 http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
-#EXTINF:-2,AKUDJO
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-2,VIP MEGAXIT
+#EXTINF:-1,AKUDJO
+https://stream1.cybergame.tv/live/akudjio.m3u8
+#EXTINF:-1,VIP MEGAXIT
 http://188.35.9.5:10020/stolen/403x/hot.dll
 #EXTINF:-1,TEST
 http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
@@ -117,7 +117,7 @@ http://195.9.195.3:8080/manifest/165462_master.m3u8
 http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,TEST
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,TEST
+#EXTINF:-1,AKUDIO TV
 https://stream1.cybergame.tv/live/akudjio.m3u8
 #EXTINF:-2,STRTV HD
 http://hls.goodgame.ru:80/hls/130048.m3u8
