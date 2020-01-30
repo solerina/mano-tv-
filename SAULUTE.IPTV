@@ -195,7 +195,7 @@ http://46.32.68.167/s/live/261/86.169.51.136/0/0.m3u8
 http://46.32.68.167/s/live/262/86.169.51.136/0/0.m3u8
 #EXTINF:-1,Сарафан
 http://178.124.183.14/hls/Y9GP8UFTZO/bw1200000/playlist.m3u8
-#EXTINF:-1,Бобёр
+#EXTINF:-1,TEST
 http://46.32.68.167/s/live/418/100.0.0.5/1/0.m3u8
 #EXTINF:-1,Че +2
 http://tvsever.ru:8080/hls/ach2.m3u8
