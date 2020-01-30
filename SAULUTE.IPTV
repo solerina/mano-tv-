@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,1HD 
+http://188.35.9.5:10005/stolen/103r/imposter.rar
 #EXTINF:-1,VIVA TV
 https://hls.myvideocontent.ru/hls2/vivapolska/index.m3u
 #EXTINF:-1,TGFM FROM LT CLUB RADIO
@@ -383,8 +385,8 @@ http://178.124.183.150/hls/DYJ5GH8HOK_HLS/bw1200000/playlist.m3u8
 http://178.124.183.150/hls/CH_NTVPRAVO_HLS/bw1200000/playlist.m3u8
 #EXTINF:-1,НТВ сериал
 http://178.124.183.150/hls/CH_NTVSERIAL_HLS/bw1200000/playlist.m3u8
-#EXTINF:-1,НЮ АРТ ТВ
-http://178.124.183.13/hls/CH_NYARTTV/bw1200000/playlist.m3u8
+#EXTINF:-1,SONY TV HD
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
 #EXTINF:-1,Наука 2.0
 http://178.124.183.13/hls/LWWBCKZAPZ/bw1200000/playlist.m3u8
 #EXTINF:-1,Наше Любимое Кино
