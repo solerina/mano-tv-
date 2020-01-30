@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,Первый канал HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
-#EXTINF:-1,TEST
-https://hls.myvideocontent.ru/hls2/vivapolska/index.m3u
+#EXTINF:-1,U.HD TV
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1,TGFM FROM LT CLUB RADIO
 http://radijas.tgfm.lt:8000/stream/2/;?type=http&nocache=1336
-#EXTINF:-1,OSTra
-http://188.35.9.15:2015
+#EXTINF:-1,Шокирующее HD
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&amp;p=87e0c783e9b31451
 #EXTINF:-1,KINOPOKAZ
 http://188.35.9.15:2021
 #EXTINF:-1,VIP PREMJA
