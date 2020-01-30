@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,1HD 
+#EXTINF:-1,Первый канал HD
 http://188.35.9.5:10005/stolen/103r/imposter.rar
-#EXTINF:-1,VIVA TV
+#EXTINF:-1,TEST
 https://hls.myvideocontent.ru/hls2/vivapolska/index.m3u
 #EXTINF:-1,TGFM FROM LT CLUB RADIO
 http://radijas.tgfm.lt:8000/stream/2/;?type=http&nocache=1336
@@ -54,7 +54,6 @@ https://hls.goodgame.ru/hls/64556.m3u8
 #EXTINF:-2,HISTORY HD
 http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF:-2,EXPLORER HD
-#EXTGRP:Общие
 http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 #EXTINF:-1,TEST
 http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8?version=2
@@ -192,7 +191,7 @@ http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
 http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
 #EXTINF:-1,Мир сериала
 http://46.32.68.167/s/live/261/86.169.51.136/0/0.m3u8
-#EXTINF:-1,CBS Reality
+#EXTINF:-1,TEST
 http://46.32.68.167/s/live/262/86.169.51.136/0/0.m3u8
 #EXTINF:-1,Сарафан
 http://178.124.183.14/hls/Y9GP8UFTZO/bw1200000/playlist.m3u8
