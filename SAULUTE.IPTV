@@ -9,8 +9,8 @@ http://radijas.tgfm.lt:8000/
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&amp;p=87e0c783e9b31451
 #EXTINF:-1,KINOPOKAZ
 http://188.35.9.15:2021
-#EXTINF:-1,VIP PREMJA
-http://188.35.9.15:2013
+#EXTINF:-1,VIP tv
+https://hls.goodgame.ru/hls/146065.m3u8
 #EXTINF:-1,SPORT1 LT
 http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
 #EXTINF:-1,EURODANCER
@@ -111,11 +111,11 @@ http://85.112.114.11:8086/udp/233.170.170.79:58631
 http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
 #EXTINF:-1,mult 
 http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
-#EXTINF:-1,TEST
+#EXTINF:-1,MKL
 https://213.252.252.2/live/eds/Kidzone/HLS_encr/index.m3u8
 #EXTINF:-2,TV3 HD
 http://85.112.114.11:8086/udp/233.170.170.79:58631
-#EXTINF:-1,TEST
+#EXTINF:-1,Tym
 http://213.252.252.2/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 #EXTINF:-1,AKUDIO TV
 https://stream1.cybergame.tv/live/akudjio.m3u8
@@ -191,14 +191,14 @@ http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
 http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
 #EXTINF:-1,Мир сериала
 http://46.32.68.167/s/live/261/86.169.51.136/0/0.m3u8
-#EXTINF:-1,TEST
-http://46.32.68.167/s/live/262/86.169.51.136/0/0.m3u8
+#EXTINF:-1,nuta
+http://hls.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1,Сарафан
 http://178.124.183.14/hls/Y9GP8UFTZO/bw1200000/playlist.m3u8
 #EXTINF:-1,TEST
 http://213.252.252.2/live/eds/LNK/HLS_encr/index.m3u8
-#EXTINF:-1,Че +2
-http://tvsever.ru:8080/hls/ach2.m3u8
+#EXTINF:-1,MEGA
+http://autopilot.myowntv.org:80/content/35525/index.m3u8
 #EXTINF:-1 ,AST TV HD
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 ,AST TV 2 HD
@@ -457,3 +457,33 @@ http://195.9.195.3:8080/hls/165462.m3u8
 https://v2.catcast.me/content/35525/index.m3u8
 #EXTINF:-1,COOLfahrenheit 93 - (1)
 http://radijas.tgfm.lt:8000
+#EXTINF:-1,Кинозал 1 (pznstreams)
+https://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,Кинозал 2 (Неформат)
+https://hls.goodgame.ru/hls/64556.m3u8
+#EXTINF:-1,Кинозал 4 (Sever ТВ)
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:-1,Кинозал 5 (STR TV)
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,Кинозал 6 (akudji)
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Кинозал 7 (SC TV)
+http://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1,Кинозал 8 (Films TV)
+https://hls.goodgame.ru/hls/165462.m3u8
+#EXTINF:-1,Кинозал 1 (Marvel ТВ)
+https://v2.catcast.me/content/35525/index.m3u8
+#EXTINF:-1,Кинозал 2 (Evgen СССР)
+https://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:-1,Кинозал 3 (Evgen Ужасы)
+https://v2.catcast.me/content/36277/index.m3u8
+#EXTINF:-1,Кинозал 4 (Карате ТВ)
+https://v2.catcast.me/content/37316/index.m3u8
+#EXTINF:-1,Кинопоказ 1
+https://autopilot.catcast.me/content/37033/index.m3u8
+#EXTINF:-1,Кинопоказ 2
+http://autopilot.myowntv.org:80/content/35525/index.m3u8
+#EXTINF:-1,Кинопоказ 3
+http://autopilot.myowntv.org:80/content/35448/index.m3u8
+#EXTINF:-1,Кинопоказ 4
+http://autopilot.myowntv.org:80/content/36506/index.m3u8
