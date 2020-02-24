@@ -504,13 +504,13 @@ http://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
 #EXTINF: -1,
 http://185.176.117.242/live/eds/_LT_SD/HLS_encr/_LT_SD.m3u8
 #EXTINF: -1, LT HD
-http://185.176.117.242/live/eds/_LT_HD/HLS_encr/_LT_HD.m3u8
+http://213.252.252.2/live/eds/_LT_HD/HLS_encr/_LT_HD.m3u8
 #EXTINF: - 1, LT
-http://185.176.117.242/live/eds/_LT_SD/HLS_encr/_LT_SD.m3u8
+http://213.252.252.2/live/eds/_LT_SD/HLS_encr/_LT_SD.m3u8
 #EXTINF: -1, TV8 LT
-http://185.176.117.242/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
+http://213.252.252.2/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
 # EXTINF: -1, LRT
-http://185.176.117.242/live/eds/LRT/HLS_encr/LRT.m3u8
+http://213.252.252.2/live/eds/LRT/HLS_encr/LRT.m3u8
 #EXTINF: -1, LRT Lietuva
 http://185.176.117.242/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania .m3u8
 #EXTINF: -1, LNK
