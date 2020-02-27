@@ -486,21 +486,21 @@ http://autopilot.myowntv.org:80/content/35448/index.m3u8
 #EXTINF:-1,Кинопоказ 4
 http://autopilot.myowntv.org:80/content/36506/index.m3u8
 #EXTINF: -1, LTV1
-http://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
+http://213.252.252.2/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
 #EXTINF: -1, LTV7
-http://185.176.117.242/live/eds/LTD7_LV /LTV7_LV_SD.m3u8
+http://213.252.252.2/live/eds/LTD7_LV /LTV7_LV_SD.m3u8
 #EXTINF: -1, LV SD
-http://185.176.117.242/live/eds/_LV_HD/HLS_encr/_LV_HD.m3u8
+http://213.252.252.2/live/eds/_LV_HD/HLS_encr/_LV_HD.m3u8
 #EXTINF: -1, LNT
-http://185.176.117.242/live/eds/ LNT_LV_SD / HLS_encr / LNT_LV_SD.m3u8
+http://1213.252.252.2/live/eds/ LNT_LV_SD / HLS_encr / LNT_LV_SD.m3u8
 #EXTINF: -1, LV
-http://185.176.117.242/live/eds/_LV_SD/HLS_encr/_LV_SD.m3u8
+http://213.252.252.2/live/eds/_LV_SD/HLS_encr/_LV_SD.m3u8
 #EXTINF: -1, Kanāls 2
-http://185.176.117.242/live /eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
+http://213.252.252.2/live /eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
 #EXTINF: -1, +
-http://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
+http://213.252.252.2/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
 #EXTINF: -1,
-http://185.176.117.242/live/eds/_LT_SD/HLS_encr/_LT_SD.m3u8
+http://213.252.252.2/live/eds/_LT_SD/HLS_encr/_LT_SD.m3u8
 #EXTINF: -1, LT HD
 http://213.252.252.2/live/eds/_LT_HD/HLS_encr/_LT_HD.m3u8
 #EXTINF: - 1, LT
@@ -512,11 +512,11 @@ http://213.252.252.2/live/eds/LRT/HLS_encr/LRT.m3u8
 #EXTINF: -1, LRT Lietuva
 http://185.176.117.242/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania .m3u8
 #EXTINF: -1, LNK
-http://185.176.117.242/live/eds/LNK/HLS_encr/LNK.m3u8
+http://213.252.252.2/live/eds/LNK/HLS_encr/LNK.m3u8
 #EXTINF: -1, TV1
-http://185.176.117.242/live/eds/TV1/HLS_encr /TV1.m3u8
+http://213.252.252.2/live/eds/TV1/HLS_encr /TV1.m3u8
 #EXTINF: -1, ETV
-http://185.176.117.242/live/eds/ETV/HLS_encr/ETV.m3u8
+http:/213.252.252.2/live/eds/ETV/HLS_encr/ETV.m3u8
 #EXTINF: -1, ETV 2
 http://185.176.117.242/live/eds/ETV2/HLS_encr/ETV2.m3u8
 #EXTINF: - 1, EE
@@ -772,7 +772,7 @@ https://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
 #EXTINF: -1, „Viasat History HD“
 https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/index .m3u8
 #EXTINF: -1, „Viasat Explorer HD“
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+https://213.252.252.2/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 #EXTINF: -1, ETV plius
 http://213.252.252.2/live/eds/ETVplus/HLS_encr/ETVplus.m3u8
 #EXTINF: -1, „Sport1 LT“
