@@ -83,8 +83,8 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1,Мир +3
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1,kino tv 
+http://50.7.144.155:8081/kino_tv/index.m3u8?wmsAuthSign=1582901246Sa8bf15f868f2b6f88abe18c03927793cS75h37h742h78
 #EXTINF:-1,Мир +4
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1,ОТР
@@ -183,8 +183,8 @@ http://178.124.183.13/hls/CH_FOXL/bw1200000/playlist.m3u8
 http://178.124.183.13/hls/CH_GALAXY/bw1200000/playlist.m3u8
 #EXTINF:-1,Gulli
 http://178.124.183.13/hls/7FFGONY2N8/bw1200000/playlist.m3u8
-#EXTINF:-1,History
-http://178.124.183.150/hls/CH_HISTORY_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,H2 RUS
+http://50.7.144.155:8081/h2/tracks-1,2/index.m3u8?wmsAuthSign=1582901357Sebfd2a0df3358c7058e70c2ff24e448bS75h37h742h78
 #EXTINF:-1,KVARTAL TV
 http://178.124.183.150/hls/CH_KVARTALTV_HLS/bw1200000/playlist.m3u8
 #EXTINF:-1,Nat Geo Wild
@@ -197,8 +197,8 @@ http://178.124.183.13/hls/PN9VRQ5DGR/bw1200000/playlist.m3u8
 http://178.124.183.13/hls/XW6AGFSZJ8/bw1200000/playlist.m3u8
 #EXTINF:-1,Sony SciFi
 http://178.124.183.13/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
-#EXTINF:-1,Star Cinema
-http://178.124.183.13/hls/CH_STARCINEMA/bw1200000/playlist.m3u8
+#EXTINF:-1,OSTRASIUZETNA HD
+http://50.7.144.155:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=1582901492S524ff773a98b75303ed39c9a43893561S75h37h742h78
 #EXTINF:-1,Star Family
 http://178.124.183.13/hls/CH_FAMILY/bw1200000/playlist.m3u8
 #EXTINF:-1,Tiji
@@ -435,8 +435,8 @@ http://213.252.252.2/live/eds/TV1/HLS_encr /TV1.m3u8
 http:/213.252.252.2/live/eds/ETV/HLS_encr/ETV.m3u8
 #EXTINF: -1, ETV 2
 http://185.176.117.242/live/eds/ETV2/HLS_encr/ETV2.m3u8
-#EXTINF: - 1, EE
-http://185.176.117.242/live/eds/_EE_SD/HLS_encr/_EE_SD.m3u8
+#EXTINF: - 1,1HD MUZ
+http://50.7.144.155:8081/1hd/index.m3u8?wmsAuthSign=1582901694S4c634e4945e360791338865c3cb1dc30S75h37h742h78
 #EXTINF: -1, „Kanal 11“
 http://185.176.117.242/live/eds/Kanal11/HLS_encr/Kanal11.m3u8
 # EXTINF: -1, Kanala 12
