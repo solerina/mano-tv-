@@ -353,8 +353,8 @@ https://hls.goodgame.ru/hls/12949_720.m3u8
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1,Кинозал 4 (STR TV) 
 https://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,Кинозал 5 (akudji) 
-https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Кинозал 5 (akudji
+https://stream1.cybergame.tv/live/akudjio.m3u8
 #EXTINF:-1,Кинозал 6 (Evgen СССР) 
 https://v2.catcast.me/content/36506/index.m3u8
 #EXTINF:-1,Кинозал 7 (Evgen Ужасы) 
