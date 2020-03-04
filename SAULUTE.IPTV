@@ -989,3 +989,2946 @@ http://109.68.40.67/life/magnolia_3/index.m3u8
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
 #EXTINF:-1 ,Южная волна
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
+#EXTINF:0,index.m3u8
+https://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/index.m3u8
+#EXTINF:0,D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:0,Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1TVHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_4.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.217:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_8.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV_9.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.2:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1TV_EVRAZIYA_KZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIA1HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_8.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1_9.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA24_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA24_3.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA24_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIARTR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VOLGOGRAD1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGOGRAD1HD_VGRAD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_VOLGOGRAD24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGOGRAD24HD_VGRAD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NOY24HD_NOY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ARKTIKA24HD_NBK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV_7.m3u8
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.4.59:1234
+#EXTINF:0,http://dmitry-tv.ddns.net:2/his/CH_NTVSERIAL
+#EXTINF:0,http://dmitry-tv.ddns.net:3/his/CH_NTVSTYLE
+#EXTINF:0,http://dmitry-tv.ddns.net:4/his/CH_NTVPRAVO
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOSTOK24_VLD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_GOVORITMOSKVAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MATCHTV.m3u8
+#EXTINF:0,https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.201:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.140:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.203:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.202:13343
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.211:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.144:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.132:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.133:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.134:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MATCHPREMIER.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.132:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.20:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_START.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_STARTHD.m3u8
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.4.175:1234
+#EXTINF:0,Eurosport 1
+http://94.125.53.68:81/udp/239.191.254.46:13343
+#EXTINF:0,Eurosport 1 HD
+http://94.125.53.68:81/udp/239.191.254.234:15283
+#EXTINF:0,Eurosport 2
+http://94.125.53.68:81/udp/239.191.254.47:13343
+#EXTINF:0,Extreme Sports
+http://94.125.53.68:81/udp/239.191.254.39:13343
+#EXTINF:0,Russian Extreme
+http://94.125.53.68:81/udp/239.191.254.6:13343
+#EXTINF:0,Russian Extreme Ultra HD
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSHD.m3u8
+#EXTINF:0,Russian Extreme Ultra QHD
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSQHD.m3u8
+#EXTINF:0,Russian Extreme Ultra UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
+#EXTINF:0,Eurosport4K HD
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSHD.m3u8
+#EXTINF:0,Eurosport4K QHD
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSQHD.m3u8
+#EXTINF:0,Eurosport4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
+#EXTINF:0,ALL SPORTS HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_ALLSPORTSHD_720.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.44:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.233:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.139:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.204:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL_8.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SMAYLIK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SMAYLIKHD_720.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.237:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.18:13343
+#EXTINF:0,Nickelodeon
+http://94.125.53.68:81/udp/239.191.254.62:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.75:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.81:13343
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.30:1234
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.84:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SHAYAN_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SHAYANHD_KZN.m3u8
+#EXTINF:0,Ani
+http://94.125.53.68:81/udp/239.191.254.88:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.120:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.196:13343
+#EXTINF:0,TiJi
+http://94.125.53.68:81/udp/239.191.254.138:13343
+#EXTINF:0,JimJam
+http://178.163.1.77:4022/udp/234.0.0.152:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.115:13343
+#EXTINF:0,Cartoon Network
+http://94.125.53.68:81/udp/239.191.255.7:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.5:13343
+#EXTINF:0,2x2 (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2-1.m3u8
+#EXTINF:0,2x2
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2.m3u8
+#EXTINF:0,2x2 HD (auto)
+https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565199976/1e35f601a1ecd232861199731ef58c2d/playlist.m3u8
+#EXTINF:0,2x2 (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2_2.m3u8
+#EXTINF:0,2x2 (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2_4.m3u8
+#EXTINF:0,2x2 (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2_6.m3u8
+#EXTINF:0,2x2 (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2_7.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.152:13343
+#EXTINF:0,BOOMERANG
+http://94.125.53.68:81/udp/239.191.254.37:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.136:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.137:15283
+#EXTINF:0,Disney Channel (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY-1.m3u8
+#EXTINF:0,Disney Channel
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
+#EXTINF:0,Disney Channel (+2)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY_2.m3u8
+#EXTINF:0,Disney Channel (+4)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY_4.m3u8
+#EXTINF:0,Disney Channel (+6)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY_6.m3u8
+#EXTINF:0,Disney Channel (+7)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY_7.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.29:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SKAZKIZAYKI.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SZHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MOSKVA24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MOSKVADOVERIE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_AOTV_BLAG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1OBLASTNOY_ORL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_UNKNOWN_PLANET.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_UNKNOWN_PLANETHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.128:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_REDLINE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_LOVETV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_LOVETVHD_720.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.68:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STS_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_MIR_NSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_PRIMA_KRSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_7.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.119:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.163:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.121:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.214:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ANEKDOT.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.207:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KUBAN24_KRDAR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KUBAN24_ORBITA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KRASNODAR_KRDAR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT_7.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.140:13343
+#EXTINF:0,CKAT THT
+http://178.163.1.77:4022/udp/234.0.0.186:2000
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV-6_KURSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TNTMUSIC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TNTMUSICHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RENTV_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STV_BLRUS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE_7.m3u8
+#EXTINF:0,FOX
+http://94.125.53.68:81/udp/239.191.254.107:13343
+#EXTINF:0,FOX HD
+http://94.125.53.68:81/udp/239.191.254.232:15283
+#EXTINF:0,FOX Life
+http://94.125.53.68:81/udp/239.191.254.108:13343
+#EXTINF:0,FOX Life HD
+http://94.125.53.68:81/udp/239.191.254.231:15283
+#EXTINF:0,SONY CHANNEL
+http://94.125.53.68:81/udp/239.191.254.48:13343
+#EXTINF:0,SONY CHANNEL HD
+http://94.125.53.68:81/udp/239.191.254.229:15283
+#EXTINF:0,SONY SCI-FI
+http://94.125.53.68:81/udp/239.191.254.55:13343
+#EXTINF:0,SONY TURBO
+http://94.125.53.68:81/udp/239.191.254.135:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.185:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_AIST_IRK.m3u8
+#EXTINF:0,TV XXI
+http://94.125.53.68:81/udp/239.191.254.51:13343
+#EXTINF:0,TV XXI (VRT.TV)
+http://dmitry-tv.my1.ru/his/02/CH_VRT_TV.m3u8
+#EXTINF:0,SHOT TV
+http://94.125.53.68:81/udp/239.191.254.249:15285
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NOVIY_VEK_TAMB.m3u8
+#EXTINF:0,Zee TV
+http://94.125.53.68:81/udp/239.191.254.43:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.45:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.63:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.64:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.112:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.56:13343
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.8:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.11:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.4.55:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.6.11:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.6.12:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.6.13:1234
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.125:13343
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.10:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.7:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.3.39:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MIRSERIALA.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.67:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.26:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OKINO.m3u8
+#EXTINF:0,CINEMA
+http://94.125.53.68:81/udp/239.191.254.126:13343
+#EXTINF:0,Ultra HD Cinema HD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSHD.m3u8
+#EXTINF:0,Ultra HD Cinema QHD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSQHD.m3u8
+#EXTINF:0,Ultra HD Cinema UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+#EXTINF:0,Paramount Comedy
+http://94.125.53.68:81/udp/239.191.254.79:13343
+#EXTINF:0,Amedia I
+http://94.125.53.68:81/udp/239.191.254.30:13343
+#EXTINF:0,Amedia Hit (SD)
+http://178.163.1.77:4022/udp/234.0.0.169:2000
+#EXTINF:0,http://194.158.218.123:1000/hls/index.m3u8
+#EXTINF:0,TV1000 rtmp://erostv.cdnvideo.ru/erostv/erostv.sdp
+#EXTINF:0,TV1000
+http://94.125.53.68:81/udp/239.191.254.8:13343
+#EXTINF:0,TV1000 Action
+http://94.125.53.68:81/udp/239.191.254.25:13343
+#EXTINF:0,TV1000 http://94.125.53.68:81/udp/239.191.254.12:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOVETSKOEKINO.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOVMULT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MOVIECLASSIC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MOVIECLASSICHD_720.m3u8
+#EXTINF:0,Bollywood SD
+http://178.163.1.77:4022/udp/234.0.0.195:2000
+#EXTINF:0,Spike
+http://94.125.53.68:81/udp/239.191.255.3:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.96:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.97:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.99:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.100:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.101:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.102:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.103:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.98:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INTHD.m3u8
+#EXTINF:0,360° (http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_360_UL.m3u8
+#EXTINF:0,360°
+http://dmitry-tv.my1.ru/his/01/CH_360TV.m3u8
+#EXTINF:0,360° HD
+http://dmitry-tv.my1.ru/his/01/CH_360TVHD.m3u8
+#EXTINF:0,360° http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWS.m3u8
+#EXTINF:0,360° http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWSHD.m3u8
+#EXTINF:0,365 http://94.125.53.68:81/udp/239.191.254.198:13343
+#EXTINF:0,Viasat Explore
+http://94.125.53.68:81/udp/239.191.254.9:13343
+#EXTINF:0,Viasat History
+http://94.125.53.68:81/udp/239.191.254.10:13343
+#EXTINF:0,Viasat Sport
+http://94.125.53.68:81/udp/239.191.254.11:13343
+#EXTINF:0,LOVE NATURE 4K HD
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
+#EXTINF:0,LOVE NATURE 4K QHD
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSQHD.m3u8
+#EXTINF:0,LOVE NATURE 4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.195:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.150:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.159:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.164:13343
+#EXTINF:0,ID (http://94.125.53.68:81/udp/239.191.254.172:13343
+#EXTINF:0,Animal Planet
+http://94.125.53.68:81/udp/239.191.254.32:13343
+#EXTINF:0,Animal Planet HD
+http://94.125.53.68:81/udp/239.191.254.212:15283
+#EXTINF:0,Nat Geo Wild
+http://94.125.53.68:81/udp/239.191.254.87:13343
+#EXTINF:0,Nat Geo Wild HD
+http://94.125.53.68:81/udp/239.191.254.235:15283
+#EXTINF:0,National Geographic
+http://94.125.53.68:81/udp/239.191.254.33:13343
+#EXTINF:0,National Geographic HD
+http://94.125.53.68:81/udp/239.191.254.230:15283
+#EXTINF:0,Discovery Channel
+http://94.125.53.68:81/udp/239.191.254.34:13343
+#EXTINF:0,Discovery channel HD
+http://94.125.53.68:81/udp/239.191.255.146:15283
+#EXTINF:0,Discovery Science
+http://94.125.53.68:81/udp/239.191.254.36:13343
+#EXTINF:0,Discovery Science HD
+http://94.125.53.68:81/udp/239.191.255.148:15283
+#EXTINF:0,History
+http://94.125.53.68:81/udp/239.191.254.209:13343
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.4.101:1234
+#EXTINF:0,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:0,Ocean TV HD
+http://dmitry-tv.my1.ru/his/01/CH_OCEANTVHD.m3u8
+#EXTINF:0,Zoohttp://94.125.53.68:81/udp/239.191.254.65:13343
+#EXTINF:0,Zoo TV
+http://185.11.150.174:81/udp/239.195.4.85:1234
+#EXTINF:0,TLC
+http://94.125.53.68:81/udp/239.191.254.74:13343
+#EXTINF:0,TLC HD
+http://94.125.53.68:81/udp/239.191.255.149:15283
+#EXTINF:0,DW (Deutsche Welle)
+http://94.125.53.68:81/udp/239.191.254.89:13343
+#EXTINF:0,DW (English)
+http://dmitry-tv.my1.ru/his/01/CH_DW_ENGLISH.m3u8
+#EXTINF:0,DW (Deutsch)
+http://dmitry-tv.my1.ru/his/01/CH_DW_DEUTSCH.m3u8
+#EXTINF:0,DW (Deutsch+)
+http://dmitry-tv.my1.ru/his/01/CH_DW_DEUTSCH_PLUS.m3u8
+#EXTINF:0,DW (Espanol)
+http://dmitry-tv.my1.ru/his/01/CH_DW_ESPANOL.m3u8
+#EXTINF:0,DW
+http://dmitry-tv.my1.ru/his/01/CH_DW.m3u8
+#EXTINF:0,E
+http://94.125.53.68:81/udp/239.191.254.77:13343
+#EXTINF:0,RTG TV
+http://94.125.53.68:81/udp/239.191.254.91:13343
+#EXTINF:0,RTG SD
+http://dmitry-tv.my1.ru/his/yatv/CH_RTGSD.m3u8
+#EXTINF:0,RTG HD
+http://94.125.53.68:81/udp/239.191.254.239:15283
+#EXTINF:0,Travel Channel
+http://94.125.53.68:81/udp/239.191.254.134:13343
+#EXTINF:0,Travel+ Adventure
+http://94.125.53.68:81/udp/239.191.254.176:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.178:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.179:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.7:13343
+#EXTINF:0,Galaxy TV
+http://178.163.1.77:4022/udp/234.0.0.111:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.17:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.19:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.116:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.58:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.117:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.129:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.110:13343
+#EXTINF:0,MTV (http://94.125.53.68:81/udp/239.191.254.197:13343
+#EXTINF:0,MTV Hits
+http://94.125.53.68:81/udp/239.191.254.57:13343
+#EXTINF:0,MTV Rocks
+http://178.163.1.77:4022/udp/234.0.0.193:2000
+#EXTINF:0,MTV Dance
+http://178.163.1.77:4022/udp/234.0.0.233:2000
+#EXTINF:0,MTV Norway
+http://dmitry-tv.my1.ru/his/01/CH_MTVNO.m3u8
+#EXTINF:0,MTV Norway HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_MTVNOHD_720.m3u8
+#EXTINF:0,VH1 Classic
+http://94.125.53.68:81/udp/239.191.254.168:13343
+#EXTINF:0,0!2
+http://dmitry-tv.my1.ru/his/yatv/CH_02.m3u8
+#EXTINF:0,0!2 HD
+http://dmitry-tv.my1.ru/his/yatv/CH_02HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_SHANSONTV.m3u8
+#EXTINF:0,Europa Plus TV
+http://94.125.53.68:81/udp/239.191.254.129:13343
+#EXTINF:0,BRIDGE TV
+http://94.125.53.68:81/udp/239.191.254.90:13343
+#EXTINF:0,BRIDGE TV HITS
+http://94.125.53.68:81/udp/239.191.254.160:13343
+#EXTINF:0,BRIDGE TV http://94.125.53.68:81/udp/239.191.254.192:13343
+#EXTINF:0,RUSSIAN MUSIC BOX
+http://dmitry-tv.my1.ru/his/01/CH_MUSICBOXRU.m3u8
+#EXTINF:0,RUSSIAN MUSIC BOX HD
+http://dmitry-tv.my1.ru/his/yatv/CH_MUSICBOXRUHD.m3u8
+#EXTINF:0,MUSICBOX GOLD
+http://94.125.53.68:81/udp/239.191.254.94:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.95:13343
+#EXTINF:0,1 MUSIC CHANNEL
+http://dmitry-tv.my1.ru/his/01/CH_1MUSIC_CHANNEL_HU.m3u8
+#EXTINF:0,OneBY
+http://dmitry-tv.my1.ru/his/01/CH_1MUZ.m3u8
+#EXTINF:0,OneBY HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_1MUZHD_720.m3u8
+#EXTINF:0,OneBY HD
+http://rtmp.one.by:1300
+#EXTINF:0,OneBY RUS
+http://rtmp.one.by:2200
+#EXTINF:0,OneBY RUS HD
+http://rtmp.one.by:2300
+#EXTINF:0,1 http://dmitry-tv.my1.ru/his/01/CH_1BAL_MUZ.m3u8
+#EXTINF:0,UTV MUSIC
+http://dmitry-tv.my1.ru/his/02/CH_UTVMUSIC.m3u8
+#EXTINF:0,RETRO MUSIC TV
+http://dmitry-tv.my1.ru/his/01/CH_RETROMUSICTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_PORTALFOXMIXTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STRANAFMHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NOVOERADIOHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RADIOHIT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RADIOHITHD_720.m3u8
+#EXTINF:0,FreshTV
+http://dmitry-tv.my1.ru/his/yatv/CH_FRESHTV.m3u8
+#EXTINF:0,FreshTV HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_FRESHTVHD_720.m3u8
+#EXTINF:0,#http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_M1_SAMARA.m3u8
+#EXTINF:0,HiTV
+http://dmitry-tv.my1.ru/his/yatv/CH_HITV.m3u8
+#EXTINF:0,HiTV HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_HITVHD_720.m3u8
+#EXTINF:0,RTL 102.5 HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_RTL102_5HD_720.m3u8
+#EXTINF:0,Glas Drine Music Tv HD (720p)
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:0,TRACE AFRICA HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_AFRICAHD_720.m3u8
+#EXTINF:0,TRACE KITOKO HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_KITOKOHD_720.m3u8
+#EXTINF:0,TRACE TROPICAL HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_TROPICALHD_720.m3u8
+#EXTINF:0,TRACE TOCA HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_TOCAHD_720.m3u8
+#EXTINF:0,TRACE NAIJA HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_NAIJAHD_720.m3u8
+#EXTINF:0,M2O TV
+http://dmitry-tv.my1.ru/his/01/CH_M2OTV.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.146:13343
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.2.35:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV_7.m3u8
+#EXTINF:0,TVMChannel
+http://185.11.150.174:81/udp/239.195.3.34:1234
+#EXTINF:0,TMTV (http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TMTV_KZN.m3u8
+#EXTINF:0,AIVA
+http://dmitry-tv.my1.ru/his/yatv/CH_AIVA.m3u8
+#EXTINF:0,AIVA HD
+http://dmitry-tv.my1.ru/his/yatv/CH_AIVAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NASHETV.m3u8
+#EXTINF:0,http://95.46.208.8:26259/nashe
+#EXTINF:0,SHANT Serial HD
+http://94.125.53.68:81/udp/239.191.255.135:15283
+#EXTINF:0,SHANT Music HD
+http://94.125.53.68:81/udp/239.191.255.151:15283
+#EXTINF:0,SHANT NEWS HD
+http://94.125.53.68:81/udp/239.191.255.152:15283
+#EXTINF:0,SHANT PREMIUM HD
+http://94.125.53.68:81/udp/239.191.255.147:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_ZVEZDAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIRHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_INT.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.162:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_PREMIUMHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_CTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNV_PLANETA_NBK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNVT_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MAIDAN_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EFIR24.m3u8
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.1.205:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_INFO24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SHINFOHD_KRG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_OBLAST45_KRG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_IRISTONHD_VKAZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ITV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RBK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RBK_UFA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RBC_NSK.m3u8
+#EXTINF:0,PRO100
+http://94.125.53.68:81/udp/239.191.254.177:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_DOZHD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.14:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTSHD_NSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_9TV_KIROV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GUBERNIA_HVSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BRGUBERNIA_BRYANSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GUBERNIA_SAMARA.m3u8
+#EXTINF:0,TV http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVGUBERNIA_VRZH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GUBERNIA33HD_VLAD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CTVGOROD_VRZH.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.194:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INTHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_REP73_UL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTR.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.76:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_BELARUS24HD_720.m3u8
+#EXTINF:0,Shop 24
+http://94.125.53.68:81/udp/239.191.254.21:13343
+#EXTINF:0,Shop&Show
+http://185.11.150.174:81/udp/239.195.4.73:1234
+#EXTINF:0,Top Shop TV
+http://dmitry-tv.my1.ru/his/02/CH_TOPSHOP.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_BYUTITV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_BYUTITVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KALEYDOSKOPTV.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.82:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SOYUZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MUZSOYUZ.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.85:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_LDPRTVHD_720.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.104:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VKUSNOETV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VKUSNOETVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TVTUR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TVTURHD_720.m3u8
+#EXTINF:0,RT
+http://dmitry-tv.my1.ru/his/yatv/CH_RT.m3u8
+#EXTINF:0,RT HD
+http://dmitry-tv.my1.ru/his/yatv/CH_RTHD.m3u8
+#EXTINF:0,RThttp://dmitry-tv.my1.ru/his/yatv/CH_RTD.m3u8
+#EXTINF:0,RThttp://94.125.53.68:81/udp/239.191.254.221:15283
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.31:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_KRIKTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MILLETHD_720.m3u8
+#EXTINF:0,KTO IS KTO
+http://94.125.53.68:81/udp/239.191.254.123:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.127:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_3ANGELAHD.m3u8
+#EXTINF:0,Joy Cook
+http://dmitry-tv.my1.ru/his/yatv/CH_JOYCOOK.m3u8
+#EXTINF:0,Joy Cook HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_JOYCOOKHD_720.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.128:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_VSA_UFA.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.130:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_B_AZIAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_DAYVINGTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_DAYVINGTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_RATNIK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_RATNIKHD_720.m3u8
+#EXTINF:0,CNL
+http://94.125.53.68:81/udp/239.191.254.131:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_EURONOVOSTI.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NADEZHDA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NADEZHDAHD_720.m3u8
+#EXTINF:0,7 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_7CHANNEL_KRSK.m3u8
+#EXTINF:0,8 http://dmitry-tv.my1.ru/his/01/CH_8CHANNEL.m3u8
+#EXTINF:0,8 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_8CHANNEL_KRSK.m3u8
+#EXTINF:0,8 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_8CHANNEL_NSK.m3u8
+#EXTINF:0,8 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_8KANAL_VLD.m3u8
+#EXTINF:0,8 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_8KANALHD_VLD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UTV_CHR.m3u8
+#EXTINF:0,CGTN
+http://dmitry-tv.my1.ru/his/01/CH_CGTNENG.m3u8
+#EXTINF:0,CGTN Espanol
+http://dmitry-tv.my1.ru/his/01/CH_CGTNES.m3u8
+#EXTINF:0,CGTN Francais
+http://dmitry-tv.my1.ru/his/01/CH_CGTNFR.m3u8
+#EXTINF:0,CGTN Arabic
+http://dmitry-tv.my1.ru/his/01/CH_CGTNAR.m3u8
+#EXTINF:0,CGTN http://dmitry-tv.my1.ru/his/01/CH_CGTNRUS.m3u8
+#EXTINF:0,CGTN Documentary
+http://dmitry-tv.my1.ru/his/01/CH_CGTNDOC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY_7.m3u8
+#EXTINF:0,4 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_4CH_EKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KOLYMA_8.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_STUDIO41_EKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTV24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTV24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTVHD_EKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTV_MIASS_CHEL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTVHD_CHEL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTV_VLD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTV_SLIN.m3u8
+#EXTINF:0,6http://94.125.53.68:81/udp/239.191.254.155:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.225:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SAMARAGIS_SAMARA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SKAT24_SAMARA.m3u8
+#EXTINF:0,UGRA Travel (http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UGRA_TRAVEL_SUR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NGOR_SUR.m3u8
+#EXTINF:0,KURGAN.RU (http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KURRU_KRG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RIM_KURAL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIG_TV_KRASN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIG_TVSD_YNF.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIG_TVHD_YNF_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_IMPULS_NBK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTN24_NSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_C1SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_C1HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_C1HD_SUR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SURGUT24_SUR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_YAMREG_YNF.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_OBJECTIVE59HD_PERM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZIMA_CHR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TAGILTV_TAG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TELEDOM_SPB.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SPB.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CENTRKRSN_KRSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_CENTRKRSN_HD_720_KRSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NSK_49CHANNEL_NSK.m3u8
+#EXTINF:0,!2 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ALTES_CHITA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZABTV_CHITA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ATVMEDIA_UUDE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVINHD_CHEL.m3u8
+#EXTINF:0,26 http://185.11.150.174:81/udp/239.195.5.233:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVOETV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SVOETV_STAVR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SVOETVHD_STAVR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ATV_STAVR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ARIGUS_UUDE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SELENGA_UUDE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RTS_ABAKAN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_AFONTOVO_KRSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KATUN24_BUL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TOLK_BUL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VARIANT_V_VLAD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DZERZHINSK_NN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVERSKOYPROSPEKT_TVER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KASKAD_KLGR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NATIONALTV_CHR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_URGAN_KOMI.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GTREG_YARL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SPAS-1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SPAS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SPAS_2.m3u8
+#EXTINF:0,InterAz
+http://94.125.53.68:81/udp/239.191.254.165:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VITRINAVOSTOK_NSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_S3TTV_HVSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_PRODVIZHENIE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_PRODVIZHENIEHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_PRODVIZHENIE_OMSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EKBTV_EKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STVBAYKAL_UUDE.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.169:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_AFONTOVO.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TNOMER.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.181:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SINERGIYAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1KRYM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_24KRYM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_24KRYMHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NVC_SAHA_YKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NVC_SAHAHD_YKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_YKT24_YKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_YKT24HD_YKT.m3u8
+#EXTINF:0,Angel TV
+http://94.125.53.68:81/udp/239.191.254.190:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TBN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DUMATVHD_720.m3u8
+#EXTINF:0,France 24 (English)
+http://dmitry-tv.my1.ru/his/01/CH_FRANCE24_EN.m3u8
+#EXTINF:0,France 24 (Francais)
+http://dmitry-tv.my1.ru/his/01/CH_FRANCE24_FR.m3u8
+#EXTINF:0,France 24 (Arabic)
+http://dmitry-tv.my1.ru/his/01/CH_FRANCE24_AR.m3u8
+#EXTINF:0,France 24
+http://dmitry-tv.my1.ru/his/yatv/CH_FRANCE24.m3u8
+#EXTINF:0,France 24 HD
+http://dmitry-tv.my1.ru/his/yatv/CH_FRANCE24HD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.199:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.200:13343
+#EXTINF:0,BEZ HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_BEZHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TIVICI_IRK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TIVISIHD_720.m3u8
+#EXTINF:0,7tv
+http://94.125.53.68:81/udp/239.191.254.208:13343
+#EXTINF:0,FIGHT BOX
+http://94.125.53.68:81/udp/239.191.254.210:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.31:13343
+#EXTINF:0,IZ.RU
+http://dmitry-tv.my1.ru/his/01/CH_IZRU.m3u8
+#EXTINF:0,IZ.RU HD
+http://dmitry-tv.my1.ru/his/01/CH_IZRUHD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.8:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.150:15283
+#EXTINF:0,DocuBox
+http://94.125.53.68:81/udp/239.191.255.9:13343
+#EXTINF:0,FilmBox ArtHouse
+http://94.125.53.68:81/udp/239.191.255.15:13343
+#EXTINF:0,Fast&amp;FunBox
+http://94.125.53.68:81/udp/239.191.255.16:13343
+#EXTINF:0,FilmBox
+http://94.125.53.68:81/udp/239.191.255.17:13343
+#EXTINF:0,Arirang KOREA
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ARIRANGKOREA_HVSK.m3u8
+#EXTINF:0,NHK WORLD Japan
+http://94.125.53.68:81/udp/239.191.255.34:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_GROZNY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_BST.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BST_UFA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NASHASIBIR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NASHASIBIRHD.m3u8
+#EXTINF:0,Mezzo Live HD
+http://94.125.53.68:81/udp/239.191.255.130:15283
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.106:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.138:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NASHDOM_PENZA.m3u8
+#EXTINF:0,Eureka HD
+http://94.125.53.68:81/udp/239.191.254.215:15283
+#EXTINF:0,HDL
+http://94.125.53.68:81/udp/239.191.254.218:15283
+#EXTINF:0,FINE LIVING HD
+http://94.125.53.68:81/udp/239.191.254.222:15283
+#EXTINF:0,Food Network HD
+http://94.125.53.68:81/udp/239.191.254.224:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.236:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV86.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TAMYR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KURAY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_EFIR.m3u8
+#EXTINF:0,NHK HD
+http://94.125.53.68:81/udp/239.191.255.142:15283
+#EXTINF:0,KBS WORLD
+http://94.125.53.68:81/udp/239.191.255.143:15283
+#EXTINF:0,Asia Amazing (http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ASIA_VLD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVK6HD_KRSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KUZBASS1_KEM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_HAMDAN_ELISTA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DAGESTAN_MAHACHK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DAGESTANHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EXPRESS_PENZA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_EXPRES_PENZAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KTK.m3u8
+#EXTINF:0,UNIVER (http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UNIVER_KZN.m3u8
+#EXTINF:0,UNIVER HD (http://dmitry-tv.my1.ru/his/02/CH_UNIVERHD_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1GORODSKOY_OMSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1GORODSKOY_KIROV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1GORODSKOY_NN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GORODSKOY_BRYANSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_1TULSKIY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TULSKYHD_TUL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1YAROSLAVSKY_YARL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGA_NN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MYUDMURTIA_IZHSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_REGION29_ARKH.m3u8
+#EXTINF:0,LUXURY
+http://dmitry-tv.my1.ru/his/01/CH_LUXURY.m3u8
+#EXTINF:0,LUXURY HD
+http://dmitry-tv.my1.ru/his/01/CH_LUXURYHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ASTRAKHANRULIVEHD_ASTRH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ASTRAKHAN24_ASTRH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ASTRAKHAN24HD_ASTRH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSEVER_VLGD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SEVER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NEWMIR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TUGANTEL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RZHDTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ECHOTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ECHOTV24_EKT.m3u8
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.117:2000
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SARATOV24_SARATOV.m3u8
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.185:2000
+#EXTINF:0,ENGLISH CLUB TV
+http://178.163.1.77:4022/udp/234.0.0.174:2000
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_M_IDEY_HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ONTV.m3u8
+#EXTINF:0,1-http://dmitry-tv.my1.ru/his/01/CH_1RNKHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_PESIKO.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTSHD_SEVASTOPL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BELGOROD24_BELG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NVREMYA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NVREMYAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TUMVREMYA_TUM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TOMSKVREMYA_TOMSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TOMSKVREMYAHD_TOMSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_LVREMYA_LIPETSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LVREMYAHD_LIPETSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOTTVHD_LIPETSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NIKATV_KALUGA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_PROBIZNES.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BARS_IVAN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTMSD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTMHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ILLITVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OSETIYA_IRYSTON.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OSETIYA_IRYSTONHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ARKHIZ24_CHERKS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ARKHIZ24HD_720_CHERKS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ELARNA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_ENISEY_KRSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_REFEY_PERM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KRITTV_PERM.m3u8
+#EXTINF:0,UTV (http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UTV_PERM.m3u8
+#EXTINF:0,UTV HD (720p) (http://dmitry-tv.my1.ru/his/02/CH_UTVHD_720_PERM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VETTA24_PERM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_INGUSHETIYA_STAVR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_IOT_IVAN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MAYKOP_KRDAR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BASHKORTOSTAN24_UFA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_BASHKORTOSTAN24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_IYUNHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MATURTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MATURTVHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR_BLGRYA_BELG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_BELOGORIAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MIRUVLECHENIY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_ORTPLANET_ORB.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOSOBRTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOSOBRTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NN24HD_720_NN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NNTV_NN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NNTVHD_720_NN.m3u8
+#EXTINF:0,RMTV SD
+http://dmitry-tv.my1.ru/his/01/CH_RMTVSD.m3u8
+#EXTINF:0,RMTV 24 SD
+http://dmitry-tv.my1.ru/his/01/CH_RMTV24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_O_T_V.m3u8
+#EXTINF:0,OHT [BY]
+http://dmitry-tv.my1.ru/his/01/CH_OHT_BY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DON24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DON24HD_RD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ROSTOVPAPA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_ROSTOVPAPAHD_RD.m3u8
+#EXTINF:0,SGDF 24 HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_SGDF24HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV7HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVR24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TIVICOMHD_UUDE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TKP_RYAZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_URFO24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_KHABAR24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KHABAR24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_HUZURTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UGRA_TUM.m3u8
+#EXTINF:0,21+ (http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV21PLUS_MURM.m3u8
+#EXTINF:0,31 http://dmitry-tv.my1.ru/his/01/CH_31CHANNEL.m3u8
+#EXTINF:0,31 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_31TV_CHEL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SAMPOTV_PZAV.m3u8
+#EXTINF:0,ALJAZEERA ENGLISH
+http://dmitry-tv.my1.ru/his/01/CH_ALJAZEERAENGLISH.m3u8
+#EXTINF:0,ALJAZEERA ENGLISH HD
+http://dmitry-tv.my1.ru/his/01/CH_ALJAZEERAENGLISHHD.m3u8
+#EXTINF:0,Almaty TV HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_ALMATYTVHD_720.m3u8
+#EXTINF:0,Atameken HD (720p) (http://dmitry-tv.my1.ru/his/01/CH_ATAMEKENHD_720.m3u8
+#EXTINF:0,AKAMAI
+http://dmitry-tv.my1.ru/his/01/CH_AKAMAI.m3u8
+#EXTINF:0,AKAMAI HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_AKAMAIHD_720.m3u8
+#EXTINF:0,Brodilo TV HD (720p)
+http://brodilo.tv/channel.php
+#EXTINF:0,CBSN
+http://dmitry-tv.my1.ru/his/01/CH_CBSN.m3u8
+#EXTINF:0,CBSN HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_CBSNHD_720.m3u8
+#EXTINF:0,Djing
+http://dmitry-tv.my1.ru/his/01/CH_DJING.m3u8
+#EXTINF:0,Djing Ibiza
+http://dmitry-tv.my1.ru/his/01/CH_DJING_IBIZA.m3u8
+#EXTINF:0,Djing Classics
+http://dmitry-tv.my1.ru/his/01/CH_DJING_CLASSICS.m3u8
+#EXTINF:0,Djing Animation
+http://dmitry-tv.my1.ru/his/01/CH_DJING_ANIMATION.m3u8
+#EXTINF:0,Djing Underground
+http://dmitry-tv.my1.ru/his/01/CH_DJING_UNDERGROUND.m3u8
+#EXTINF:0,Djing Summer Vibes
+http://dmitry-tv.my1.ru/his/01/CH_DJING_SUMMERVIBES.m3u8
+#EXTINF:0,Djing Summer Vibes HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_SUMMERVIBESHD_720.m3u8
+#EXTINF:0,Djing Electro Rock
+http://dmitry-tv.my1.ru/his/01/CH_DJING_ELECTROROCK.m3u8
+#EXTINF:0,Djing Electro Rock HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_ELECTROROCKHD_720.m3u8
+#EXTINF:0,Djing French touch
+http://dmitry-tv.my1.ru/his/01/CH_DJING_FRENCHTOUCH.m3u8
+#EXTINF:0,Djing French touch HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_FRENCHTOUCHHD_720.m3u8
+#EXTINF:0,Djing Karaoke
+http://dmitry-tv.my1.ru/his/01/CH_DJING_KARAOKE.m3u8
+#EXTINF:0,Djing Karaoke HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_KARAOKEHD_720.m3u8
+#EXTINF:0,Djing Hedonist
+http://dmitry-tv.my1.ru/his/01/CH_DJING_HEDONIST.m3u8
+#EXTINF:0,Djing Hedonist HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_HEDONISTHD_720.m3u8
+#EXTINF:0,Djing Avicii
+http://dmitry-tv.my1.ru/his/01/CH_DJING_AVICII.m3u8
+#EXTINF:0,Djing Avicii HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_AVICIIHD_720.m3u8
+#EXTINF:0,HD Media
+http://dmitry-tv.my1.ru/his/yatv/CH_HDMEDIA.m3u8
+#EXTINF:0,HD Media HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_HDMEDIAHD_720.m3u8
+#EXTINF:0,KAZAKH TV [RU] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVRUHD.m3u8
+#EXTINF:0,KAZAKH TV [KZ] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVKZHD.m3u8
+#EXTINF:0,KAZAKH TV [EN] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVENHD.m3u8
+#EXTINF:0,KAZAKH TV [KG] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVKGHD.m3u8
+#EXTINF:0,KAZAKH TV [UZ] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVUZHD.m3u8
+#EXTINF:0,KRAL HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_KRALHD_720.m3u8
+#EXTINF:0,KRAL POP HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_KRALPOPHD_720.m3u8
+#EXTINF:0,KRATU [UA]
+http://dmitry-tv.my1.ru/his/01/CH_KRATU.m3u8
+#EXTINF:0,OCKO HITY
+http://dmitry-tv.my1.ru/his/01/CH_OCKOHITY.m3u8
+#EXTINF:0,OCKO EXPRES
+http://dmitry-tv.my1.ru/his/01/CH_OCKOEXPRES_PM.m3u8
+#EXTINF:0,OCKO STAR
+http://dmitry-tv.my1.ru/his/01/CH_OCKOSTAR.m3u8
+#EXTINF:0,Red Bull TV HD
+http://dmitry-tv.my1.ru/his/01/CH_REDBULLTVHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOCHI24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SOCHI24HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOCHI24HD.m3u8
+#EXTINF:0,Sochi live SD
+http://dmitry-tv.my1.ru/his/yatv/CH_SOCHILIVESD.m3u8
+#EXTINF:0,Sochi live HD
+http://dmitry-tv.my1.ru/his/yatv/CH_SOCHILIVEHD.m3u8
+#EXTINF:0,JOJ HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_JOJHD_720.m3u8
+#EXTINF:0,This IS Bulgaria HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_THISISBULGARIAHD_720.m3u8
+#EXTINF:0,Star HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_STARTVHD_720.m3u8
+#EXTINF:0,TRT 1
+http://dmitry-tv.my1.ru/his/02/CH_TRT1.m3u8
+#EXTINF:0,TRT 1 HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRT1HD_720.m3u8
+#EXTINF:0,TRT AVAZ
+http://dmitry-tv.my1.ru/his/02/CH_TRTAVAZ.m3u8
+#EXTINF:0,TRT AVAZ HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTAVAZHD_720.m3u8
+#EXTINF:0,TRT COCUK
+http://dmitry-tv.my1.ru/his/02/CH_TRTCOCUK.m3u8
+#EXTINF:0,TRT COCUK HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTCOCUKHD_720.m3u8
+#EXTINF:0,TRT HABER
+http://dmitry-tv.my1.ru/his/02/CH_TRTHABER.m3u8
+#EXTINF:0,TRT HABER HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTHABERHD_720.m3u8
+#EXTINF:0,TRT KURDI
+http://dmitry-tv.my1.ru/his/02/CH_TRTKURDI.m3u8
+#EXTINF:0,TRT KURDI HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTKURDIHD_720.m3u8
+#EXTINF:0,TRT MUZIK
+http://dmitry-tv.my1.ru/his/02/CH_TRTMUZIK.m3u8
+#EXTINF:0,TRT MUZIK HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTMUZIKHD_720.m3u8
+#EXTINF:0,TV5MONDE INFO HD
+http://dmitry-tv.my1.ru/his/02/CH_TV5MONDEINFOHD.m3u8
+#EXTINF:0,Fashion TV
+http://94.125.53.68:81/udp/239.191.254.69:13343
+#EXTINF:0,FASHION4K HD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_FASHION4K_HLSHD.m3u8
+#EXTINF:0,FASHION4K QHD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_FASHION4K_HLSQHD.m3u8
+#EXTINF:0,FASHION4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_FASHION4K_HLSUHD.m3u8
+#EXTINF:0,World Fashion Channel
+http://dmitry-tv.my1.ru/his/yatv/CH_WFCTV.m3u8
+#EXTINF:0,World Fashion Channel HD
+http://dmitry-tv.my1.ru/his/yatv/CH_WFCTVHD.m3u8
+#EXTINF:0,Fashion One HD
+http://178.163.1.77:4022/udp/234.0.0.212:2000
+#EXTINF:0,WDR HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_WDRHD_720.m3u8
+#EXTINF:0,YAS Sports HD
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZHARPTITCA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZHARPTITCAHD.m3u8
+#EXTINF:0,112 http://dmitry-tv.my1.ru/his/ua/CH_112UKRAINA.m3u8
+#EXTINF:0,112 http://dmitry-tv.my1.ru/his/ua/CH_112UKRAINAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8
+#EXTINF:0,ATR [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_ATR.m3u8
+#EXTINF:0,UA TV HD (720p) [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_UATVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_NADIAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_3CIFROVOY.m3u8
+#EXTINF:0,MUSIC BOX [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_MUSICBOXUA.m3u8
+#EXTINF:0,MUSIC BOX [UA] (4x3)
+http://dmitry-tv.my1.ru/his/ua/CH_MUSICBOXUA_43.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_OTVHD_720.m3u8
+#EXTINF:0,M2 HD (720p) [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_M2HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_1TVKRHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_1TVODESSAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_1TVDELOVOYHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_NTK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_INTER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_K1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_A1_ODESSA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_A1_ODESSAHD_720.m3u8
+#EXTINF:0,VOTV http://dmitry-tv.my1.ru/his/ua/CH_VOTV_VOZROZHDENIEHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_DUMSKAYATV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_DUMSKAYATVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_ZDOROVE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_REPORTER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_SVAROZHICHITVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_KRUG.m3u8
+#EXTINF:0,7 http://dmitry-tv.my1.ru/his/ua/CH_7CHANNELHD_720.m3u8
+#EXTINF:0,G TV (http://dmitry-tv.my1.ru/his/ua/CH_GTV.m3u8
+#EXTINF:0,G TV (http://dmitry-tv.my1.ru/his/ua/CH_GTVHD_720.m3u8
+#EXTINF:0,TV5 (http://dmitry-tv.my1.ru/his/ua/CH_TV5.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_U_VOLNAHD_720.m3u8
+#EXTINF:0,ID Fashion [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_IDFASHION.m3u8
+#EXTINF:0,ID Fashion HD [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_IDFASHIONHD.m3u8
+#EXTINF:0,CCTV [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV.m3u8
+#EXTINF:0,CCTV-1 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-1HD.m3u8
+#EXTINF:0,CCTV-2 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-2.m3u8
+#EXTINF:0,CCTV-2 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-2HD.m3u8
+#EXTINF:0,CCTV-3 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-3HD.m3u8
+#EXTINF:0,CCTV-4 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-4.m3u8
+#EXTINF:0,CCTV-5 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-5HD.m3u8
+#EXTINF:0,CCTV-5+ HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-5_PLYUSHD.m3u8
+#EXTINF:0,CCTV-6 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-6HD.m3u8
+#EXTINF:0,CCTV-7 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-7.m3u8
+#EXTINF:0,CCTV-7 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-7HD.m3u8
+#EXTINF:0,CCTV-8 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-8HD.m3u8
+#EXTINF:0,CCTV-9 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-9HD.m3u8
+#EXTINF:0,CCTV-10 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-10.m3u8
+#EXTINF:0,CCTV-10 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-10HD.m3u8
+#EXTINF:0,CCTV-11 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-11.m3u8
+#EXTINF:0,CCTV-12 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-12.m3u8
+#EXTINF:0,CCTV-12 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-12HD.m3u8
+#EXTINF:0,CCTV-13 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-13.m3u8
+#EXTINF:0,CCTV-14 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14.m3u8
+#EXTINF:0,CCTV-14 HD (720p) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14HD_720.m3u8
+#EXTINF:0,CCTV-14 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14HD.m3u8
+#EXTINF:0,CCTV-15 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-15.m3u8
+#EXTINF:0,NNTV [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NNTV.m3u8
+#EXTINF:0,CETV-1 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CETV-1.m3u8
+#EXTINF:0,CGTN [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CGTN.m3u8
+#EXTINF:0,CGTN Documentary [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CGTN_DOCUMENTARY.m3u8
+#EXTINF:0,NEWTV Super variety [cctv.com] HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERVARIETYHD.m3u8
+#EXTINF:0,NEWTV Super sports [cctv.com] HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERSPORTSHD.m3u8
+#EXTINF:0,NEWTV Super drama HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERDRAMAHD.m3u8
+#EXTINF:0,NEWTV Super movie HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERMOVIEHD.m3u8
+#EXTINF:0,X HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_XHD.m3u8
+#EXTINF:0,NEWTV HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTVHD.m3u8
+#EXTINF:0,Blackberry HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_BLACKBERRYHD.m3u8
+#EXTINF:0,BTV HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_BTVHD.m3u8
+#EXTINF:0,HRB [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_HRB.m3u8
+#EXTINF:0,HRB HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_HRBHD.m3u8
+#EXTINF:0,D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:0,Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.0.201:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1TVHD.m3u8
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.200:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.217:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1TV_6.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.241:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.2:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1TV_EVRAZIYA_KZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIA1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIA1HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIA1_6.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.142:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIAK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIAK_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIA24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIARTR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VOLGOGRAD1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VOLGOGRAD1HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_VOLGOGRAD24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VOLGOGRAD24HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTV_7.m3u8
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.4.59:1234
+#EXTINF:0,http://dmitry-tv.ddns.net:2/his/CH_NTVSERIAL
+#EXTINF:0,http://dmitry-tv.ddns.net:3/his/CH_NTVSTYLE
+#EXTINF:0,http://dmitry-tv.ddns.net:4/his/CH_NTVPRAVO
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_5TV_7.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.33:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_GOVORITMOSKVAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MATCHTV.m3u8
+#EXTINF:0,https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.201:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.140:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.202:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.203:13343
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.211:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.144:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.20:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.132:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.133:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.134:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MATCHPREMIER.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.132:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_START.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_STARTHD.m3u8
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.4.175:1234
+#EXTINF:0,Eurosport 1
+http://94.125.53.68:81/udp/239.191.254.46:13343
+#EXTINF:0,Eurosport 1 HD
+http://94.125.53.68:81/udp/239.191.254.234:15283
+#EXTINF:0,Eurosport 2
+http://94.125.53.68:81/udp/239.191.254.47:13343
+#EXTINF:0,Extreme Sports
+http://94.125.53.68:81/udp/239.191.254.39:13343
+#EXTINF:0,Russian Extreme
+http://94.125.53.68:81/udp/239.191.254.6:13343
+#EXTINF:0,ALL SPORTS HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_ALLSPORTSHD_720.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.44:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.233:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.139:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.204:13343
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.203:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.248:13343
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.30:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SMAYLIK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SMAYLIKHD_720.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.237:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.18:13343
+#EXTINF:0,Nickelodeon
+http://94.125.53.68:81/udp/239.191.254.62:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.75:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.81:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.84:13343
+#EXTINF:0,Ani
+http://94.125.53.68:81/udp/239.191.254.88:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.120:13343
+#EXTINF:0,TiJi
+http://94.125.53.68:81/udp/239.191.254.138:13343
+#EXTINF:0,JimJam
+http://178.163.1.77:4022/udp/234.0.0.152:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.196:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.5:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SHAYAN_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SHAYANHD_KZN.m3u8
+#EXTINF:0,Cartoon Network
+http://94.125.53.68:81/udp/239.191.255.7:13343
+#EXTINF:0,2x2
+http://dmitry-tv.my1.ru/his/01/CH_2X2.m3u8
+#EXTINF:0,2x2 HD (auto)
+https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565199976/1e35f601a1ecd232861199731ef58c2d/playlist.m3u8
+#EXTINF:0,2x2 (+7)
+http://94.125.53.68:81/udp/239.191.254.151:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.152:13343
+#EXTINF:0,BOOMERANG
+http://94.125.53.68:81/udp/239.191.254.37:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.136:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.137:15283
+#EXTINF:0,Disney Channel
+http://178.163.1.77:4022/udp/234.0.0.198:2000
+#EXTINF:0,Disney Channel (+7)
+http://94.125.53.68:81/udp/239.191.254.147:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.29:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SKAZKIZAYKI.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SZHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOSKVA24.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.205:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.180:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_UNKNOWN_PLANET.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_UNKNOWN_PLANETHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.128:15283
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_REDLINE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SPB.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.68:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STS_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STS_INT.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.31:13343
+#EXTINF:0,https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.141:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ITV.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.115:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.119:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.163:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.121:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.214:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.207:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ANEKDOT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KUBAN24_ORBITA.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.0.17:1234
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.9:2000
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TNT_7.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.140:13343
+#EXTINF:0,CKAT THT
+http://178.163.1.77:4022/udp/234.0.0.186:2000
+#EXTINF:0,https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.66:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV-6_KURSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TNTMUSIC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TNTMUSICHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RENTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RENTV_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RENTV_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STV_BLRUS.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_TV3_7.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.67:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.52:13343
+#EXTINF:0,FOX
+http://94.125.53.68:81/udp/239.191.254.107:13343
+#EXTINF:0,FOX HD
+http://94.125.53.68:81/udp/239.191.254.232:15283
+#EXTINF:0,FOX Life
+http://94.125.53.68:81/udp/239.191.254.108:13343
+#EXTINF:0,FOX Life HD
+http://94.125.53.68:81/udp/239.191.254.231:15283
+#EXTINF:0,SONY CHANNEL
+http://94.125.53.68:81/udp/239.191.254.48:13343
+#EXTINF:0,SONY CHANNEL HD
+http://94.125.53.68:81/udp/239.191.254.229:15283
+#EXTINF:0,SONY SCI-FI
+http://94.125.53.68:81/udp/239.191.254.55:13343
+#EXTINF:0,SONY TURBO
+http://94.125.53.68:81/udp/239.191.254.135:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.185:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_AIST_IRK.m3u8
+#EXTINF:0,TV XXI
+http://94.125.53.68:81/udp/239.191.254.51:13343
+#EXTINF:0,TV XXI (VRT.TV)
+http://dmitry-tv.my1.ru/his/02/CH_VRT_TV.m3u8
+#EXTINF:0,Zee TV
+http://94.125.53.68:81/udp/239.191.254.43:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.63:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.64:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.112:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.56:13343
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.8:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.11:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.4.55:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.6.11:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.6.12:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.6.13:1234
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.125:13343
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.10:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.7:1234
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.3.39:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MIRSERIALA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_LOVETV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_LOVETVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OKINO.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.26:13343
+#EXTINF:0,CINEMA
+http://94.125.53.68:81/udp/239.191.254.126:13343
+#EXTINF:0,Amedia I
+http://94.125.53.68:81/udp/239.191.254.30:13343
+#EXTINF:0,Amedia Hit (SD)
+http://178.163.1.77:4022/udp/234.0.0.169:2000
+#EXTINF:0,http://194.158.218.123:1000/hls/index.m3u8
+#EXTINF:0,TV1000 rtmp://erostv.cdnvideo.ru/erostv/erostv.sdp
+#EXTINF:0,TV1000
+http://94.125.53.68:81/udp/239.191.254.8:13343
+#EXTINF:0,TV1000 Action
+http://94.125.53.68:81/udp/239.191.254.25:13343
+#EXTINF:0,TV1000 http://94.125.53.68:81/udp/239.191.254.12:13343
+#EXTINF:0,Paramount Comedy
+http://94.125.53.68:81/udp/239.191.254.79:13343
+#EXTINF:0,Bollywood SD
+http://178.163.1.77:4022/udp/234.0.0.195:2000
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOVETSKOEKINO.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOVMULT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MOVIECLASSIC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MOVIECLASSICHD_720.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.96:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.97:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.98:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.99:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.100:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.101:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.102:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.103:13343
+#EXTINF:0,360°
+http://dmitry-tv.my1.ru/his/01/CH_360TV.m3u8
+#EXTINF:0,360° HD
+http://dmitry-tv.my1.ru/his/01/CH_360TVHD.m3u8
+#EXTINF:0,360° http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWS.m3u8
+#EXTINF:0,360° http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWSHD.m3u8
+#EXTINF:0,365 http://94.125.53.68:81/udp/239.191.254.198:13343
+#EXTINF:0,Viasat Explore
+http://94.125.53.68:81/udp/239.191.254.9:13343
+#EXTINF:0,Viasat History
+http://94.125.53.68:81/udp/239.191.254.10:13343
+#EXTINF:0,Viasat Sport
+http://94.125.53.68:81/udp/239.191.254.11:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.195:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.150:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.159:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.164:13343
+#EXTINF:0,ID (http://94.125.53.68:81/udp/239.191.254.172:13343
+#EXTINF:0,Travel Channel
+http://94.125.53.68:81/udp/239.191.254.134:13343
+#EXTINF:0,Animal Planet
+http://94.125.53.68:81/udp/239.191.254.32:13343
+#EXTINF:0,Animal Planet HD
+http://94.125.53.68:81/udp/239.191.254.212:15283
+#EXTINF:0,National Geographic
+http://94.125.53.68:81/udp/239.191.254.33:13343
+#EXTINF:0,National Geographic HD
+http://94.125.53.68:81/udp/239.191.254.230:15283
+#EXTINF:0,Nat Geo Wild
+http://94.125.53.68:81/udp/239.191.254.87:13343
+#EXTINF:0,Nat Geo Wild HD
+http://94.125.53.68:81/udp/239.191.254.235:15283
+#EXTINF:0,Discovery Channel
+http://94.125.53.68:81/udp/239.191.254.34:13343
+#EXTINF:0,Discovery channel HD
+http://94.125.53.68:81/udp/239.191.255.146:15283
+#EXTINF:0,Discovery Science
+http://94.125.53.68:81/udp/239.191.254.36:13343
+#EXTINF:0,Discovery Science HD
+http://94.125.53.68:81/udp/239.191.255.148:15283
+#EXTINF:0,History
+http://94.125.53.68:81/udp/239.191.254.209:13343
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.4.101:1234
+#EXTINF:0,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:0,Ocean TV HD
+http://dmitry-tv.my1.ru/his/01/CH_OCEANTVHD.m3u8
+#EXTINF:0,Zoohttp://94.125.53.68:81/udp/239.191.254.65:13343
+#EXTINF:0,Zoo TV
+http://185.11.150.174:81/udp/239.195.4.85:1234
+#EXTINF:0,TLC
+http://94.125.53.68:81/udp/239.191.254.74:13343
+#EXTINF:0,TLC HD
+http://94.125.53.68:81/udp/239.191.255.149:15283
+#EXTINF:0,DW (Deutsche Welle)
+http://94.125.53.68:81/udp/239.191.254.89:13343
+#EXTINF:0,DW (English)
+http://dmitry-tv.my1.ru/his/01/CH_DW_ENGLISH.m3u8
+#EXTINF:0,DW (Deutsch)
+http://dmitry-tv.my1.ru/his/01/CH_DW_DEUTSCH.m3u8
+#EXTINF:0,DW (Deutsch+)
+http://dmitry-tv.my1.ru/his/01/CH_DW_DEUTSCH_PLUS.m3u8
+#EXTINF:0,DW (Espanol)
+http://dmitry-tv.my1.ru/his/01/CH_DW_ESPANOL.m3u8
+#EXTINF:0,DW
+http://dmitry-tv.my1.ru/his/01/CH_DW.m3u8
+#EXTINF:0,RTG TV
+http://94.125.53.68:81/udp/239.191.254.91:13343
+#EXTINF:0,RTG SD
+http://dmitry-tv.my1.ru/his/yatv/CH_RTGSD.m3u8
+#EXTINF:0,RTG HD
+http://94.125.53.68:81/udp/239.191.254.239:15283
+#EXTINF:0,Travel+ Adventure
+http://94.125.53.68:81/udp/239.191.254.176:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.178:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.179:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.7:13343
+#EXTINF:0,Galaxy TV
+http://178.163.1.77:4022/udp/234.0.0.111:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.17:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.19:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.116:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.58:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.117:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.129:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.110:13343
+#EXTINF:0,MTV http://94.125.53.68:81/udp/239.191.254.197:13343
+#EXTINF:0,MTV Hits
+http://94.125.53.68:81/udp/239.191.254.57:13343
+#EXTINF:0,MTV Rocks
+http://178.163.1.77:4022/udp/234.0.0.193:2000
+#EXTINF:0,MTV Dance
+http://178.163.1.77:4022/udp/234.0.0.233:2000
+#EXTINF:0,MTV Norway
+http://dmitry-tv.my1.ru/his/01/CH_MTVNO.m3u8
+#EXTINF:0,MTV Norway HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_MTVNOHD_720.m3u8
+#EXTINF:0,VH1 Classic
+http://94.125.53.68:81/udp/239.191.254.168:13343
+#EXTINF:0,0!2
+http://dmitry-tv.my1.ru/his/yatv/CH_02.m3u8
+#EXTINF:0,0!2 HD
+http://dmitry-tv.my1.ru/his/yatv/CH_02HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_SHANSONTV.m3u8
+#EXTINF:0,Europa Plus TV
+http://94.125.53.68:81/udp/239.191.254.129:13343
+#EXTINF:0,BRIDGE TV
+http://94.125.53.68:81/udp/239.191.254.90:13343
+#EXTINF:0,BRIDGE TV HITS
+http://94.125.53.68:81/udp/239.191.254.160:13343
+#EXTINF:0,BRIDGE TV http://94.125.53.68:81/udp/239.191.254.192:13343
+#EXTINF:0,RUSSIAN MUSIC BOX
+http://dmitry-tv.my1.ru/his/01/CH_MUSICBOXRU.m3u8
+#EXTINF:0,RUSSIAN MUSIC BOX HD
+http://dmitry-tv.my1.ru/his/yatv/CH_MUSICBOXRUHD.m3u8
+#EXTINF:0,MUSICBOX GOLD
+http://94.125.53.68:81/udp/239.191.254.94:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.95:13343
+#EXTINF:0,MUSIC BOX [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_MUSICBOXUA.m3u8
+#EXTINF:0,1 MUSIC CHANNEL
+http://dmitry-tv.my1.ru/his/01/CH_1MUSIC_CHANNEL_HU.m3u8
+#EXTINF:0,OneBY
+http://dmitry-tv.my1.ru/his/01/CH_1MUZ.m3u8
+#EXTINF:0,OneBY HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_1MUZHD_720.m3u8
+#EXTINF:0,OneBY HD
+http://rtmp.one.by:1300
+#EXTINF:0,OneBY RUS
+http://rtmp.one.by:2200
+#EXTINF:0,OneBY RUS HD
+http://rtmp.one.by:2300
+#EXTINF:0,1 http://dmitry-tv.my1.ru/his/01/CH_1BAL_MUZ.m3u8
+#EXTINF:0,UTV MUSIC
+http://dmitry-tv.my1.ru/his/02/CH_UTVMUSIC.m3u8
+#EXTINF:0,RETRO MUSIC TV
+http://dmitry-tv.my1.ru/his/01/CH_RETROMUSICTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_PORTALFOXMIXTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STRANAFMHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NOVOERADIOHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RADIOHIT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RADIOHITHD_720.m3u8
+#EXTINF:0,FreshTV
+http://dmitry-tv.my1.ru/his/yatv/CH_FRESHTV.m3u8
+#EXTINF:0,FreshTV HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_FRESHTVHD_720.m3u8
+#EXTINF:0,HiTV
+http://dmitry-tv.my1.ru/his/yatv/CH_HITV.m3u8
+#EXTINF:0,HiTV HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_HITVHD_720.m3u8
+#EXTINF:0,RTL 102.5 HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_RTL102_5HD_720.m3u8
+#EXTINF:0,Glas Drine Music Tv HD (720p)
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:0,TRACE AFRICA HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_AFRICAHD_720.m3u8
+#EXTINF:0,TRACE KITOKO HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_KITOKOHD_720.m3u8
+#EXTINF:0,TRACE TROPICAL HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_TROPICALHD_720.m3u8
+#EXTINF:0,TRACE TOCA HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_TOCAHD_720.m3u8
+#EXTINF:0,TRACE NAIJA HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_NAIJAHD_720.m3u8
+#EXTINF:0,TRT 1
+http://dmitry-tv.my1.ru/his/02/CH_TRT1.m3u8
+#EXTINF:0,TRT 1 HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRT1HD_720.m3u8
+#EXTINF:0,TRT AVAZ
+http://dmitry-tv.my1.ru/his/02/CH_TRTAVAZ.m3u8
+#EXTINF:0,TRT AVAZ HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTAVAZHD_720.m3u8
+#EXTINF:0,TRT COCUK
+http://dmitry-tv.my1.ru/his/02/CH_TRTCOCUK.m3u8
+#EXTINF:0,TRT COCUK HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTCOCUKHD_720.m3u8
+#EXTINF:0,TRT HABER
+http://dmitry-tv.my1.ru/his/02/CH_TRTHABER.m3u8
+#EXTINF:0,TRT HABER HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTHABERHD_720.m3u8
+#EXTINF:0,TRT KURDI
+http://dmitry-tv.my1.ru/his/02/CH_TRTKURDI.m3u8
+#EXTINF:0,TRT KURDI HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTKURDIHD_720.m3u8
+#EXTINF:0,TRT MUZIK
+http://dmitry-tv.my1.ru/his/02/CH_TRTMUZIK.m3u8
+#EXTINF:0,TRT MUZIK HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTMUZIKHD_720.m3u8
+#EXTINF:0,KRAL HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_KRALHD_720.m3u8
+#EXTINF:0,KRAL POP HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_KRALPOPHD_720.m3u8
+#EXTINF:0,M2O TV
+http://dmitry-tv.my1.ru/his/01/CH_M2OTV.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.146:13343
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.2.35:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MUZTV_7.m3u8
+#EXTINF:0,TVMChannel
+http://185.11.150.174:81/udp/239.195.3.34:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NASHETV.m3u8
+#EXTINF:0,http://95.46.208.8:26259/nashe
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIG_TVHD_YNF_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_C1SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_C1HD_720.m3u8
+#EXTINF:0,AIVA
+http://dmitry-tv.my1.ru/his/yatv/CH_AIVA.m3u8
+#EXTINF:0,AIVA HD
+http://dmitry-tv.my1.ru/his/yatv/CH_AIVAHD.m3u8
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.191:2000
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DOMASHNIY_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_ZVEZDA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_ZVEZDAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_ZVEZDA_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVC_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NADEZHDA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NADEZHDAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV86.m3u8
+#EXTINF:0,UTV HD (720p) (http://dmitry-tv.my1.ru/his/02/CH_UTVHD_720_PERM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIRHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_PREMIUMHD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.162:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TNVPLANETA_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TNVT_KZN.m3u8
+#EXTINF:0,TMTV (http://dmitry-tv.my1.ru/his/02/CH_TMTV_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_MAIDAN_KZN.m3u8
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.1.205:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RBK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RBK_UFA.m3u8
+#EXTINF:0,PRO100
+http://94.125.53.68:81/udp/239.191.254.177:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_DOZHD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.14:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TAMYR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_EFIR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KURAY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_YAMREG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTSHD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.15:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_GUBERNIA_SAMARA.m3u8
+#EXTINF:0,TV http://dmitry-tv.my1.ru/his/02/CH_TVGUBERNIA_VRZH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DAGESTAN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DAGESTANHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_EXPRES_PENZAHD.m3u8
+#EXTINF:0,Shop 24
+http://94.125.53.68:81/udp/239.191.254.21:13343
+#EXTINF:0,Shop&Show
+http://185.11.150.174:81/udp/239.195.4.73:1234
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.194:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INTHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ONTV.m3u8
+#EXTINF:0,1-http://dmitry-tv.my1.ru/his/01/CH_1RNKHD_720.m3u8
+#EXTINF:0,8 http://94.125.53.68:81/udp/239.191.254.59:13343
+#EXTINF:0,Fashion TV
+http://94.125.53.68:81/udp/239.191.254.69:13343
+#EXTINF:0,World Fashion Channel
+http://dmitry-tv.my1.ru/his/yatv/CH_WFCTV.m3u8
+#EXTINF:0,World Fashion Channel HD
+http://dmitry-tv.my1.ru/his/yatv/CH_WFCTVHD.m3u8
+#EXTINF:0,Fashion One HD
+http://178.163.1.77:4022/udp/234.0.0.212:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.76:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_BELARUS24HD_720.m3u8
+#EXTINF:0,E
+http://94.125.53.68:81/udp/239.191.254.77:13343
+#EXTINF:0,Top Shop TV
+http://dmitry-tv.my1.ru/his/02/CH_TOPSHOP.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KALEYDOSKOPTV.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.82:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.85:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_LDPRTVHD_720.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.104:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VKUSNOETV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VKUSNOETVHD_720.m3u8
+#EXTINF:0,http://185.11.150.174:81/udp/239.195.5.31:1234
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_KRIKTVHD_720.m3u8
+#EXTINF:0,LUXURY
+http://dmitry-tv.my1.ru/his/01/CH_LUXURY.m3u8
+#EXTINF:0,LUXURY HD
+http://dmitry-tv.my1.ru/his/01/CH_LUXURYHD.m3u8
+#EXTINF:0,KTO IS KTO
+http://94.125.53.68:81/udp/239.191.254.123:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.127:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_3ANGELAHD.m3u8
+#EXTINF:0,Joy Cook
+http://dmitry-tv.my1.ru/his/yatv/CH_JOYCOOK.m3u8
+#EXTINF:0,Joy Cook HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_JOYCOOKHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_BYUTITV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_BYUTITVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_PESIKO.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.128:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TNOMER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_VSA_UFA.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.130:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_B_AZIAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_CTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_DAYVINGTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_DAYVINGTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_RATNIK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_RATNIKHD_720.m3u8
+#EXTINF:0,CNL
+http://94.125.53.68:81/udp/239.191.254.131:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_EURONOVOSTI.m3u8
+#EXTINF:0,8 http://dmitry-tv.my1.ru/his/01/CH_8CHANNEL.m3u8
+#EXTINF:0,8 http://dmitry-tv.my1.ru/his/yatv/CH_8CHANNEL_KRSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_U.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.148:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_UTV_CHR.m3u8
+#EXTINF:0,CGTN
+http://dmitry-tv.my1.ru/his/01/CH_CGTNENG.m3u8
+#EXTINF:0,CGTN Espanol
+http://dmitry-tv.my1.ru/his/01/CH_CGTNES.m3u8
+#EXTINF:0,CGTN Francais
+http://dmitry-tv.my1.ru/his/01/CH_CGTNFR.m3u8
+#EXTINF:0,CGTN Arabic
+http://dmitry-tv.my1.ru/his/01/CH_CGTNAR.m3u8
+#EXTINF:0,CGTN http://dmitry-tv.my1.ru/his/01/CH_CGTNRUS.m3u8
+#EXTINF:0,CGTN Documentary
+http://dmitry-tv.my1.ru/his/01/CH_CGTNDOC.m3u8
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.235:2000
+#EXTINF:0,https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.149:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.225:15283
+#EXTINF:0,6http://94.125.53.68:81/udp/239.191.254.155:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_OTR.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.157:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SPAS_2.m3u8
+#EXTINF:0,InterAz
+http://94.125.53.68:81/udp/239.191.254.165:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITAHD_720.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.167:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_PRODVIZHENIE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_PRODVIZHENIEHD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.169:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.175:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTV24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTV24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_OTV_PRIMORE.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.181:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SINERGIYAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1KRYM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_24KRYM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_24KRYMHD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.187:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NVC_SAHAHD_YKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_YKT24HD_YKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SOYUZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MUZSOYUZ.m3u8
+#EXTINF:0,Angel TV
+http://94.125.53.68:81/udp/239.191.254.190:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TBN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DUMATVHD_720.m3u8
+#EXTINF:0,France 24 (English)
+http://dmitry-tv.my1.ru/his/01/CH_FRANCE24_EN.m3u8
+#EXTINF:0,France 24 (Francais)
+http://dmitry-tv.my1.ru/his/01/CH_FRANCE24_FR.m3u8
+#EXTINF:0,France 24 (Arabic)
+http://dmitry-tv.my1.ru/his/01/CH_FRANCE24_AR.m3u8
+#EXTINF:0,France 24
+http://dmitry-tv.my1.ru/his/yatv/CH_FRANCE24.m3u8
+#EXTINF:0,France 24 HD
+http://dmitry-tv.my1.ru/his/yatv/CH_FRANCE24HD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.199:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.200:13343
+#EXTINF:0,BEZ HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_BEZHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TIVISIHD_720.m3u8
+#EXTINF:0,7tv
+http://94.125.53.68:81/udp/239.191.254.208:13343
+#EXTINF:0,FIGHT BOX
+http://94.125.53.68:81/udp/239.191.254.210:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.31:13343
+#EXTINF:0,IZ.RU
+http://dmitry-tv.my1.ru/his/01/CH_IZRU.m3u8
+#EXTINF:0,IZ.RU HD
+http://dmitry-tv.my1.ru/his/01/CH_IZRUHD.m3u8
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.8:13343
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.150:15283
+#EXTINF:0,DocuBox
+http://94.125.53.68:81/udp/239.191.255.9:13343
+#EXTINF:0,FilmBox ArtHouse
+http://94.125.53.68:81/udp/239.191.255.15:13343
+#EXTINF:0,Fast&amp;FunBox
+http://94.125.53.68:81/udp/239.191.255.16:13343
+#EXTINF:0,FilmBox
+http://94.125.53.68:81/udp/239.191.255.17:13343
+#EXTINF:0,Arirang KOREA
+http://94.125.53.68:81/udp/239.191.255.32:13343
+#EXTINF:0,NHK WORLD Japan
+http://94.125.53.68:81/udp/239.191.255.34:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_GROZNY.m3u8
+#EXTINF:0,ASIA Amazing
+http://94.125.53.68:81/udp/239.191.255.36:13343
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_BST.m3u8
+#EXTINF:0,SHOT TV
+http://94.125.53.68:81/udp/239.191.254.249:15285
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NASHASIBIR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NASHASIBIRHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INTHD.m3u8
+#EXTINF:0,INSIGHT UHD
+http://94.125.53.68:81/udp/239.191.255.141:15283
+#EXTINF:0,Mezzo Live HD
+http://94.125.53.68:81/udp/239.191.255.130:15283
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.106:2000
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.255.138:15283
+#EXTINF:0,Eureka HD
+http://94.125.53.68:81/udp/239.191.254.215:15283
+#EXTINF:0,HDL
+http://94.125.53.68:81/udp/239.191.254.218:15283
+#EXTINF:0,RT
+http://dmitry-tv.my1.ru/his/yatv/CH_RT.m3u8
+#EXTINF:0,RT HD
+http://dmitry-tv.my1.ru/his/yatv/CH_RTHD.m3u8
+#EXTINF:0,RThttp://dmitry-tv.my1.ru/his/yatv/CH_RTD.m3u8
+#EXTINF:0,FINE LIVING HD
+http://94.125.53.68:81/udp/239.191.254.222:15283
+#EXTINF:0,Food Network HD
+http://94.125.53.68:81/udp/239.191.254.224:15283
+#EXTINF:0,http://94.125.53.68:81/udp/239.191.254.236:15283
+#EXTINF:0,NHK HD
+http://94.125.53.68:81/udp/239.191.255.142:15283
+#EXTINF:0,KBS WORLD
+http://94.125.53.68:81/udp/239.191.255.143:15283
+#EXTINF:0,SHANT Serial HD
+http://94.125.53.68:81/udp/239.191.255.135:15283
+#EXTINF:0,SHANT Music HD
+http://94.125.53.68:81/udp/239.191.255.151:15283
+#EXTINF:0,SHANT NEWS HD
+http://94.125.53.68:81/udp/239.191.255.152:15283
+#EXTINF:0,SHANT PREMIUM HD
+http://94.125.53.68:81/udp/239.191.255.147:15283
+#EXTINF:0,RMTV SD
+http://dmitry-tv.my1.ru/his/01/CH_RMTVSD.m3u8
+#EXTINF:0,RMTV 24 SD
+http://dmitry-tv.my1.ru/his/01/CH_RMTV24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KTK.m3u8
+#EXTINF:0,UNIVER (http://dmitry-tv.my1.ru/his/02/CH_UNIVER_KZN.m3u8
+#EXTINF:0,UNIVER HD (http://dmitry-tv.my1.ru/his/02/CH_UNIVERHD_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RZHDTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_1TULSKIY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_1TULSKIYHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MYUDM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ASTRAKHANRULIVEHD_ASTRH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ASTRAKHAN24_ASTRH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ASTRAKHAN24HD_ASTRH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUS_SEVER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SEVER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NEWMIR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TUGANTEL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ECHOTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ECHOTV24_EKT.m3u8
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.117:2000
+#EXTINF:0,http://178.163.1.77:4022/udp/234.0.0.185:2000
+#EXTINF:0,ENGLISH CLUB TV
+http://178.163.1.77:4022/udp/234.0.0.174:2000
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_M_IDEY_HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTSHD_SEVASTOPL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_BELGOROD24_BELG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TVTUR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TVTURHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTMSD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTMHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_PROBIZNES.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NVREMYA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NVREMYAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVREMYA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TOMSKVREMYA_TOMSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TOMSKVREMYAHD_TOMSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_LVREMYA_LIPETSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NIKATV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MILLETHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ILLITVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OSETIYA_IRYSTON.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OSETIYA_IRYSTONHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ARKHIZ24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ARKHIZ24HD_720_CHERKS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_VETTA24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ELARNA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_BASHKORTOSTAN24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_BASHKORTOSTAN24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_IYUNHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MATURTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MATURTVHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MIRBELOGORYA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_BELOGORIAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MIRUVLECHENIY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ORT_OREN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOSOBRTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOSOBRTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_KATUN24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NN24HD_720_NN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NNTVHD_720_NN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_O_T_V.m3u8
+#EXTINF:0,OHT [BY]
+http://dmitry-tv.my1.ru/his/01/CH_OHT_BY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DON24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DON24HD.m3u8
+#EXTINF:0,SGDF 24 HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_SGDF24HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TATARSTAN24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV7HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SVOETV_STAVR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SVOETVHD_STAVR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVOETV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVR24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TIVICOM_UUDEHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_CENTRKRSN_HD_720_KRSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TKR_RYAZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_URFO24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_AFONTOVO.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_KHABAR24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KHABAR24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_INFO24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_HUZURTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_UGRA.m3u8
+#EXTINF:0,21+ (http://tv21.inmurmansk.ru/full_stream.flv
+#EXTINF:0,31 http://dmitry-tv.my1.ru/his/01/CH_31CHANNEL.m3u8
+#EXTINF:0,ALJAZEERA ENGLISH
+http://dmitry-tv.my1.ru/his/01/CH_ALJAZEERAENGLISH.m3u8
+#EXTINF:0,ALJAZEERA ENGLISH HD
+http://dmitry-tv.my1.ru/his/01/CH_ALJAZEERAENGLISHHD.m3u8
+#EXTINF:0,Almaty TV HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_ALMATYTVHD_720.m3u8
+#EXTINF:0,Atameken HD (720p) (http://dmitry-tv.my1.ru/his/01/CH_ATAMEKENHD_720.m3u8
+#EXTINF:0,AKAMAI
+http://dmitry-tv.my1.ru/his/01/CH_AKAMAI.m3u8
+#EXTINF:0,AKAMAI HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_AKAMAIHD_720.m3u8
+#EXTINF:0,Brodilo TV HD (720p)
+http://brodilo.tv/channel.php
+#EXTINF:0,JOJ HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_JOJHD_720.m3u8
+#EXTINF:0,CBSN
+http://dmitry-tv.my1.ru/his/01/CH_CBSN.m3u8
+#EXTINF:0,CBSN HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_CBSNHD_720.m3u8
+#EXTINF:0,Djing
+http://dmitry-tv.my1.ru/his/01/CH_DJING.m3u8
+#EXTINF:0,Djing Ibiza
+http://dmitry-tv.my1.ru/his/01/CH_DJING_IBIZA.m3u8
+#EXTINF:0,Djing Classics
+http://dmitry-tv.my1.ru/his/01/CH_DJING_CLASSICS.m3u8
+#EXTINF:0,Djing Animation
+http://dmitry-tv.my1.ru/his/01/CH_DJING_ANIMATION.m3u8
+#EXTINF:0,Djing Underground
+http://dmitry-tv.my1.ru/his/01/CH_DJING_UNDERGROUND.m3u8
+#EXTINF:0,Djing Summer Vibes
+http://dmitry-tv.my1.ru/his/01/CH_DJING_SUMMERVIBES.m3u8
+#EXTINF:0,Djing Summer Vibes HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_SUMMERVIBESHD_720.m3u8
+#EXTINF:0,Djing Electro Rock
+http://dmitry-tv.my1.ru/his/01/CH_DJING_ELECTROROCK.m3u8
+#EXTINF:0,Djing Electro Rock HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_ELECTROROCKHD_720.m3u8
+#EXTINF:0,Djing French touch
+http://dmitry-tv.my1.ru/his/01/CH_DJING_FRENCHTOUCH.m3u8
+#EXTINF:0,Djing French touch HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_FRENCHTOUCHHD_720.m3u8
+#EXTINF:0,Djing Karaoke
+http://dmitry-tv.my1.ru/his/01/CH_DJING_KARAOKE.m3u8
+#EXTINF:0,Djing Karaoke HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_KARAOKEHD_720.m3u8
+#EXTINF:0,Djing Hedonist
+http://dmitry-tv.my1.ru/his/01/CH_DJING_HEDONIST.m3u8
+#EXTINF:0,Djing Hedonist HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_HEDONISTHD_720.m3u8
+#EXTINF:0,Djing Avicii
+http://dmitry-tv.my1.ru/his/01/CH_DJING_AVICII.m3u8
+#EXTINF:0,Djing Avicii HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_AVICIIHD_720.m3u8
+#EXTINF:0,HD Media
+http://dmitry-tv.my1.ru/his/yatv/CH_HDMEDIA.m3u8
+#EXTINF:0,HD Media HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_HDMEDIAHD_720.m3u8
+#EXTINF:0,KAZAKH TV [RU] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVRUHD.m3u8
+#EXTINF:0,KAZAKH TV [KZ] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVKZHD.m3u8
+#EXTINF:0,KAZAKH TV [EN] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVENHD.m3u8
+#EXTINF:0,KAZAKH TV [KG] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVKGHD.m3u8
+#EXTINF:0,KAZAKH TV [UZ] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVUZHD.m3u8
+#EXTINF:0,KRATU [UA]
+http://dmitry-tv.my1.ru/his/01/CH_KRATU.m3u8
+#EXTINF:0,OCKO HITY
+http://dmitry-tv.my1.ru/his/01/CH_OCKOHITY.m3u8
+#EXTINF:0,OCKO EXPRES
+http://dmitry-tv.my1.ru/his/01/CH_OCKOEXPRES_PM.m3u8
+#EXTINF:0,OCKO STAR
+http://dmitry-tv.my1.ru/his/01/CH_OCKOSTAR.m3u8
+#EXTINF:0,Red Bull TV HD
+http://dmitry-tv.my1.ru/his/01/CH_REDBULLTVHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOCHI24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SOCHI24HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOCHI24HD.m3u8
+#EXTINF:0,Sochi live SD
+http://dmitry-tv.my1.ru/his/yatv/CH_SOCHILIVESD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ROSTOVPAPA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ROSTOVPAPAHD.m3u8
+#EXTINF:0,26 http://185.11.150.174:81/udp/239.195.5.233:1234
+#EXTINF:0,Star HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_STARTVHD_720.m3u8
+#EXTINF:0,This IS Bulgaria HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_THISISBULGARIAHD_720.m3u8
+#EXTINF:0,TV5MONDE INFO HD
+http://dmitry-tv.my1.ru/his/02/CH_TV5MONDEINFOHD.m3u8
+#EXTINF:0,WDR HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_WDRHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZHARPTITCA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZHARPTITCAHD.m3u8
+#EXTINF:0,112 http://dmitry-tv.my1.ru/his/ua/CH_112UKRAINA.m3u8
+#EXTINF:0,112 http://dmitry-tv.my1.ru/his/ua/CH_112UKRAINAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8
+#EXTINF:0,ATR [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_ATR.m3u8
+#EXTINF:0,UA TV HD (720p) [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_UATVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_NADIAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_3CIFROVOY.m3u8
+#EXTINF:0,MUSIC BOX [UA] (4x3)
+http://dmitry-tv.my1.ru/his/ua/CH_MUSICBOXUA_43.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_OTVHD_720.m3u8
+#EXTINF:0,M2 HD (720p) [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_M2HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_1TVKRHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_1TVODESSAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_1TVDELOVOYHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_NTK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_INTER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_K1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_A1_ODESSA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_A1_ODESSAHD_720.m3u8
+#EXTINF:0,VOTV http://dmitry-tv.my1.ru/his/ua/CH_VOTV_VOZROZHDENIEHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_DUMSKAYATV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_DUMSKAYATVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_ZDOROVE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_REPORTER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_SVAROZHICHITVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_KRUG.m3u8
+#EXTINF:0,7 http://dmitry-tv.my1.ru/his/ua/CH_7CHANNELHD_720.m3u8
+#EXTINF:0,G TV (http://dmitry-tv.my1.ru/his/ua/CH_GTV.m3u8
+#EXTINF:0,G TV (http://dmitry-tv.my1.ru/his/ua/CH_GTVHD_720.m3u8
+#EXTINF:0,TV5 (http://dmitry-tv.my1.ru/his/ua/CH_TV5.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_U_VOLNAHD_720.m3u8
+#EXTINF:0,ID Fashion [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_IDFASHION.m3u8
+#EXTINF:0,ID Fashion HD [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_IDFASHIONHD.m3u8
+#EXTINF:0,CCTV [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV.m3u8
+#EXTINF:0,CCTV-1 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-1HD.m3u8
+#EXTINF:0,CCTV-2 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-2.m3u8
+#EXTINF:0,CCTV-2 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-2HD.m3u8
+#EXTINF:0,CCTV-3 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-3HD.m3u8
+#EXTINF:0,CCTV-4 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-4.m3u8
+#EXTINF:0,CCTV-5 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-5HD.m3u8
+#EXTINF:0,CCTV-5+ HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-5_PLYUSHD.m3u8
+#EXTINF:0,CCTV-6 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-6HD.m3u8
+#EXTINF:0,CCTV-7 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-7.m3u8
+#EXTINF:0,CCTV-7 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-7HD.m3u8
+#EXTINF:0,CCTV-8 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-8HD.m3u8
+#EXTINF:0,CCTV-9 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-9HD.m3u8
+#EXTINF:0,CCTV-10 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-10.m3u8
+#EXTINF:0,CCTV-10 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-10HD.m3u8
+#EXTINF:0,CCTV-11 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-11.m3u8
+#EXTINF:0,CCTV-12 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-12.m3u8
+#EXTINF:0,CCTV-12 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-12HD.m3u8
+#EXTINF:0,CCTV-13 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-13.m3u8
+#EXTINF:0,CCTV-14 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14.m3u8
+#EXTINF:0,CCTV-14 HD (720p) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14HD_720.m3u8
+#EXTINF:0,CCTV-14 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14HD.m3u8
+#EXTINF:0,CCTV-15 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-15.m3u8
+#EXTINF:0,NNTV [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NNTV.m3u8
+#EXTINF:0,CETV-1 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CETV-1.m3u8
+#EXTINF:0,CGTN [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CGTN.m3u8
+#EXTINF:0,CGTN Documentary [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CGTN_DOCUMENTARY.m3u8
+#EXTINF:0,NEWTV Super variety [cctv.com] HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERVARIETYHD.m3u8
+#EXTINF:0,NEWTV Super sports [cctv.com] HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERSPORTSHD.m3u8
+#EXTINF:0,NEWTV Super drama HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERDRAMAHD.m3u8
+#EXTINF:0,NEWTV Super movie HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERMOVIEHD.m3u8
+#EXTINF:0,X HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_XHD.m3u8
+#EXTINF:0,NEWTV HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTVHD.m3u8
+#EXTINF:0,Blackberry HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_BLACKBERRYHD.m3u8
+#EXTINF:0,BTV HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_BTVHD.m3u8
+#EXTINF:0,HRB [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_HRB.m3u8
+#EXTINF:0,HRB HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_HRBHD.m3u8
+#EXTINF:0,D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:0,Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1TVHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1TV_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1TV_EVRAZIYA_KZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIA1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIA1HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIA1_6.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MATCHTV.m3u8
+#EXTINF:0,https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MATCHPREMIER.m3u8
+#EXTINF:0,ALL SPORTS HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_ALLSPORTSHD_720.m3u8
+#EXTINF:0,RMTV SD
+http://dmitry-tv.my1.ru/his/01/CH_RMTVSD.m3u8
+#EXTINF:0,RMTV 24 SD
+http://dmitry-tv.my1.ru/his/01/CH_RMTV24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTV_7.m3u8
+#EXTINF:0,http://dmitry-tv.ddns.net:2/his/CH_NTVSERIAL
+#EXTINF:0,http://dmitry-tv.ddns.net:3/his/CH_NTVSTYLE
+#EXTINF:0,http://dmitry-tv.ddns.net:4/his/CH_NTVPRAVO
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_5TV_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIAK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIAK_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIA24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUSSIARTR.m3u8
+#EXTINF:0,2x2
+http://dmitry-tv.my1.ru/his/01/CH_2X2.m3u8
+#EXTINF:0,2x2 HD (auto)
+https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565199976/1e35f601a1ecd232861199731ef58c2d/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SHAYAN_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SHAYANHD_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SZHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_OTR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVC_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RENTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RENTV_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RENTV_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STV_BLRUS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SPAS_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SOYUZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MUZSOYUZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STS_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STS_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DOMASHNIY_7.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_TV3_7.m3u8
+#EXTINF:0,TV1000 rtmp://erostv.cdnvideo.ru/erostv/erostv.sdp
+#EXTINF:0,TV XXI (VRT.TV)
+http://dmitry-tv.my1.ru/his/02/CH_VRT_TV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NIKATV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_AIST_IRK.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_UNKNOWN_PLANETHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
+#EXTINF:0,CGTN
+http://dmitry-tv.my1.ru/his/01/CH_CGTNENG.m3u8
+#EXTINF:0,CGTN Espanol
+http://dmitry-tv.my1.ru/his/01/CH_CGTNES.m3u8
+#EXTINF:0,CGTN Francais
+http://dmitry-tv.my1.ru/his/01/CH_CGTNFR.m3u8
+#EXTINF:0,CGTN Arabic
+http://dmitry-tv.my1.ru/his/01/CH_CGTNAR.m3u8
+#EXTINF:0,CGTN http://dmitry-tv.my1.ru/his/01/CH_CGTNRUS.m3u8
+#EXTINF:0,CGTN Documentary
+http://dmitry-tv.my1.ru/his/01/CH_CGTNDOC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOSKVA24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_ZVEZDA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_ZVEZDAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_ZVEZDA_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIRHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_2.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_4.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_PREMIUMHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR24HD.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TNT_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV-6_KURSK.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
+#EXTINF:0,https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
+#EXTINF:0,8 http://dmitry-tv.my1.ru/his/01/CH_8CHANNEL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MUZTV_7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RADIOHIT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RADIOHITHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TNTMUSICHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NASHETV.m3u8
+#EXTINF:0,RUSSIAN MUSIC BOX
+http://dmitry-tv.my1.ru/his/01/CH_MUSICBOXRU.m3u8
+#EXTINF:0,MUSIC BOX [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_MUSICBOXUA.m3u8
+#EXTINF:0,MUSIC BOX [UA] (4x3)
+http://dmitry-tv.my1.ru/his/ua/CH_MUSICBOXUA_43.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_SHANSONTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NOVOERADIOHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_STRANAFMHD_720.m3u8
+#EXTINF:0,TRACE AFRICA HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_AFRICAHD_720.m3u8
+#EXTINF:0,TRACE KITOKO HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_KITOKOHD_720.m3u8
+#EXTINF:0,TRACE TROPICAL HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_TROPICALHD_720.m3u8
+#EXTINF:0,TRACE TOCA HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_TOCAHD_720.m3u8
+#EXTINF:0,TRACE NAIJA HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRACE_NAIJAHD_720.m3u8
+#EXTINF:0,OCKO HITY
+http://dmitry-tv.my1.ru/his/01/CH_OCKOHITY.m3u8
+#EXTINF:0,OCKO EXPRES
+http://dmitry-tv.my1.ru/his/01/CH_OCKOEXPRES_PM.m3u8
+#EXTINF:0,OCKO STAR
+http://dmitry-tv.my1.ru/his/01/CH_OCKOSTAR.m3u8
+#EXTINF:0,KRAL HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_KRALHD_720.m3u8
+#EXTINF:0,KRAL POP HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_KRALPOPHD_720.m3u8
+#EXTINF:0,1 http://dmitry-tv.my1.ru/his/01/CH_1BAL_MUZ.m3u8
+#EXTINF:0,RTL 102.5 HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_RTL102_5HD_720.m3u8
+#EXTINF:0,Glas Drine Music Tv HD (720p)
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:0,MTV Norway
+http://dmitry-tv.my1.ru/his/01/CH_MTVNO.m3u8
+#EXTINF:0,MTV Norway HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_MTVNOHD_720.m3u8
+#EXTINF:0,1 MUSIC CHANNEL
+http://dmitry-tv.my1.ru/his/01/CH_1MUSIC_CHANNEL_HU.m3u8
+#EXTINF:0,M2O TV
+http://dmitry-tv.my1.ru/his/01/CH_M2OTV.m3u8
+#EXTINF:0,RETRO MUSIC TV
+http://dmitry-tv.my1.ru/his/01/CH_RETROMUSICTV.m3u8
+#EXTINF:0,OneBY
+http://dmitry-tv.my1.ru/his/01/CH_1MUZ.m3u8
+#EXTINF:0,OneBY HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_1MUZHD_720.m3u8
+#EXTINF:0,OneBY HD
+http://rtmp.one.by:1300
+#EXTINF:0,OneBY RUS
+http://rtmp.one.by:2200
+#EXTINF:0,OneBY RUS HD
+http://rtmp.one.by:2300
+#EXTINF:0,UTV MUSIC
+http://dmitry-tv.my1.ru/his/02/CH_UTVMUSIC.m3u8
+#EXTINF:0,BEZ HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_BEZHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TIVISIHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TUGANTEL.m3u8
+#EXTINF:0,21+ (http://tv21.inmurmansk.ru/full_stream.flv
+#EXTINF:0,31 http://dmitry-tv.my1.ru/his/01/CH_31CHANNEL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_U.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_UTV_CHR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ECHOTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ECHOTV24_EKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_BST.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KTK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RBK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RBK_UFA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_VSA_UFA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTMSD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTMHD_720.m3u8
+#EXTINF:0,UTV HD (720p) (http://dmitry-tv.my1.ru/his/02/CH_UTVHD_720_PERM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_CENTRKRSN_HD_720_KRSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_BELGOROD24_BELG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KUBAN24_ORBITA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SPB.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_REDLINE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NTSHD_SEVASTOPL.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_LVREMYA_LIPETSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NVREMYA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NVREMYAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVREMYA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NEWMIR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_M_IDEY_HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ONTV.m3u8
+#EXTINF:0,1-http://dmitry-tv.my1.ru/his/01/CH_1RNKHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TBN.m3u8
+#EXTINF:0,http://194.158.218.123:1000/hls/index.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DUMATVHD_720.m3u8
+#EXTINF:0,France 24 (English)
+http://dmitry-tv.my1.ru/his/01/CH_FRANCE24_EN.m3u8
+#EXTINF:0,France 24 (Francais)
+http://dmitry-tv.my1.ru/his/01/CH_FRANCE24_FR.m3u8
+#EXTINF:0,France 24 (Arabic)
+http://dmitry-tv.my1.ru/his/01/CH_FRANCE24_AR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_BELARUS24HD_720.m3u8
+#EXTINF:0,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:0,Ocean TV HD
+http://dmitry-tv.my1.ru/his/01/CH_OCEANTVHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ITV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DON24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DON24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIR_BELOGORIAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ORT_OREN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TATARSTAN24.m3u8
+#EXTINF:0,TMTV (http://dmitry-tv.my1.ru/his/02/CH_TMTV_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_VOLGOGRAD24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MILLETHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NVC_SAHAHD_YKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_YKT24HD_YKT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_YAMREG.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV7.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV7HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVR24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TIVICOM_UUDEHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TKR_RYAZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_URFO24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_UGRA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TVOETV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SVOETV_STAVR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TNVPLANETA_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TNVT_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_MAIDAN_KZN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KURAY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TAMYR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_EFIR.m3u8
+#EXTINF:0,http://95.46.208.8:26259/nashe
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MIG_TVHD_YNF_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SOCHI24HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_TV86.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DAGESTAN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_DAGESTANHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_EXPRES_PENZAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NN24HD_720_NN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_NNTVHD_720_NN.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_LDPRTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SEVER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RUS_SEVER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ARKHIZ24HD_720_CHERKS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ILLITVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOSOBRTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MOSOBRTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_MYUDM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_OTV_PRIMORE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_O_T_V.m3u8
+#EXTINF:0,OHT [BY]
+http://dmitry-tv.my1.ru/his/01/CH_OHT_BY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/02/CH_VETTA24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ELARNA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KALEYDOSKOPTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_GOVORITMOSKVAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_GROZNY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_GUBERNIA_SAMARA.m3u8
+#EXTINF:0,TV http://dmitry-tv.my1.ru/his/02/CH_TVGUBERNIA_VRZH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_IYUNHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_1KRYM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_24KRYM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_24KRYMHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_PRODVIZHENIE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_RZHDTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_SINERGIYAHD_720.m3u8
+#EXTINF:0,UNIVER (http://dmitry-tv.my1.ru/his/02/CH_UNIVER_KZN.m3u8
+#EXTINF:0,UNIVER HD (http://dmitry-tv.my1.ru/his/02/CH_UNIVERHD_KZN.m3u8
+#EXTINF:0,Top Shop TV
+http://dmitry-tv.my1.ru/his/02/CH_TOPSHOP.m3u8
+#EXTINF:0,LUXURY
+http://dmitry-tv.my1.ru/his/01/CH_LUXURY.m3u8
+#EXTINF:0,LUXURY HD
+http://dmitry-tv.my1.ru/his/01/CH_LUXURYHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ASTRAKHANRULIVEHD_ASTRH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ASTRAKHAN24_ASTRH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_ASTRAKHAN24HD_ASTRH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_PORTALFOXMIXTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_HUZURTVHD_720.m3u8
+#EXTINF:0,360°
+http://dmitry-tv.my1.ru/his/01/CH_360TV.m3u8
+#EXTINF:0,360° HD
+http://dmitry-tv.my1.ru/his/01/CH_360TVHD.m3u8
+#EXTINF:0,360° http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWS.m3u8
+#EXTINF:0,360° http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWSHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_KHABAR24HD.m3u8
+#EXTINF:0,KAZAKH TV [RU] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVRUHD.m3u8
+#EXTINF:0,KAZAKH TV [KZ] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVKZHD.m3u8
+#EXTINF:0,KAZAKH TV [EN] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVENHD.m3u8
+#EXTINF:0,KAZAKH TV [KG] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVKGHD.m3u8
+#EXTINF:0,KAZAKH TV [UZ] HD
+http://dmitry-tv.my1.ru/his/01/CH_KAZAKHTVUZHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/01/CH_EURONOVOSTI.m3u8
+#EXTINF:0,IZ.RU
+http://dmitry-tv.my1.ru/his/01/CH_IZRU.m3u8
+#EXTINF:0,IZ.RU HD
+http://dmitry-tv.my1.ru/his/01/CH_IZRUHD.m3u8
+#EXTINF:0,DW (English)
+http://dmitry-tv.my1.ru/his/01/CH_DW_ENGLISH.m3u8
+#EXTINF:0,DW (Deutsch)
+http://dmitry-tv.my1.ru/his/01/CH_DW_DEUTSCH.m3u8
+#EXTINF:0,DW (Deutsch+)
+http://dmitry-tv.my1.ru/his/01/CH_DW_DEUTSCH_PLUS.m3u8
+#EXTINF:0,DW (Espanol)
+http://dmitry-tv.my1.ru/his/01/CH_DW_ESPANOL.m3u8
+#EXTINF:0,DW
+http://dmitry-tv.my1.ru/his/01/CH_DW.m3u8
+#EXTINF:0,KRATU [UA]
+http://dmitry-tv.my1.ru/his/01/CH_KRATU.m3u8
+#EXTINF:0,TV5MONDE INFO HD
+http://dmitry-tv.my1.ru/his/02/CH_TV5MONDEINFOHD.m3u8
+#EXTINF:0,WDR HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_WDRHD_720.m3u8
+#EXTINF:0,SGDF 24 HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_SGDF24HD_720.m3u8
+#EXTINF:0,Star HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_STARTVHD_720.m3u8
+#EXTINF:0,TRT 1
+http://dmitry-tv.my1.ru/his/02/CH_TRT1.m3u8
+#EXTINF:0,TRT 1 HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRT1HD_720.m3u8
+#EXTINF:0,TRT AVAZ
+http://dmitry-tv.my1.ru/his/02/CH_TRTAVAZ.m3u8
+#EXTINF:0,TRT AVAZ HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTAVAZHD_720.m3u8
+#EXTINF:0,TRT COCUK
+http://dmitry-tv.my1.ru/his/02/CH_TRTCOCUK.m3u8
+#EXTINF:0,TRT COCUK HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTCOCUKHD_720.m3u8
+#EXTINF:0,TRT HABER
+http://dmitry-tv.my1.ru/his/02/CH_TRTHABER.m3u8
+#EXTINF:0,TRT HABER HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTHABERHD_720.m3u8
+#EXTINF:0,TRT KURDI
+http://dmitry-tv.my1.ru/his/02/CH_TRTKURDI.m3u8
+#EXTINF:0,TRT KURDI HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTKURDIHD_720.m3u8
+#EXTINF:0,TRT MUZIK
+http://dmitry-tv.my1.ru/his/02/CH_TRTMUZIK.m3u8
+#EXTINF:0,TRT MUZIK HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_TRTMUZIKHD_720.m3u8
+#EXTINF:0,Djing
+http://dmitry-tv.my1.ru/his/01/CH_DJING.m3u8
+#EXTINF:0,Djing Ibiza
+http://dmitry-tv.my1.ru/his/01/CH_DJING_IBIZA.m3u8
+#EXTINF:0,Djing Classics
+http://dmitry-tv.my1.ru/his/01/CH_DJING_CLASSICS.m3u8
+#EXTINF:0,Djing Animation
+http://dmitry-tv.my1.ru/his/01/CH_DJING_ANIMATION.m3u8
+#EXTINF:0,Djing Underground
+http://dmitry-tv.my1.ru/his/01/CH_DJING_UNDERGROUND.m3u8
+#EXTINF:0,Djing Summer Vibes
+http://dmitry-tv.my1.ru/his/01/CH_DJING_SUMMERVIBES.m3u8
+#EXTINF:0,Djing Summer Vibes HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_SUMMERVIBESHD_720.m3u8
+#EXTINF:0,Djing Electro Rock
+http://dmitry-tv.my1.ru/his/01/CH_DJING_ELECTROROCK.m3u8
+#EXTINF:0,Djing Electro Rock HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_ELECTROROCKHD_720.m3u8
+#EXTINF:0,Djing French touch
+http://dmitry-tv.my1.ru/his/01/CH_DJING_FRENCHTOUCH.m3u8
+#EXTINF:0,Djing French touch HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_FRENCHTOUCHHD_720.m3u8
+#EXTINF:0,Djing Karaoke
+http://dmitry-tv.my1.ru/his/01/CH_DJING_KARAOKE.m3u8
+#EXTINF:0,Djing Karaoke HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_KARAOKEHD_720.m3u8
+#EXTINF:0,Djing Hedonist
+http://dmitry-tv.my1.ru/his/01/CH_DJING_HEDONIST.m3u8
+#EXTINF:0,Djing Hedonist HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_HEDONISTHD_720.m3u8
+#EXTINF:0,Djing Avicii
+http://dmitry-tv.my1.ru/his/01/CH_DJING_AVICII.m3u8
+#EXTINF:0,Djing Avicii HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_DJING_AVICIIHD_720.m3u8
+#EXTINF:0,Red Bull TV HD
+http://dmitry-tv.my1.ru/his/01/CH_REDBULLTVHD.m3u8
+#EXTINF:0,ALJAZEERA ENGLISH
+http://dmitry-tv.my1.ru/his/01/CH_ALJAZEERAENGLISH.m3u8
+#EXTINF:0,ALJAZEERA ENGLISH HD
+http://dmitry-tv.my1.ru/his/01/CH_ALJAZEERAENGLISHHD.m3u8
+#EXTINF:0,Almaty TV HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_ALMATYTVHD_720.m3u8
+#EXTINF:0,Atameken HD (720p) (http://dmitry-tv.my1.ru/his/01/CH_ATAMEKENHD_720.m3u8
+#EXTINF:0,AKAMAI
+http://dmitry-tv.my1.ru/his/01/CH_AKAMAI.m3u8
+#EXTINF:0,AKAMAI HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_AKAMAIHD_720.m3u8
+#EXTINF:0,Brodilo TV HD (720p)
+http://brodilo.tv/channel.php
+#EXTINF:0,CBSN
+http://dmitry-tv.my1.ru/his/01/CH_CBSN.m3u8
+#EXTINF:0,CBSN HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_CBSNHD_720.m3u8
+#EXTINF:0,JOJ HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_JOJHD_720.m3u8
+#EXTINF:0,This IS Bulgaria HD (720p)
+http://dmitry-tv.my1.ru/his/02/CH_THISISBULGARIAHD_720.m3u8
+#EXTINF:0,112 http://dmitry-tv.my1.ru/his/ua/CH_112UKRAINA.m3u8
+#EXTINF:0,112 http://dmitry-tv.my1.ru/his/ua/CH_112UKRAINAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8
+#EXTINF:0,ATR [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_ATR.m3u8
+#EXTINF:0,UA TV HD (720p) [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_UATVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_NADIAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_3CIFROVOY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_OTVHD_720.m3u8
+#EXTINF:0,M2 HD (720p) [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_M2HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_1TVKRHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_1TVODESSAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_1TVDELOVOYHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_NTK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_INTER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_K1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_A1_ODESSA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_A1_ODESSAHD_720.m3u8
+#EXTINF:0,VOTV http://dmitry-tv.my1.ru/his/ua/CH_VOTV_VOZROZHDENIEHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_DUMSKAYATV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_DUMSKAYATVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_ZDOROVE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_REPORTER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_SVAROZHICHITVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_KRUG.m3u8
+#EXTINF:0,7 http://dmitry-tv.my1.ru/his/ua/CH_7CHANNELHD_720.m3u8
+#EXTINF:0,G TV (http://dmitry-tv.my1.ru/his/ua/CH_GTV.m3u8
+#EXTINF:0,G TV (http://dmitry-tv.my1.ru/his/ua/CH_GTVHD_720.m3u8
+#EXTINF:0,TV5 (http://dmitry-tv.my1.ru/his/ua/CH_TV5.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/ua/CH_U_VOLNAHD_720.m3u8
+#EXTINF:0,ID Fashion [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_IDFASHION.m3u8
+#EXTINF:0,ID Fashion HD [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_IDFASHIONHD.m3u8
+#EXTINF:0,CCTV [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV.m3u8
+#EXTINF:0,CCTV-1 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-1HD.m3u8
+#EXTINF:0,CCTV-2 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-2.m3u8
+#EXTINF:0,CCTV-2 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-2HD.m3u8
+#EXTINF:0,CCTV-3 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-3HD.m3u8
+#EXTINF:0,CCTV-4 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-4.m3u8
+#EXTINF:0,CCTV-5 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-5HD.m3u8
+#EXTINF:0,CCTV-5+ HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-5_PLYUSHD.m3u8
+#EXTINF:0,CCTV-6 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-6HD.m3u8
+#EXTINF:0,CCTV-7 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-7.m3u8
+#EXTINF:0,CCTV-7 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-7HD.m3u8
+#EXTINF:0,CCTV-8 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-8HD.m3u8
+#EXTINF:0,CCTV-9 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-9HD.m3u8
+#EXTINF:0,CCTV-10 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-10.m3u8
+#EXTINF:0,CCTV-10 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-10HD.m3u8
+#EXTINF:0,CCTV-11 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-11.m3u8
+#EXTINF:0,CCTV-12 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-12.m3u8
+#EXTINF:0,CCTV-12 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-12HD.m3u8
+#EXTINF:0,CCTV-13 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-13.m3u8
+#EXTINF:0,CCTV-14 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14.m3u8
+#EXTINF:0,CCTV-14 HD (720p) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14HD_720.m3u8
+#EXTINF:0,CCTV-14 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14HD.m3u8
+#EXTINF:0,CCTV-15 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-15.m3u8
+#EXTINF:0,NNTV [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NNTV.m3u8
+#EXTINF:0,CETV-1 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CETV-1.m3u8
+#EXTINF:0,CGTN [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CGTN.m3u8
+#EXTINF:0,CGTN Documentary [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CGTN_DOCUMENTARY.m3u8
+#EXTINF:0,NEWTV Super variety [cctv.com] HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERVARIETYHD.m3u8
+#EXTINF:0,NEWTV Super sports [cctv.com] HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERSPORTSHD.m3u8
+#EXTINF:0,NEWTV Super drama HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERDRAMAHD.m3u8
+#EXTINF:0,NEWTV Super movie HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERMOVIEHD.m3u8
+#EXTINF:0,X HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_XHD.m3u8
+#EXTINF:0,NEWTV HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTVHD.m3u8
+#EXTINF:0,Blackberry HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_BLACKBERRYHD.m3u8
+#EXTINF:0,BTV HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_BTVHD.m3u8
+#EXTINF:0,HRB [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_HRB.m3u8
+#EXTINF:0,HRB HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_HRBHD.m3u8
+#EXTINF:0,D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:0,Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:0,360°
+http://dmitry-tv.my1.ru/his/yatv/CH_360TV.m3u8
+#EXTINF:0,360° http://dmitry-tv.my1.ru/his/yatv/CH_360NEWS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INTHD.m3u8
+#EXTINF:0,RT
+http://dmitry-tv.my1.ru/his/yatv/CH_RT.m3u8
+#EXTINF:0,RT HD
+http://dmitry-tv.my1.ru/his/yatv/CH_RTHD.m3u8
+#EXTINF:0,RThttp://dmitry-tv.my1.ru/his/yatv/CH_RTD.m3u8
+#EXTINF:0,RThttp://dmitry-tv.my1.ru/his/yatv/CH_RTDHD.m3u8
+#EXTINF:0,HD Media
+http://dmitry-tv.my1.ru/his/yatv/CH_HDMEDIA.m3u8
+#EXTINF:0,HD Media HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_HDMEDIAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NASHASIBIR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NASHASIBIRHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MOVIECLASSIC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MOVIECLASSICHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOVETSKOEKINO.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOVMULT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOCHI24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOCHI24HD.m3u8
+#EXTINF:0,Sochi live SD
+http://dmitry-tv.my1.ru/his/yatv/CH_SOCHILIVESD.m3u8
+#EXTINF:0,Sochi live HD
+http://dmitry-tv.my1.ru/his/yatv/CH_SOCHILIVEHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ROSTOVPAPA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ROSTOVPAPAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SVOETVHD_STAVR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_1TULSKIY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_1TULSKIYHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MIRUVLECHENIY.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_BASHKORTOSTAN24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_BASHKORTOSTAN24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OSETIYA_IRYSTON.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OSETIYA_IRYSTONHD.m3u8
+#EXTINF:0,France 24
+http://dmitry-tv.my1.ru/his/yatv/CH_FRANCE24.m3u8
+#EXTINF:0,France 24 HD
+http://dmitry-tv.my1.ru/his/yatv/CH_FRANCE24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_RBK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_BST.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TVC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZVEZDA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MUZTV.m3u8
+#EXTINF:0,0!2
+http://dmitry-tv.my1.ru/his/yatv/CH_02.m3u8
+#EXTINF:0,0!2 HD
+http://dmitry-tv.my1.ru/his/yatv/CH_02HD.m3u8
+#EXTINF:0,RUTV
+http://dmitry-tv.my1.ru/his/yatv/CH_RUTV.m3u8
+#EXTINF:0,RUTV HD
+http://dmitry-tv.my1.ru/his/yatv/CH_RUTVHD.m3u8
+#EXTINF:0,RUSSIAN MUSIC BOX
+http://dmitry-tv.my1.ru/his/yatv/CH_MUSICBOXRU.m3u8
+#EXTINF:0,RUSSIAN MUSIC BOX HD
+http://dmitry-tv.my1.ru/his/yatv/CH_MUSICBOXRUHD.m3u8
+#EXTINF:0,FreshTV
+http://dmitry-tv.my1.ru/his/yatv/CH_FRESHTV.m3u8
+#EXTINF:0,FreshTV HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_FRESHTVHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_NASHETV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TNTMUSIC.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TNTMUSICHD.m3u8
+#EXTINF:0,HiTV
+http://dmitry-tv.my1.ru/his/yatv/CH_HITV.m3u8
+#EXTINF:0,HiTV HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_HITVHD_720.m3u8
+#EXTINF:0,AIVA
+http://dmitry-tv.my1.ru/his/yatv/CH_AIVA.m3u8
+#EXTINF:0,AIVA HD
+http://dmitry-tv.my1.ru/his/yatv/CH_AIVAHD.m3u8
+#EXTINF:0,World Fashion Channel
+http://dmitry-tv.my1.ru/his/yatv/CH_WFCTV.m3u8
+#EXTINF:0,World Fashion Channel HD
+http://dmitry-tv.my1.ru/his/yatv/CH_WFCTVHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OPENMIR.m3u8
+#EXTINF:0,Ocean TV
+http://dmitry-tv.my1.ru/his/yatv/CH_OCEANTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_AIST_IRK.m3u8
+#EXTINF:0,8 http://dmitry-tv.my1.ru/his/yatv/CH_8CHANNEL_KRSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OKINO.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZHARPTITCA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZHARPTITCAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TAMYR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_DOZHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_DOZHDHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_KHABAR24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_KHABAR24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_AFONTOVO.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_EURONEWS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SPB.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_REDLINIYA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ANEKDOT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTS.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTSHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_START.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_STARTHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MIRPREMIUM.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MIRPREMIUMHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MIRSERIALA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_B_AZIA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_B_AZIAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_CTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_EFIR.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_RATNIK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_RATNIKHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INT.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INTHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_UNKNOWN_PLANET.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_UNKNOWN_PLANETHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_3ANGELA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_3ANGELAHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_PESIKO.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TNOMER.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MUZSOYUZ.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_EKHOTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTV24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_OTV24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_PRODVIZHENIE.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_PRODVIZHENIEHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITAHD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TOMSKVREMYA_TOMSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_TOMSKVREMYAHD_TOMSK.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_PROBIZNES.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_INFO24SD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_USPEKH.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_DON24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_DON24HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_KATUN24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_RADOSTMOYA.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VOLGOGRAD1.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VOLGOGRAD1HD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VOLGOGRAD24.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_VOLGOGRAD24HD_720.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_SOVSEK.m3u8
+#EXTINF:0,RTG SD
+http://dmitry-tv.my1.ru/his/yatv/CH_RTGSD.m3u8
+#EXTINF:0,RTG HD
+http://dmitry-tv.my1.ru/his/yatv/CH_RTGHD.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MATURTV.m3u8
+#EXTINF:0,http://dmitry-tv.my1.ru/his/yatv/CH_MATURTVHD.m3u8
+#EXTINF:0,IPTV => Playlist-03 [Ukrainian]
+http://dmitry-tv.my1.ru/iptv/Playlist-03.m3u
+#EXTINF:0,D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:0,Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:0,CCTV [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV.m3u8
+#EXTINF:0,CCTV-1 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-1HD.m3u8
+#EXTINF:0,CCTV-2 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-2.m3u8
+#EXTINF:0,CCTV-2 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-2HD.m3u8
+#EXTINF:0,CCTV-3 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-3HD.m3u8
+#EXTINF:0,CCTV-4 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-4.m3u8
+#EXTINF:0,CCTV-5 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-5HD.m3u8
+#EXTINF:0,CCTV-5+ HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-5_PLYUSHD.m3u8
+#EXTINF:0,CCTV-6 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-6HD.m3u8
+#EXTINF:0,CCTV-7 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-7.m3u8
+#EXTINF:0,CCTV-7 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-7HD.m3u8
+#EXTINF:0,CCTV-8 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-8HD.m3u8
+#EXTINF:0,CCTV-9 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-9HD.m3u8
+#EXTINF:0,CCTV-10 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-10.m3u8
+#EXTINF:0,CCTV-10 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-10HD.m3u8
+#EXTINF:0,CCTV-11 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-11.m3u8
+#EXTINF:0,CCTV-12 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-12.m3u8
+#EXTINF:0,CCTV-12 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-12HD.m3u8
+#EXTINF:0,CCTV-13 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-13.m3u8
+#EXTINF:0,CCTV-14 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14.m3u8
+#EXTINF:0,CCTV-14 HD (720p) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14HD_720.m3u8
+#EXTINF:0,CCTV-14 HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-14HD.m3u8
+#EXTINF:0,CCTV-15 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CCTV-15.m3u8
+#EXTINF:0,NNTV [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NNTV.m3u8
+#EXTINF:0,CETV-1 [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CETV-1.m3u8
+#EXTINF:0,CGTN [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CGTN.m3u8
+#EXTINF:0,CGTN Documentary [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_CGTN_DOCUMENTARY.m3u8
+#EXTINF:0,NEWTV Super variety [cctv.com] HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERVARIETYHD.m3u8
+#EXTINF:0,NEWTV Super sports [cctv.com] HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERSPORTSHD.m3u8
+#EXTINF:0,NEWTV Super drama HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERDRAMAHD.m3u8
+#EXTINF:0,NEWTV Super movie HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTV_SUPERMOVIEHD.m3u8
+#EXTINF:0,X HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_XHD.m3u8
+#EXTINF:0,NEWTV HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_NEWTVHD.m3u8
+#EXTINF:0,Blackberry HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_BLACKBERRYHD.m3u8
+#EXTINF:0,BTV HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_BTVHD.m3u8
+#EXTINF:0,HRB [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_HRB.m3u8
+#EXTINF:0,HRB HD [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_HRBHD.m3u8
+#EXTINF:0,NEWTV HD [N/A] (01) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0001.m3u8
+#EXTINF:0,NEWTV HD [N/A] (02) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0002.m3u8
+#EXTINF:0,NEWTV HD [N/A] (03) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0003.m3u8
+#EXTINF:0,NEWTV [N/A] (04) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0004.m3u8
+#EXTINF:0,NEWTV HD [N/A] (05) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0005.m3u8
+#EXTINF:0,NEWTV HD [N/A] (06) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0006.m3u8
+#EXTINF:0,NEWTV HD [N/A] (07) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0007.m3u8
+#EXTINF:0,NEWTV HD [N/A] (08) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0008.m3u8
+#EXTINF:0,NEWTV HD [N/A] (09) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0009.m3u8
+#EXTINF:0,NEWTV HD [N/A] (10) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0010.m3u8
+#EXTINF:0,NEWTV [N/A] (11) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0011.m3u8
+#EXTINF:0,NEWTV HD [N/A] (12) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0012.m3u8
+#EXTINF:0,NEWTV HD [N/A] (13) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0013.m3u8
+#EXTINF:0,NEWTV HD [N/A] (14) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0014.m3u8
+#EXTINF:0,NEWTV [N/A] (15) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0015.m3u8
+#EXTINF:0,NEWTV HD [N/A] (16) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0016.m3u8
+#EXTINF:0,NEWTV [N/A] (17) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0017.m3u8
+#EXTINF:0,NEWTV HD [N/A] (18) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0018.m3u8
+#EXTINF:0,NEWTV HD [N/A] (19) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0019.m3u8
+#EXTINF:0,NEWTV HD [N/A] (20) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0020.m3u8
+#EXTINF:0,Blackberry HD [N/A] (1) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0021.m3u8
+#EXTINF:0,Blackberry HD [N/A] (2) [CN]
+http://dmitry-tv.my1.ru/his/cn/CH_0022.m3u8
+#EXTINF:0,IPTV => Playlist-05 (http://dmitry-tv.my1.ru/iptv/Playlist-05.m3u
+#EXTINF:0,IPTV => http://dmitry-tv.my1.ru/iptv/itv_zabava.m3u
+#EXTINF:0,IPTV => Playlist [http://dmitry-tv.my1.ru/iptv/radio/rus_dtv-radio.m3u
