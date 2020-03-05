@@ -147,7 +147,6 @@ http://live-nntv.cdnvideo.ru/nntv/nntv.sdp/playlist.m3u8
 http://185.163.195.165:8080/10_/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Эфирные HD",PeaceMen HD
 http://serv30.vintera.tv:8081/lee/kontent1/playlist.m3u8
-
 #EXTINF:0 tvg-id="Eurosport4K.uk" group-title="Спортивные",Eurosport4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
 #EXTINF:0 tvg-id="Eurosport1.uk" group-title="Спортивные",Eurosport 1
@@ -562,8 +561,6 @@ http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.m3u8
 http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.m3u8
 #EXTINF:0 tvg-id="SuperTennis.it" group-title="Спортивные",SuperTennis HD
 http://tvport.it-tele.net:8000/04c30af38965b1131a36ad5ceedbd15a?codec=mpeg4
-
-
 #EXTINF:0 tvg-id="Silence TV "group-title="Познавательные" timeshift="336",Silence TV WORLD HD
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:0 tvg-id="Earth TV " group-title="Познавательные"timeshift="336",Earth TV HD
@@ -6069,8 +6066,6 @@ http://hls.kinoplayer.co/hls/M4mma.Mia.Here.We.Go.Again.2018.D.HDRip/playlist.m3
 #EXTINF:0,http://hls.kinoplayer.co/hls/Kickboxer.Retaliation.2017.hdRip/playlist.m3u8
 #EXTINF:0,12 http://hls.kinoplayer.co/hls/Chacun.sa.vie.2017.HDRip/playlist.m3u8
 #EXTINF:0,http://hls.kinoplayer.co/hls/Just.Getting.Started.2017.BDRip/playlist.m3u8
-mp4
-#EXTINF:0,#EXTVLCOPT
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
 http://dl.mults.info/mp4/volshebny_klad.mp4
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
@@ -6245,6 +6240,5 @@ http://dl.mults.info/mp4/funtik3_i_starushka_s_usami.mp4
 http://dl.mults.info/mp4/rovno_v_3_15.mp4
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
 http://dl.mults.info/mp4/ruupload/video/storage/49/ba/49ba587275634216bd82d7d857ede506.mp4
-#EXTINF:0,#E-ca
 
 
